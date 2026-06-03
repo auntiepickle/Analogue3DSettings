@@ -1,6 +1,3862 @@
 {
   "collection_id": "community-best",
-  "version": "0.0.0",
-  "updated": "2026-06-03",
-  "games": {}
+  "version": "0.1.0",
+  "updated": "2026-06-02",
+  "games": {
+    "0149b304": {
+      "title": "Nagano Winter Olympics '98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 210,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "025b1beb": {
+      "title": "Mario Party (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 186,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "02e906a1": {
+      "title": "Mega Man 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 190,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Noticeably increases FPS"
+      }
+    },
+    "03cc04ee": {
+      "title": "Mario Kart 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 184,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "caveats": "Using Unleashed in multiplayer causes the game to run at a much higher speed.\n\nEnhanced results in a very stable framerate (especially in DK Jungle) without apparent gameplay changes."
+      }
+    },
+    "04079b93": {
+      "title": "Super Smash Bros. (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 326,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "04243654": {
+      "title": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 182,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "0498e26e": {
+      "title": "NFL QB Club 2001 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 229,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "06f96131": {
+      "title": "Space Invaders (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 309,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "caveats": "Gameplay: the screen flickers from time to time"
+      }
+    },
+    "079955a7": {
+      "title": "NFL Quarterback Club 98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 231,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "088ca0db": {
+      "title": "Madden NFL 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 177,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "09708fb9": {
+      "title": "BattleTanx - Global Assault (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 35,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "09c9ebf2": {
+      "title": "NFL Quarterback Club 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 230,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "0aa32e3d": {
+      "title": "Mahjong Master (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 181,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "0ac7ff30": {
+      "title": "Body Harvest (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 42,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "0fa0615b": {
+      "title": "Mortal Kombat Trilogy (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 205,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1069f712": {
+      "title": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 104,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1088ed54": {
+      "title": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 84,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Enhanced works the most reliably. Unleashed: plays nicely, but voice lines stop matching up with the text & animation during cut scenes. Screen also jitters during gameplay"
+      }
+    },
+    "111200bd": {
+      "title": "Big Mountain 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 38,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "11860e27": {
+      "title": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 50,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "123d4d7a": {
+      "title": "Batman Beyond - Return of the Joker (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 33,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed runs game too fast (possibly 2X speed)"
+      }
+    },
+    "12e55d5e": {
+      "title": "Lode Runner 3-D (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 171,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "14a38e4f": {
+      "title": "Brunswick Circuit Pro Bowling (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 48,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1558821a": {
+      "title": "Star Wars Episode I - Battle for Naboo (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 314,
+        "observed_firmware": "1.2.6",
+        "observed_region": "USA",
+        "rationale": "Much smoother framerate; obtained all gold medals without any clock issues or enemies/friendlies going too fast",
+        "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      }
+    },
+    "17c5222c": {
+      "title": "1080 Snowboarding (Japan, USA) (En,Ja)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced+"
+        }
+      },
+      "source": {
+        "sheet_row": 4,
+        "observed_firmware": "1.2.4",
+        "observed_region": "USA",
+        "rationale": "Any other mode will make game run too fast (and controls too sensitive)"
+      }
+    },
+    "17e4aeb2": {
+      "title": "International Superstar Soccer 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 142,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "17e9b6a1": {
+      "title": "Goemon's Great Adventure (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 208,
+        "observed_firmware": "1.1.9",
+        "observed_region": "Europe"
+      }
+    },
+    "1935aa23": {
+      "title": "Dual Heroes (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 91,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1977ebb0": {
+      "title": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 331,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1dc8597e": {
+      "title": "WWF Attitude (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 383,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "1e98d321": {
+      "title": "Wayne Gretzky's 3D Hockey '98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 369,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Pushes the FPS to 60 without messing with the game logic."
+      }
+    },
+    "1ef07919": {
+      "title": "World Driver Championship (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 381,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "2034d111": {
+      "title": "Triple Play 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 351,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "20b8e93f": {
+      "title": "Conker's Bad Fur Day (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 67,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Smoother performance"
+      }
+    },
+    "228c0bc9": {
+      "title": "Top Gear Rally 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 348,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "229dd6a9": {
+      "title": "Beetle Adventure Racing! (USA) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 37,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Better framerate",
+        "caveats": "Unleashed causes CPU drivers to drive badly (into walls, missing turns), making the game much easier. They will occasionally rubber band past you though"
+      }
+    },
+    "23a4cf27": {
+      "title": "Virtual Pool 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 362,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "28ab6ca1": {
+      "title": "Top Gear Hyper-Bike (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 345,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "290e8150": {
+      "title": "Cruis'n World (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 70,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "29f97010": {
+      "title": "Resident Evil 2 (USA) (Rev 1)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 282,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed mode results in no dialogue audio in the pre-rendered intro cutscene of Leon and Clair. (Can someone else check this? I just tried and there is audio and dialogue as normal. I'm using 1.2.4)."
+      }
+    },
+    "2a1c8d54": {
+      "title": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 3,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
+      }
+    },
+    "2c00e5f4": {
+      "title": "Cruis'n Exotica (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 68,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "2c389b1c": {
+      "title": "NBA Live 99 (USA) (En,Fr,De,Es,It)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 222,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "2dde91e1": {
+      "title": "Tom Clancy's Rainbow Six (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 340,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "2e74de9c": {
+      "title": "Aidyn Chronicles - The First Mage (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 14,
+        "observed_firmware": "1.2.0",
+        "observed_region": "USA",
+        "rationale": "Better framerate, even on hi-res mode."
+      }
+    },
+    "2fa7d906": {
+      "title": "Knockout Kings 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 167,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed causes game to run too fast"
+      }
+    },
+    "3049173b": {
+      "title": "NFL Blitz 2001 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 227,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "315bd0e7": {
+      "title": "NHL 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 233,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "31eb0049": {
+      "title": "Automobili Lamborghini (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 25,
+        "observed_firmware": "1.2.4",
+        "observed_region": "USA",
+        "rationale": "Faster Gameplay - everything else stays intact"
+      }
+    },
+    "324dfa08": {
+      "title": "Yoshi's Story (USA) (En,Ja)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 389,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "32cb1b48": {
+      "title": "Hey You, Pikachu! (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 133,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "32d9a959": {
+      "title": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 206,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "335e71eb": {
+      "title": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 375,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "33b6a071": {
+      "title": "Rugrats - Scavenger Hunt (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 290,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "34a31993": {
+      "title": "WCW-nWo Revenge (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 374,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "34c2c4a8": {
+      "title": "Knife Edge - Nose Gunner (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 166,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed causes game to run extremely fast"
+      }
+    },
+    "3695a427": {
+      "title": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 380,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "36bc864b": {
+      "title": "Mario Kart 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 184,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "caveats": "Using Unleashed in multiplayer causes the game to run at a much higher speed.\n\nEnhanced results in a very stable framerate (especially in DK Jungle) without apparent gameplay changes."
+      }
+    },
+    "37579204": {
+      "title": "Quake II (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 270,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "377e874d": {
+      "title": "MRC - Multi-Racing Championship (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 206,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "3884976c": {
+      "title": "Ken Griffey Jr.'s Slugfest (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 162,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "3897882c": {
+      "title": "Bomberman 64 - The Second Attack! (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 45,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "39a56f04": {
+      "title": "CyberTiger (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 73,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "3b356814": {
+      "title": "Dr. Mario 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 90,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "3d9cd3dd": {
+      "title": "Snowboard Kids 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 305,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "40bb5e42": {
+      "title": "Robotron 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 287,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "40de0109": {
+      "title": "Diddy Kong Racing (USA) (En,Fr)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 82,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Increases framerate/performance.",
+        "caveats": "Unleashed is mostly fine but does cause Bosses to drive faster, making them much more challenging than intended.\nEnhanced is the best option for performance improvements without drawbacks."
+      }
+    },
+    "431a0df7": {
+      "title": "Rush 2 - Extreme Racing USA (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 291,
+        "observed_firmware": "1.1.9",
+        "observed_region": "Europe"
+      }
+    },
+    "437b3ee6": {
+      "title": "Star Wars - Rogue Squadron (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 316,
+        "observed_firmware": "1.2.6",
+        "observed_region": "USA",
+        "rationale": "Much smoother framerate, no issues noticed from playing through every mission in the campaign.",
+        "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      }
+    },
+    "44fb72e2": {
+      "title": "Tetris 64 (Japan) (En)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 332,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "44fc8855": {
+      "title": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 296,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "45ac86d2": {
+      "title": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 5,
+        "observed_firmware": "1.1.9",
+        "observed_region": "Japan"
+      }
+    },
+    "474fe11b": {
+      "title": "Indiana Jones and the Infernal Machine (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 139,
+        "observed_firmware": "1.2.6",
+        "observed_region": "USA",
+        "rationale": "Much better framerate.",
+        "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      }
+    },
+    "47f55a65": {
+      "title": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 194,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "48283c1b": {
+      "title": "Fox Sports College Hoops '99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 117,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "4923d13b": {
+      "title": "International Track & Field 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 144,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "49326676": {
+      "title": "Turok - Dinosaur Hunter (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 354,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "4a45416e": {
+      "title": "Duke Nukem - Zero Hour (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 94,
+        "observed_firmware": "1.2.0",
+        "observed_region": "USA",
+        "rationale": "Significant framerate improvement. Playing on Hi-Res mode doesn't cause a slideshow anymore"
+      }
+    },
+    "4d845967": {
+      "title": "WCW Nitro (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 372,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "4f9832d9": {
+      "title": "Banjo-Tooie (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 29,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Better framerate"
+      }
+    },
+    "4fb4dd5f": {
+      "title": "WCW Backstage Assault (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 370,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5218eb6c": {
+      "title": "Fighter Destiny 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 112,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "534e58e0": {
+      "title": "Vigilante 8 - 2nd Offense (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 360,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "54baf797": {
+      "title": "Turok 2 - Seeds of Evil (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 352,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "558333cf": {
+      "title": "Tetrisphere (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 333,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "563b66fa": {
+      "title": "Jeremy McGrath Supercross 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 152,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "571f4aa3": {
+      "title": "Castlevania - Legacy of Darkness (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 55,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Framerate improves"
+      }
+    },
+    "572a9139": {
+      "title": "NHL Breakaway 98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 235,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5738bda3": {
+      "title": "NFL Blitz (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 225,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5a98de60": {
+      "title": "Penny Racers (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 251,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5b7cafac": {
+      "title": "Flying Dragon (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 115,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5c02725a": {
+      "title": "NBA in the Zone '98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 216,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "5d49e6d6": {
+      "title": "Off Road Challenge (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 242,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "5da73985": {
+      "title": "WWF No Mercy (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 384,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Reports of its \"infamous slowdown\" is now gone"
+      }
+    },
+    "5e210d99": {
+      "title": "NBA in the Zone 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 218,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6101e995": {
+      "title": "Fighting Force 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 114,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "6153de1c": {
+      "title": "WinBack - Covert Operations (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 377,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6325fa4b": {
+      "title": "Stunt Racer 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 320,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6352a50d": {
+      "title": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 92,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed causes voice lines to play out of sync from text & animations during cut scenes. Gameplay seems ok though."
+      }
+    },
+    "636c6ff8": {
+      "title": "Madden NFL 2002 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 176,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "637fc831": {
+      "title": "Tarzan (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 330,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "646054a7": {
+      "title": "Mario Golf (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 183,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "647e59ff": {
+      "title": "Tonic Trouble (USA) (Rev 1)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 341,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "648266c8": {
+      "title": "Wayne Gretzky's 3D Hockey (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 368,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "6499464b": {
+      "title": "Mission - Impossible (Europe)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 198,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6563ade7": {
+      "title": "Monster Truck Madness 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 201,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6565b3a3": {
+      "title": "Paperboy (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 248,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "663f3ce1": {
+      "title": "StarCraft 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 318,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Increased FPS"
+      }
+    },
+    "6a8078f5": {
+      "title": "Mario Tennis (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 189,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "6bb03f80": {
+      "title": "Mario Party 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 187,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6d6e21df": {
+      "title": "WWF WrestleMania 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 386,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6dae3abb": {
+      "title": "Battlezone - Rise of the Black Dogs (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced+"
+        }
+      },
+      "source": {
+        "sheet_row": 36,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "caveats": "Unleashed duplicates the vertical screen from time to time, making it unplayable"
+      }
+    },
+    "6e251c9d": {
+      "title": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 214,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6e74e8e6": {
+      "title": "Chameleon Twist 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 58,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "6f90dfcb": {
+      "title": "Donkey Kong 64 (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 85,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much smoother framerate",
+        "caveats": "Unleashed: Opening cutscene goes to black screen with no way to advance. Banana Fairy \"blessing\" animation is sometimes skipped after photographing one. Certain minigames may be harder/impossible (Krazy Kong Klamour screen fades out almost immediately after the banana appears)\nAny setting other than \"Force Original Hardware\" will result in cutscene desync issues. There are huge performance advantages to Unleashed/Enhanced/Enhanced+ however if something doesn't work turning it off may be necessary."
+      }
+    },
+    "6fb60ce5": {
+      "title": "Nuclear Strike 64 (Europe) (En,Fr)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 239,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "7093d06a": {
+      "title": "ECW Hardcore Revolution (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 96,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "70ee4483": {
+      "title": "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 75,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "717cb88d": {
+      "title": "Kobe Bryant in NBA Courtside (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 168,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "71858b71": {
+      "title": "Transformers - Beast Wars Transmetals (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 350,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "71b58e1b": {
+      "title": "Carmageddon 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 53,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "71d82dc2": {
+      "title": "Pilotwings 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 254,
+        "observed_firmware": "1.2.1",
+        "observed_region": "USA",
+        "rationale": "Significant improvement in framerate"
+      }
+    },
+    "72ebd4e4": {
+      "title": "South Park (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 306,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "746e6e83": {
+      "title": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 170,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "75fafe2c": {
+      "title": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 349,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Noticeably better framerate"
+      }
+    },
+    "765d40ef": {
+      "title": "Namco Museum 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 211,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7721bb23": {
+      "title": "Deadly Arts (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 77,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "77a46b7c": {
+      "title": "Pokemon Puzzle League (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 256,
+        "observed_firmware": "1.2.4",
+        "observed_region": "USA",
+        "rationale": "Smoother Performance, especially in 3D matches"
+      }
+    },
+    "77a7e487": {
+      "title": "Army Men - Air Combat (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 21,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7809ed5d": {
+      "title": "Rugrats in Paris - The Movie (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 289,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "796528c0": {
+      "title": "Rampage 2 - Universal Tour (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 274,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "7a9cfa1e": {
+      "title": "F-Zero X (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 105,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "7b1917c7": {
+      "title": "All-Star Baseball 2001 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 18,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7bf2d3eb": {
+      "title": "NASCAR 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 213,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7c59b2a4": {
+      "title": "Extreme-G (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 101,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Silky, smooth frame rate compared to \"Force Original Hardware.\""
+      }
+    },
+    "7ca344cc": {
+      "title": "Madden Football 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 173,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7d55eee7": {
+      "title": "NBA in the Zone '99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 217,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "7f1df0fa": {
+      "title": "Super Mario 64 (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 323,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Yes. I did all the game with 120 stars with Unleashed mode (US NTSC version)",
+        "caveats": "No"
+      }
+    },
+    "7f3a3558": {
+      "title": "007 - The World Is Not Enough (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 3,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
+      }
+    },
+    "7fd2d858": {
+      "title": "Shadow Man (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 298,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "81e83731": {
+      "title": "Mahjong 64 (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 179,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "829d3617": {
+      "title": "Castlevania (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 54,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "82f83aa0": {
+      "title": "Premier Manager 64 (Europe)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 264,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "8433d173": {
+      "title": "Iggy's Reckin' Balls (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 138,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "844e2678": {
+      "title": "Mike Piazza's Strike Zone (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 195,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "84d0e2e4": {
+      "title": "GT 64 - Championship Edition (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 126,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Yes, significantly better framerate"
+      }
+    },
+    "86766168": {
+      "title": "Rampage - World Tour (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 275,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "871bbc72": {
+      "title": "Mace - The Dark Age (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 172,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "87607bb7": {
+      "title": "Charlie Blast's Territory (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 59,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "887a8fe3": {
+      "title": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 111,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "89239b0e": {
+      "title": "Donkey Kong 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 85,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much smoother framerate",
+        "caveats": "Unleashed: Opening cutscene goes to black screen with no way to advance. Banana Fairy \"blessing\" animation is sometimes skipped after photographing one. Certain minigames may be harder/impossible (Krazy Kong Klamour screen fades out almost immediately after the banana appears)\nAny setting other than \"Force Original Hardware\" will result in cutscene desync issues. There are huge performance advantages to Unleashed/Enhanced/Enhanced+ however if something doesn't work turning it off may be necessary."
+      }
+    },
+    "89eefc64": {
+      "title": "Bomberman 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced"
+        }
+      },
+      "source": {
+        "sheet_row": 44,
+        "observed_firmware": "1.1.9",
+        "observed_region": "Japan",
+        "rationale": "Better performance, reduces all kind of lags",
+        "caveats": "(no lags = not original) but for casual def. better to enjoy"
+      }
+    },
+    "8a11842c": {
+      "title": "Bomberman Hero (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 46,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "8b0f5e93": {
+      "title": "San Francisco Rush 2049 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 295,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "8b30b5a2": {
+      "title": "Razor Freestyle Scooter (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 278,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "8c6894b8": {
+      "title": "Hercules - The Legendary Journeys (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 131,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "8cad7830": {
+      "title": "Jet Force Gemini (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 153,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "8decd965": {
+      "title": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 299,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "8ea56d16": {
+      "title": "Star Wars - Shadows of the Empire (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 317,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9009a21a": {
+      "title": "Quest 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 271,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Seems to eliminate the occasional lag during big enemies encounters. The lag with Mammon's fire attack seems to be programmed in"
+      }
+    },
+    "903404e6": {
+      "title": "Ms. Pac-Man - Maze Madness (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 207,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "91d646c4": {
+      "title": "Hybrid Heaven (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 135,
+        "observed_firmware": "1.2.0",
+        "observed_region": "USA",
+        "rationale": "Better framerate"
+      }
+    },
+    "924b4b58": {
+      "title": "Wipeout 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 378,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "9292bb08": {
+      "title": "Top Gear Rally (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 347,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "940f1395": {
+      "title": "All-Star Baseball 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 17,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "941dbdc7": {
+      "title": "Mischief Makers (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 197,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "94329154": {
+      "title": "Road Rash 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 284,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "95c1fec7": {
+      "title": "NBA Hangtime (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 215,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "96080d48": {
+      "title": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 55,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Framerate improves"
+      }
+    },
+    "9613a218": {
+      "title": "Mario Party 3 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 188,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9684939c": {
+      "title": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 387,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "96be960f": {
+      "title": "Turok 3 - Shadow of Oblivion (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 353,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "97a533c0": {
+      "title": "Milo's Astro Lanes (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 196,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "98e8864c": {
+      "title": "Worms Armageddon (USA) (En,Fr,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 382,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9908c4c6": {
+      "title": "Nightmare Creatures (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 237,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "9a776b7c": {
+      "title": "California Speed (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 52,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9ad34ab6": {
+      "title": "Dark Rift (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 76,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9b9bb83b": {
+      "title": "Tony Hawk's Pro Skater 3 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 344,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "docs.google.com/spreadsheets/d/1SGo9l_NEzy0ESbWAgqOKAZSFJyXQhAAkZXZcSdZPeBA/edit"
+      }
+    },
+    "9bfffb3f": {
+      "title": "Harvest Moon 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 129,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9df2a0fb": {
+      "title": "Killer Instinct Gold (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 163,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9edbd4a3": {
+      "title": "Bust-A-Move 3 DX (Europe)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 51,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9f9267a7": {
+      "title": "Rocket - Robot on Wheels (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 288,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "9fc50ddd": {
+      "title": "Tony Hawk's Pro Skater 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 343,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a0c63bac": {
+      "title": "WCW vs. nWo - World Tour (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 373,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a146e44d": {
+      "title": "Bug's Life, A (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 10,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a1a099a3": {
+      "title": "Bottom of the 9th (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 47,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a222b3a3": {
+      "title": "Asteroids Hyper 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 24,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a2a5229d": {
+      "title": "Doom 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 86,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "More FPS, No problem found."
+      }
+    },
+    "a2fe0cb3": {
+      "title": "Nuclear Strike 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 239,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "a4398603": {
+      "title": "Derby Stallion 64 (Japan)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 79,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a5ee8965": {
+      "title": "Olympic Hockey 98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 244,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "a63cc09a": {
+      "title": "International Superstar Soccer 2000 (USA) (En,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 141,
+        "observed_firmware": "1.2.4",
+        "observed_region": "All Regions",
+        "caveats": "Any mode but auto causes hi-res mode to run too fast\n\nHi-Res not playable due to screen tearing and gameplay chugging\nDisabling 32bit mode fixes this, but game is too slow / 15fps at max"
+      }
+    },
+    "a73f869f": {
+      "title": "Bio F.R.E.A.K.S. (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 39,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "aa3b76f1": {
+      "title": "NHL Blades of Steel '99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 234,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ab10bd70": {
+      "title": "NFL Blitz - Special Edition (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 228,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ac5f19fa": {
+      "title": "Hydro Thunder (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 136,
+        "observed_firmware": "1.2.0",
+        "observed_region": "USA",
+        "rationale": "Better framerate",
+        "caveats": "Got a black screen once mid game"
+      }
+    },
+    "ac631da0": {
+      "title": "GoldenEye 007 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 2,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Increases framerate/performance."
+      }
+    },
+    "ac73d889": {
+      "title": "NBA Jam 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 220,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ad5cc4e0": {
+      "title": "War Gods (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 366,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "add7a87d": {
+      "title": "Mystical Ninja Starring Goemon (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 209,
+        "observed_firmware": "1.2.0",
+        "observed_region": "?",
+        "rationale": "Significantly improved framerate"
+      }
+    },
+    "adf6fa75": {
+      "title": "Gex 3 - Deep Cover Gecko (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 121,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ae4b8b9f": {
+      "title": "BattleTanx (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 34,
+        "observed_firmware": "1.1.9",
+        "observed_region": "Europe"
+      }
+    },
+    "b04b4109": {
+      "title": "Star Fox 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 312,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "b04bdbdf": {
+      "title": "NHL Breakaway 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 236,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b1ee945c": {
+      "title": "All Star Tennis 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 16,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b372fa05": {
+      "title": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 243,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b393776d": {
+      "title": "Super Mario 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 323,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Yes. I did all the game with 120 stars with Unleashed mode (US NTSC version)",
+        "caveats": "No"
+      }
+    },
+    "b4cdf5d8": {
+      "title": "V-Rally Edition 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 358,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b52c5792": {
+      "title": "Rakugakids (Europe)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 272,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b54ec52b": {
+      "title": "Monopoly (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 200,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b588d00b": {
+      "title": "Tigger's Honey Hunt (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 338,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b5ce1a05": {
+      "title": "Fighters Destiny (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 113,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b7214f05": {
+      "title": "Supercross 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 327,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b862b7f6": {
+      "title": "Blues Brothers 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 41,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b86ab3ba": {
+      "title": "Blast Corps (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 40,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b908e90c": {
+      "title": "South Park Rally (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 307,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "b98e996c": {
+      "title": "S.C.A.R.S. (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 292,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ba0a217e": {
+      "title": "Cruis'n USA (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 69,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "ba12a9a9": {
+      "title": "Madden NFL 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 174,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ba557b6b": {
+      "title": "Hot Wheels - Turbo Racing (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 134,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ba67d4e1": {
+      "title": "Indy Racing 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 140,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ba7f5a1a": {
+      "title": "Star Soldier - Vanishing Earth (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 313,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "bad023df": {
+      "title": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 110,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "bb2a1db7": {
+      "title": "Gex 64 - Enter the Gecko (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 122,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "bc576a02": {
+      "title": "Perfect Dark (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 252,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Increases framerate/performance."
+      }
+    },
+    "bcf9dab5": {
+      "title": "South Park - Chef's Luv Shack (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 308,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "be1523cd": {
+      "title": "Army Men - Sarge's Heroes 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 23,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "be433913": {
+      "title": "Jeopardy! (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 151,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "be5799f3": {
+      "title": "Paper Mario (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 247,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "PAL Version runs great on unleashed, evens out choppy framerate"
+      }
+    },
+    "bf3c8a26": {
+      "title": "Power Rangers - Lightspeed Rescue (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 263,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c05ac90f": {
+      "title": "AeroGauge (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 12,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c22a994f": {
+      "title": "Waialae Country Club - True Golf Classics (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 365,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c240e949": {
+      "title": "Armorines - Project S.W.A.R.M. (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 20,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c2880286": {
+      "title": "NBA Showtime - NBA on NBC (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 223,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed runs game too fast (possibly 2X speed)"
+      }
+    },
+    "c2a949f2": {
+      "title": "Kirby 64 - The Crystal Shards (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 165,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "c3f6f568": {
+      "title": "Banjo-Kazooie (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 28,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Better framerate"
+      }
+    },
+    "c3f94820": {
+      "title": "Star Wars Episode I - Racer (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 315,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Better framerate"
+      }
+    },
+    "c485c444": {
+      "title": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 107,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c538030c": {
+      "title": "Chopper Attack (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 62,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c5c6ed65": {
+      "title": "WWF War Zone (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 385,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c7fc35d3": {
+      "title": "Tony Hawk's Pro Skater (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 342,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c8179ef6": {
+      "title": "Super Bowling (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 322,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "c88d19da": {
+      "title": "Re-Volt (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 279,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Almost solid 60 FPS, some occasional drops"
+      }
+    },
+    "c9ae94fb": {
+      "title": "Vigilante 8 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 359,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "cbdb20e0": {
+      "title": "Army Men - Sarge's Heroes (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 22,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "cbefde54": {
+      "title": "Wheel of Fortune (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 376,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "cbf9dd35": {
+      "title": "All-Star Baseball 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 19,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d0fb7472": {
+      "title": "Excitebike 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 100,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d1610042": {
+      "title": "Monaco Grand Prix (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 199,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d2ac74fa": {
+      "title": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 319,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d30ca662": {
+      "title": "Snowboard Kids (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 304,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d46bd615": {
+      "title": "Tom and Jerry in Fists of Furry (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 339,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d51d95f6": {
+      "title": "Ready 2 Rumble Boxing (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 280,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d5c471b2": {
+      "title": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 276,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d68f2b45": {
+      "title": "Virtual Chess 64 (USA) (En,Fr,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 361,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d7d3a654": {
+      "title": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 252,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "rationale": "Increases framerate/performance."
+      }
+    },
+    "d827b5d2": {
+      "title": "Buck Bumble (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 49,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "d90e6a67": {
+      "title": "WCW Mayhem (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 371,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed causes game to run too fast."
+      }
+    },
+    "d976e47c": {
+      "title": "Turok - Rage Wars (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 355,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "da3391cc": {
+      "title": "NASCAR 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 212,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "caveats": "Unleashed causes game to run too fast"
+      }
+    },
+    "dbcfd54b": {
+      "title": "Scooby-Doo! - Classic Creep Capers (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 297,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "dce98b4c": {
+      "title": "NFL Blitz 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 226,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "dd780abf": {
+      "title": "Magical Tetris Challenge (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 178,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "dd7cbfd6": {
+      "title": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 204,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "de05bebd": {
+      "title": "Mission - Impossible (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 198,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "df587110": {
+      "title": "Command & Conquer (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 66,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "dff3047b": {
+      "title": "NBA Live 2000 (USA) (En,Fr,De,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 221,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e009a99c": {
+      "title": "Madden NFL 2001 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 175,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e0304516": {
+      "title": "Chameleon Twist (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 57,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e0a11622": {
+      "title": "007 - The World Is Not Enough (USA) (v2) (Beta)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 3,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
+      }
+    },
+    "e0ea96b2": {
+      "title": "F1 Pole Position 64 (USA) (En,Fr,De)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 106,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e2207801": {
+      "title": "Forsaken 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 116,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "e2bbf74f": {
+      "title": "Duke Nukem 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 93,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "e30ed745": {
+      "title": "Roadsters (USA) (En,Fr,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 285,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e34100cb": {
+      "title": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 281,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e487fef7": {
+      "title": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 277,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Markedly improves performance in \"Hi-Res\" mode"
+      }
+    },
+    "e5351549": {
+      "title": "Top Gear Overdrive (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 346,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e5cded18": {
+      "title": "Spider-Man (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 311,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "e61e368a": {
+      "title": "Mia Hamm Soccer 64 (USA) (En,Es)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 191,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ead8d623": {
+      "title": "Rally Challenge 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 273,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "eaec4252": {
+      "title": "F-1 World Grand Prix (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 103,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ec4d4431": {
+      "title": "NFL Quarterback Club 99 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 232,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "ee0902de": {
+      "title": "NBA Jam 2000 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 219,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA",
+        "caveats": "Unleased casues game to run too fast. Also sceen flashes black quite frequently."
+      }
+    },
+    "f0280886": {
+      "title": "Mickey's Speedway USA (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 192,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f0e918ff": {
+      "title": "Golden Nugget 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 125,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f3ff6662": {
+      "title": "Destruction Derby 64 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 80,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f43db086": {
+      "title": "Gauntlet Legends (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 119,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?",
+        "rationale": "Much better framerate",
+        "caveats": "Game may crash occasionally regardless of overclock setting. Save often (press start in hub area)"
+      }
+    },
+    "f61d66e3": {
+      "title": "Hexen (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Enhanced+"
+        }
+      },
+      "source": {
+        "sheet_row": 132,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f785edb4": {
+      "title": "International Superstar Soccer '98 (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 143,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f79f53cf": {
+      "title": "Micro Machines 64 Turbo (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Auto"
+        }
+      },
+      "source": {
+        "sheet_row": 193,
+        "observed_firmware": "1.1.9",
+        "observed_region": "?"
+      }
+    },
+    "f7a5d91b": {
+      "title": "Polaris SnoCross (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 261,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    },
+    "fb847357": {
+      "title": "New Tetris, The (USA)",
+      "settings": {
+        "hardware": {
+          "overclock": "Unleashed"
+        }
+      },
+      "source": {
+        "sheet_row": 336,
+        "observed_firmware": "1.1.9",
+        "observed_region": "USA"
+      }
+    }
+  }
 }
