@@ -45,23 +45,48 @@ Q_N64        = "Q184839"
 
 # Q-ID → human label for the small set of N64-relevant genres. Anything not
 # in this map is dropped; tighter than free-text per FILTERS.md.
+# Mapped from the real frequencies surfaced by tools/debug_genres.py against
+# the 269 US carts in this collection. Sub-genres (3D platform game, ice
+# hockey video game, etc.) collapse to their canonical parent so the genre
+# filter doesn't fragment; see FILTERS.md for the canonical list.
 GENRE_CANON = {
-    "Q828322":   "Action",
-    "Q1018713":  "Adventure",
-    "Q1107":     "Action-Adventure",
-    "Q860750":   "Fighting",
-    "Q828326":   "Platformer",
-    "Q604984":   "Platformer",
-    "Q1067369":  "Puzzle",
-    "Q4106152":  "Racing",
-    "Q526877":   "RPG",
-    "Q173814":   "RPG",
-    "Q63451704": "Shooter",
-    "Q336103":   "Shooter",
-    "Q1196129":  "Simulation",
-    "Q839863":   "Sports",
-    "Q208595":   "Strategy",
-    "Q3010474":  "Wrestling",
+    # Action / Action-Adventure
+    "Q270948":    "Action",
+    "Q1755234":   "Action",
+    "Q2070892":   "Action",          # vehicular combat
+    "Q343568":    "Action-Adventure",
+    # Adventure
+    "Q1018713":   "Adventure",
+    # Fighting + wrestling sub-collapses
+    "Q846224":    "Fighting",
+    "Q105221690": "Wrestling",
+    # Platformer (every flavour)
+    "Q828322":    "Platformer",
+    "Q116790461": "Platformer",      # 3D platform game
+    "Q104819482": "Platformer",      # collect-a-thon
+    # Puzzle
+    "Q54767":     "Puzzle",
+    "Q13717398":  "Puzzle",          # maze
+    # Racing
+    "Q860750":    "Racing",
+    # RPG
+    "Q744038":    "RPG",
+    # Shooter (FPS / TPS / shmup all collapse)
+    "Q185029":    "Shooter",         # first-person shooter
+    "Q380266":    "Shooter",         # third-person shooter
+    "Q1044478":   "Shooter",         # shoot 'em up
+    # Sports (every sport)
+    "Q868217":    "Sports",
+    "Q63915391":  "Sports",          # American football
+    "Q63915027":  "Sports",          # basketball
+    "Q71474750":  "Sports",          # ice hockey
+    "Q1478420":   "Sports",          # association football
+    "Q71467408":  "Sports",          # winter sports
+    "Q61719251":  "Sports",          # bowling
+    # Strategy / Sim / Party (small categories)
+    "Q208595":    "Strategy",
+    "Q1196129":   "Simulation",
+    "Q7888616":   "Party",
 }
 
 # SPARQL: resolve title to Q-ID. Matches "instance of (a subclass of) video

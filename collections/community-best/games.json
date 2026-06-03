@@ -21,6 +21,9 @@
           "mobygames": "nagano-winter-olympics-98",
           "igdb": "nagano-winter-olympics-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami"
         ],
@@ -53,6 +56,9 @@
           "mobygames": "mario-party",
           "igdb": "mario-party"
         },
+        "genres": [
+          "Party"
+        ],
         "developers": [
           "Hudson Soft"
         ],
@@ -131,6 +137,9 @@
           "mobygames": "super-smash-bros",
           "igdb": "super-smash-bros"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "HAL Laboratory"
         ],
@@ -176,6 +185,9 @@
           "mobygames": "nfl-qb-club-2001",
           "igdb": "nfl-qb-club-2001"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "High Voltage Software"
         ],
@@ -207,6 +219,9 @@
           "mobygames": "space-invaders________",
           "igdb": "space-invaders"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Taito"
         ],
@@ -237,6 +252,9 @@
           "mobygames": "nfl-quarterback-club-98",
           "igdb": "nfl-quarterback-club-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -269,6 +287,9 @@
           "mobygames": "madden-nfl-99",
           "igdb": "madden-nfl-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Orlando"
         ],
@@ -314,6 +335,9 @@
           "mobygames": "nfl-quarterback-club-2000",
           "igdb": "nfl-quarterback-club-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -346,6 +370,10 @@
           "mobygames": "body-harvest",
           "igdb": "body-harvest"
         },
+        "genres": [
+          "Action-Adventure",
+          "Shooter"
+        ],
         "developers": [
           "Q94893"
         ],
@@ -377,6 +405,9 @@
           "mobygames": "mortal-kombat-trilogy",
           "igdb": "mortal-kombat-trilogy"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Avalanche Software"
         ],
@@ -409,6 +440,9 @@
           "mobygames": "big-mountain-2000",
           "igdb": "big-mountain-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Winning Entertainment Group"
         ],
@@ -467,6 +501,9 @@
           "mobygames": "lode-runner-3d",
           "igdb": "lode-runner-3-d"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "publishers": [
           "Bandai Namco Entertainment"
         ],
@@ -496,6 +533,9 @@
           "mobygames": "brunswick-circuit-pro-bowling",
           "igdb": "brunswick-circuit-pro-bowling"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Point of View"
         ],
@@ -543,6 +583,9 @@
           "mobygames": "international-superstar-soccer-64",
           "igdb": "international-superstar-soccer-64"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami"
         ],
@@ -576,7 +619,7 @@
           "igdb": "goemons-great-adventure"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Konami"
@@ -610,6 +653,9 @@
           "mobygames": "dual-heroes",
           "igdb": "dual-heroes"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Produce!"
         ],
@@ -641,6 +687,10 @@
           "mobygames": "wwf-attitude_",
           "igdb": "wwf-attitude"
         },
+        "genres": [
+          "Fighting",
+          "Wrestling"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -673,6 +723,9 @@
           "mobygames": "wayne-gretzkys-3d-hockey-98",
           "igdb": "wayne-gretzky-s-3d-hockey-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Software Creations"
         ],
@@ -705,7 +758,7 @@
           "igdb": "world-driver-championship"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Boss Game Studios"
@@ -738,6 +791,9 @@
           "mobygames": "triple-play-2000",
           "igdb": "triple-play-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Treyarch"
         ],
@@ -771,7 +827,7 @@
           "igdb": "conker-s-bad-fur-day"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Rare Ltd."
@@ -807,7 +863,7 @@
           "igdb": "top-gear-rally-2"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Saffire"
@@ -844,7 +900,7 @@
           "igdb": "beetle-adventure-racing"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Paradigm Entertainment"
@@ -922,7 +978,7 @@
           "igdb": "cruis-n-world"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Midway Games"
@@ -992,7 +1048,7 @@
           "igdb": "cruisn-exotica"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Midway Games"
@@ -1026,6 +1082,9 @@
           "mobygames": "nba-live-99",
           "igdb": "nba-live-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Vancouver"
         ],
@@ -1058,6 +1117,9 @@
           "mobygames": "tom-clancys-rainbow-six-gold-pack-edition",
           "igdb": "tom-clancy-s-rainbow-six"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Red Storm Entertainment"
         ],
@@ -1134,6 +1196,9 @@
           "mobygames": "nfl-blitz-2001",
           "igdb": "nfl-blitz-2001"
         },
+        "genres": [
+          "Sports"
+        ],
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
@@ -1159,6 +1224,9 @@
           "mobygames": "nhl-99",
           "igdb": "nhl-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Vancouver"
         ],
@@ -1192,7 +1260,7 @@
           "igdb": "automobili-lamborghini"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Titus Interactive"
@@ -1226,7 +1294,7 @@
           "igdb": "yoshi-s-story"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Nintendo Entertainment Analysis & Development"
@@ -1292,6 +1360,9 @@
           "mobygames": "wetrix",
           "igdb": "wetrix"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "publishers": [
           "Ocean Software"
         ],
@@ -1360,6 +1431,9 @@
           "mobygames": "world-cup-98",
           "igdb": "world-cup-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Vancouver"
         ],
@@ -1424,6 +1498,9 @@
           "mobygames": "quake-ii-quad-damage",
           "igdb": "quake-ii--2"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "id Software"
         ],
@@ -1526,6 +1603,9 @@
           "mobygames": "dr-mario-64",
           "igdb": "dr-mario-64"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "developers": [
           "Nintendo"
         ],
@@ -1559,7 +1639,7 @@
           "igdb": "snowboard-kids-2"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Racjin"
@@ -1592,6 +1672,9 @@
           "mobygames": "robotron-64",
           "igdb": "robotron-64"
         },
+        "genres": [
+          "Action"
+        ],
         "publishers": [
           "Crave Entertainment"
         ],
@@ -1623,7 +1706,8 @@
           "igdb": "diddy-kong-racing"
         },
         "genres": [
-          "Fighting"
+          "Action",
+          "Racing"
         ],
         "developers": [
           "Rare Ltd."
@@ -1700,6 +1784,10 @@
           "mobygames": "indiana-jones-and-the-infernal-machine",
           "igdb": "indiana-jones-and-the-infernal-machine"
         },
+        "genres": [
+          "Action-Adventure",
+          "Puzzle"
+        ],
         "developers": [
           "Lucasfilm Games"
         ],
@@ -1744,6 +1832,9 @@
           "mobygames": "fox-sports-college-hoops-99",
           "igdb": "fox-sports-college-hoops-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Underground Development"
         ],
@@ -1833,6 +1924,10 @@
           "mobygames": "wcw-nitro",
           "igdb": "wcw-nitro"
         },
+        "genres": [
+          "Fighting",
+          "Wrestling"
+        ],
         "developers": [
           "Inland Productions"
         ],
@@ -1866,7 +1961,8 @@
           "igdb": "banjo-tooie"
         },
         "genres": [
-          "Action"
+          "Action-Adventure",
+          "Platformer"
         ],
         "developers": [
           "Rare Ltd."
@@ -1900,6 +1996,9 @@
           "mobygames": "wcw-backstage-assault",
           "igdb": "wcw-backstage-assault"
         },
+        "genres": [
+          "Wrestling"
+        ],
         "developers": [
           "Electronic Arts"
         ],
@@ -1982,6 +2081,9 @@
           "mobygames": "tetrisphere",
           "igdb": "tetrisphere"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "publishers": [
           "Nintendo"
         ],
@@ -2011,7 +2113,7 @@
           "igdb": "jeremy-mcgrath-supercross-2000"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Q339228"
@@ -2059,6 +2161,9 @@
           "mobygames": "nhl-breakaway-98",
           "igdb": "nhl-breakaway-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -2090,6 +2195,9 @@
           "mobygames": "nfl-blitz",
           "igdb": "nfl-blitz"
         },
+        "genres": [
+          "Sports"
+        ],
         "series": "NFL Blitz",
         "release_date": "1997-01-01",
         "release_year": 1997,
@@ -2117,7 +2225,7 @@
           "igdb": "penny-racers"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Locomotive Games"
@@ -2151,6 +2259,9 @@
           "mobygames": "flying-dragon",
           "igdb": "sd-hiryuu-no-ken-densetsu"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Culture Brain"
         ],
@@ -2183,6 +2294,9 @@
           "mobygames": "nba-in-the-zone-98",
           "igdb": "nba-in-the-zone-98"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami Computer Entertainment Osaka"
         ],
@@ -2214,7 +2328,7 @@
           "igdb": "off-road-challenge"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Midway Games"
@@ -2248,6 +2362,10 @@
           "mobygames": "wwf-no-mercy",
           "igdb": "wwf-no-mercy"
         },
+        "genres": [
+          "Fighting",
+          "Sports"
+        ],
         "developers": [
           "Asmik Ace Entertainment"
         ],
@@ -2279,6 +2397,9 @@
           "mobygames": "nba-in-the-zone-2000",
           "igdb": "nba-in-the-zone-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami Computer Entertainment Osaka"
         ],
@@ -2338,7 +2459,7 @@
           "igdb": "stunt-racer-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Boss Game Studios"
@@ -2373,7 +2494,7 @@
           "igdb": "duck-dodgers-starring-daffy-duck"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Paradigm Entertainment"
@@ -2406,6 +2527,9 @@
           "mobygames": "madden-nfl-2002____",
           "igdb": "madden-nfl-2002"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Orlando"
         ],
@@ -2439,7 +2563,7 @@
           "igdb": "disneys-tarzan"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Eurocom",
@@ -2475,6 +2599,9 @@
           "mobygames": "mario-golf",
           "igdb": "mario-golf"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Camelot Software Planning"
         ],
@@ -2508,7 +2635,7 @@
           "igdb": "tonic-trouble"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "RFX Interactive",
@@ -2543,6 +2670,9 @@
           "mobygames": "wayne-gretzkys-3d-hockey",
           "igdb": "wayne-gretzky-s-3d-hockey"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "WMS Industries"
         ],
@@ -2575,7 +2705,7 @@
           "igdb": "monster-truck-madness-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Edge of Reality"
@@ -2608,6 +2738,9 @@
           "mobygames": "paperboy",
           "igdb": "paperboy"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "Atari Games"
         ],
@@ -2683,6 +2816,9 @@
           "mobygames": "mario-party-2",
           "igdb": "mario-party-2"
         },
+        "genres": [
+          "Party"
+        ],
         "developers": [
           "Hudson Soft"
         ],
@@ -2715,6 +2851,9 @@
           "mobygames": "wwf-wrestlemania-2000_",
           "igdb": "wwf-wrestlemania-2000"
         },
+        "genres": [
+          "Wrestling"
+        ],
         "developers": [
           "Asmik Ace Entertainment"
         ],
@@ -2774,7 +2913,7 @@
           "igdb": "chameleon-twist-2"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "publishers": [
           "Sun Corporation"
@@ -2804,6 +2943,10 @@
           "mobygames": "ecw-hardcore-revolution",
           "igdb": "ecw-hardcore-revolution"
         },
+        "genres": [
+          "Fighting",
+          "Sports"
+        ],
         "developers": [
           "Q339228"
         ],
@@ -2835,6 +2978,9 @@
           "mobygames": "kobe-bryant-in-nba-courtside",
           "igdb": "kobe-bryant-in-nba-courtside"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Left Field Productions"
         ],
@@ -2926,6 +3072,9 @@
           "mobygames": "south-park",
           "igdb": "south-park"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -2959,7 +3108,7 @@
           "igdb": "lego-racers"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "High Voltage Software"
@@ -3100,7 +3249,7 @@
           "igdb": "f-zero-x"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Nintendo Entertainment Analysis & Development"
@@ -3159,7 +3308,7 @@
           "igdb": "nascar-2000"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "EA Sports"
@@ -3193,6 +3342,9 @@
           "mobygames": "extreme-g",
           "igdb": "extreme-g"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "Acclaim Studios London"
         ],
@@ -3225,6 +3377,9 @@
           "mobygames": "madden-football-64",
           "igdb": "madden-football-64"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Orlando"
         ],
@@ -3257,6 +3412,9 @@
           "mobygames": "nba-in-the-zone-99",
           "igdb": "nba-in-the-zone-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "series": "NBA in the Zone",
         "release_date": "1999-01-01",
         "release_year": 1999,
@@ -3297,6 +3455,9 @@
           "mobygames": "shadow-man",
           "igdb": "shadow-man"
         },
+        "genres": [
+          "Action-Adventure"
+        ],
         "developers": [
           "Acclaim Studios Teesside"
         ],
@@ -3329,6 +3490,9 @@
           "mobygames": "castlevania-",
           "igdb": "castlevania--2"
         },
+        "genres": [
+          "Action-Adventure"
+        ],
         "developers": [
           "Konami"
         ],
@@ -3362,8 +3526,8 @@
           "igdb": "iggy-s-reckin-balls"
         },
         "genres": [
-          "Action",
-          "Fighting"
+          "Platformer",
+          "Racing"
         ],
         "developers": [
           "Acclaim Studios Austin"
@@ -3395,6 +3559,9 @@
           "wikidata": "Q3313495",
           "igdb": "mike-piazza-s-strike-zone"
         },
+        "genres": [
+          "Sports"
+        ],
         "publishers": [
           "Atari, Inc."
         ],
@@ -3492,7 +3659,7 @@
           "igdb": "donkey-kong-64"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Rare Ltd."
@@ -3527,6 +3694,10 @@
           "wikidata": "Q2909712",
           "igdb": "bomberman-64--1"
         },
+        "genres": [
+          "Action",
+          "Puzzle"
+        ],
         "developers": [
           "Racjin"
         ],
@@ -3560,7 +3731,8 @@
           "igdb": "bomberman-hero"
         },
         "genres": [
-          "Action"
+          "Platformer",
+          "Puzzle"
         ],
         "developers": [
           "Hudson Soft"
@@ -3595,7 +3767,7 @@
           "igdb": "san-francisco-rush-2049"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Atari Games",
@@ -3674,6 +3846,9 @@
           "mobygames": "jet-force-gemini",
           "igdb": "jet-force-gemini"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -3732,6 +3907,9 @@
           "mobygames": "quest-64",
           "igdb": "quest-64"
         },
+        "genres": [
+          "RPG"
+        ],
         "developers": [
           "Imagineer"
         ],
@@ -3777,6 +3955,9 @@
           "mobygames": "hybrid-heaven",
           "igdb": "hybrid-heaven"
         },
+        "genres": [
+          "RPG"
+        ],
         "developers": [
           "Konami"
         ],
@@ -3809,7 +3990,7 @@
           "igdb": "wipeout-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "SCE Studio Liverpool"
@@ -3844,7 +4025,7 @@
           "igdb": "top-gear-rally"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Boss Game Studios"
@@ -3905,7 +4086,7 @@
           "igdb": "mischief-makers"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Treasure"
@@ -3938,6 +4119,9 @@
           "mobygames": "road-rash-64",
           "igdb": "road-rash-64"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "Locomotive Games"
         ],
@@ -3970,6 +4154,9 @@
           "mobygames": "nba-hang-time",
           "igdb": "nba-hangtime"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Midway Games"
         ],
@@ -4001,6 +4188,9 @@
           "mobygames": "mario-party-3",
           "igdb": "mario-party-3"
         },
+        "genres": [
+          "Party"
+        ],
         "developers": [
           "Hudson Soft"
         ],
@@ -4059,6 +4249,9 @@
           "mobygames": "milos-astro-lanes",
           "igdb": "milo-s-astro-lanes"
         },
+        "genres": [
+          "Sports"
+        ],
         "publishers": [
           "Crave Entertainment"
         ],
@@ -4155,7 +4348,7 @@
           "igdb": "california-speed"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Atari Games"
@@ -4188,6 +4381,10 @@
           "mobygames": "dark-rift",
           "igdb": "dark-rift"
         },
+        "genres": [
+          "Action",
+          "Fighting"
+        ],
         "developers": [
           "Kronos Digital Entertainment"
         ],
@@ -4220,6 +4417,9 @@
           "mobygames": "tony-hawks-pro-skater-3__",
           "igdb": "tony-hawks-pro-skater-3--2"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Blizzard Albany",
           "Edge of Reality",
@@ -4288,6 +4488,9 @@
           "mobygames": "killer-instinct-gold",
           "igdb": "killer-instinct-gold"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -4390,6 +4593,9 @@
           "mobygames": "bottom-of-the-9th_",
           "igdb": "bottom-of-the-9th"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami"
         ],
@@ -4421,6 +4627,9 @@
           "mobygames": "asteroids-hyper-64",
           "igdb": "asteroids-hyper-64"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Syrox Developments"
         ],
@@ -4454,6 +4663,9 @@
           "mobygames": "doom-64",
           "igdb": "doom-64"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Midway Games"
         ],
@@ -4514,6 +4726,9 @@
           "mobygames": "international-superstar-soccer-2000_",
           "igdb": "international-superstar-soccer-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami"
         ],
@@ -4546,6 +4761,9 @@
           "mobygames": "bio-freaks",
           "igdb": "bio-f-r-e-a-k-s"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Saffire"
         ],
@@ -4577,6 +4795,9 @@
           "mobygames": "nhl-blades-of-steel-99",
           "igdb": "nhl-blades-of-steel-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Konami"
         ],
@@ -4625,7 +4846,7 @@
           "igdb": "hydro-thunder"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Midway Games"
@@ -4660,6 +4881,9 @@
           "mobygames": "goldeneye-007",
           "igdb": "goldeneye-007"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -4692,6 +4916,9 @@
           "mobygames": "nba-jam-99_",
           "igdb": "nba-jam-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -4724,6 +4951,9 @@
           "mobygames": "war-gods",
           "igdb": "war-gods"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Midway Games"
         ],
@@ -4756,6 +4986,10 @@
           "mobygames": "mystical-ninja-starring-goemon_",
           "igdb": "mystical-ninja-starring-goemon"
         },
+        "genres": [
+          "Action-Adventure",
+          "RPG"
+        ],
         "developers": [
           "Konami"
         ],
@@ -4801,6 +5035,9 @@
           "mobygames": "battletanx_",
           "igdb": "battletanx"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "The 3DO Company"
         ],
@@ -4832,6 +5069,9 @@
           "mobygames": "star-fox-64",
           "igdb": "star-fox-64"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Nintendo Entertainment Analysis & Development"
         ],
@@ -4864,6 +5104,9 @@
           "mobygames": "nhl-breakaway-99",
           "igdb": "nhl-breakaway-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -4923,6 +5166,9 @@
           "mobygames": "super-mario-64",
           "igdb": "super-mario-64"
         },
+        "genres": [
+          "Platformer"
+        ],
         "developers": [
           "Nintendo Entertainment Analysis & Development"
         ],
@@ -5032,6 +5278,9 @@
           "mobygames": "fighters-destiny",
           "igdb": "fighters-destiny"
         },
+        "genres": [
+          "Fighting"
+        ],
         "developers": [
           "Genki",
           "Imagineer"
@@ -5066,7 +5315,7 @@
           "igdb": "supercross-2000"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Electronic Arts"
@@ -5100,7 +5349,7 @@
           "igdb": "blues-brothers-2000"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "publishers": [
           "Titus Interactive"
@@ -5130,6 +5379,10 @@
           "mobygames": "blast-corps",
           "igdb": "blast-corps"
         },
+        "genres": [
+          "Action",
+          "Puzzle"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -5162,7 +5415,7 @@
           "igdb": "south-park-rally"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Tantalus Media"
@@ -5197,7 +5450,7 @@
           "igdb": "s-c-a-r-s"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Vivid Image"
@@ -5231,7 +5484,7 @@
           "igdb": "cruis-n-usa"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Midway Games"
@@ -5265,6 +5518,9 @@
           "mobygames": "madden-nfl-2000",
           "igdb": "madden-nfl-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Orlando"
         ],
@@ -5311,7 +5567,7 @@
           "igdb": "indy-racing-2000"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Paradigm Entertainment"
@@ -5357,6 +5613,9 @@
           "mobygames": "fifa-99",
           "igdb": "fifa-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Vancouver"
         ],
@@ -5402,6 +5661,10 @@
           "mobygames": "perfect-dark",
           "igdb": "perfect-dark"
         },
+        "genres": [
+          "Action",
+          "Shooter"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -5492,7 +5755,8 @@
           "igdb": "paper-mario"
         },
         "genres": [
-          "Action"
+          "Platformer",
+          "RPG"
         ],
         "developers": [
           "Intelligent Systems"
@@ -5540,7 +5804,7 @@
           "igdb": "aerogauge"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Locomotive Games"
@@ -5627,6 +5891,9 @@
           "mobygames": "banjo-kazooie",
           "igdb": "banjo-kazooie"
         },
+        "genres": [
+          "Platformer"
+        ],
         "developers": [
           "Rare Ltd."
         ],
@@ -5673,6 +5940,9 @@
           "mobygames": "chopper-attack",
           "igdb": "chopper-attack"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "SETA Corporation"
         ],
@@ -5704,6 +5974,9 @@
           "mobygames": "wwf-war-zone",
           "igdb": "wwf-war-zone"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Sculptured Software"
         ],
@@ -5733,6 +6006,9 @@
           "mobygames": "tony-hawks-pro-skater-",
           "igdb": "tony-hawk-s-pro-skater"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Neversoft"
         ],
@@ -5763,6 +6039,9 @@
           "wikidata": "Q3504117",
           "mobygames": "super-bowling"
         },
+        "genres": [
+          "Sports"
+        ],
         "release_date": "1999-03-26",
         "release_year": 1999,
         "enriched_from": [
@@ -5790,7 +6069,7 @@
           "igdb": "re-volt"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Acclaim Studios London"
@@ -5824,6 +6103,9 @@
           "mobygames": "vigilante-8_",
           "igdb": "vigilante-8--1"
         },
+        "genres": [
+          "Action"
+        ],
         "developers": [
           "Luxoflux"
         ],
@@ -5921,7 +6203,7 @@
           "igdb": "excitebike-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Left Field Productions"
@@ -5955,7 +6237,7 @@
           "mobygames": "monaco-grand-prix-racing-simulation-2"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Ubisoft"
@@ -6002,7 +6284,8 @@
           "igdb": "snowboard-kids"
         },
         "genres": [
-          "Fighting"
+          "Racing",
+          "Sports"
         ],
         "developers": [
           "Racjin"
@@ -6036,7 +6319,7 @@
           "igdb": "tom-and-jerry-in-fists-of-furry"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "VIS Entertainment"
@@ -6098,6 +6381,9 @@
           "mobygames": "rat-attack",
           "igdb": "rat-attack"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "publishers": [
           "Mindscape"
         ],
@@ -6157,6 +6443,10 @@
           "mobygames": "buck-bumble",
           "igdb": "buck-bumble"
         },
+        "genres": [
+          "Action",
+          "Action-Adventure"
+        ],
         "developers": [
           "Argonaut Games"
         ],
@@ -6189,6 +6479,9 @@
           "mobygames": "wcw-mayhem",
           "igdb": "wcw-mayhem"
         },
+        "genres": [
+          "Wrestling"
+        ],
         "developers": [
           "Electronic Arts"
         ],
@@ -6235,7 +6528,7 @@
           "igdb": "nascar-99"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "EA Sports"
@@ -6281,6 +6574,9 @@
           "mobygames": "nfl-blitz-2000",
           "igdb": "nfl-blitz-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
@@ -6306,6 +6602,9 @@
           "mobygames": "magical-tetris-challenge_",
           "igdb": "magical-tetris-challenge"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "developers": [
           "Capcom"
         ],
@@ -6393,6 +6692,9 @@
           "mobygames": "nba-live-2000",
           "igdb": "nba-live-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Sports"
         ],
@@ -6425,6 +6727,9 @@
           "mobygames": "madden-nfl-2001___",
           "igdb": "madden-nfl-2001"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "EA Orlando"
         ],
@@ -6458,7 +6763,7 @@
           "igdb": "chameleon-twist"
         },
         "genres": [
-          "Action"
+          "Platformer"
         ],
         "developers": [
           "Japan System Supply"
@@ -6506,7 +6811,7 @@
           "igdb": "f1-pole-position-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Human Entertainment"
@@ -6552,6 +6857,9 @@
           "mobygames": "duke-nukem-64",
           "igdb": "duke-nukem-64"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "3D Realms"
         ],
@@ -6584,7 +6892,7 @@
           "igdb": "roadsters"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Titus Interactive"
@@ -6645,7 +6953,7 @@
           "igdb": "top-gear-overdrive"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Snowblind Studios"
@@ -6724,7 +7032,7 @@
           "igdb": "rally-challenge-2000"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Genki"
@@ -6789,6 +7097,9 @@
           "mobygames": "nfl-quarterback-club-99",
           "igdb": "nfl-quarterback-club-99"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Acclaim Studios Austin"
         ],
@@ -6820,6 +7131,9 @@
           "mobygames": "nba-jam-2000",
           "igdb": "nba-jam-2000"
         },
+        "genres": [
+          "Sports"
+        ],
         "developers": [
           "Q339228"
         ],
@@ -6853,7 +7167,7 @@
           "igdb": "mickey-s-speedway-usa"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Rare Ltd."
@@ -6918,7 +7232,7 @@
           "igdb": "destruction-derby-64"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Looking Glass Studios"
@@ -6982,6 +7296,9 @@
           "mobygames": "hexen-beyond-heretic",
           "igdb": "hexen-beyond-heretic--1"
         },
+        "genres": [
+          "Shooter"
+        ],
         "developers": [
           "Raven Software"
         ],
@@ -7040,7 +7357,7 @@
           "igdb": "polaris-snocross"
         },
         "genres": [
-          "Fighting"
+          "Racing"
         ],
         "developers": [
           "Blizzard Albany"

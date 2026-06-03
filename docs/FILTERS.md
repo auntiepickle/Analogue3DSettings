@@ -55,8 +55,9 @@ discussion.
 
 ### Genres (initial; extend by PR)
 
-`Action`, `Adventure`, `Fighting`, `Platformer`, `Puzzle`, `Racing`, `RPG`,
-`Shooter`, `Simulation`, `Sports`, `Strategy`, `Wrestling`.
+`Action`, `Action-Adventure`, `Adventure`, `Fighting`, `Party`, `Platformer`,
+`Puzzle`, `Racing`, `RPG`, `Shooter`, `Simulation`, `Sports`, `Strategy`,
+`Wrestling`.
 
 Sub-genres (Action-Adventure, Racing-Kart, etc.) go into `tags[]` so the
 genre filter stays at a usable cardinality.
