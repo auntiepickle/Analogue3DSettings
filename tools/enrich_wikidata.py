@@ -214,11 +214,14 @@ def fetch_details(qid, cache):
                 out["_series_qid"] = v.rsplit("/", 1)[-1]
         elif slot == "release_date":
             # Wikidata returns multiple dates per game (per-platform / per-region
-            # rereleases). Keep the EARLIEST so we get the original N64 release,
-            # not the 2016 Virtual Console re-issue.
+            # rereleases, AND sometimes a franchise-original arcade date going
+            # back to the 70s). Keep the EARLIEST date that plausibly falls
+            # inside the N64 cart's release window — anything before 1996 is
+            # franchise noise, anything after 2003 is a reissue.
             d = v[:10] if v[:10].count("-") == 2 else None
-            if d and (not out.get("release_date") or d < out["release_date"]):
-                out["release_date"] = d
+            if d and "1996-01-01" <= d <= "2003-12-31":
+                if not out.get("release_date") or d < out["release_date"]:
+                    out["release_date"] = d
         elif slot in ("igdb", "mobygames", "metacritic"):
             out["external_ids"][slot] = v
     # Resolve a series Q-ID we collected but couldn't label inline.

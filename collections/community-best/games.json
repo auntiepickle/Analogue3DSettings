@@ -14,6 +14,25 @@
         "sheet_row": 210,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1523264",
+          "mobygames": "nagano-winter-olympics-98",
+          "igdb": "nagano-winter-olympics-98"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Winter Olympic Games",
+        "release_date": "1997-12-18",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "025b1beb": {
@@ -27,6 +46,25 @@
         "sheet_row": 186,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6507722",
+          "mobygames": "mario-party",
+          "igdb": "mario-party"
+        },
+        "developers": [
+          "Hudson Soft"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Mario Party",
+        "release_date": "1998-12-18",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "02e906a1": {
@@ -55,6 +93,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "caveats": "Using Unleashed in multiplayer causes the game to run at a much higher speed.\n\nEnhanced results in a very stable framerate (especially in DK Jungle) without apparent gameplay changes."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1046604",
+          "mobygames": "mario-kart-64",
+          "igdb": "mario-kart-64"
+        },
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1996-12-14",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "04079b93": {
@@ -68,6 +124,25 @@
         "sheet_row": 326,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q870981",
+          "mobygames": "super-smash-bros",
+          "igdb": "super-smash-bros"
+        },
+        "developers": [
+          "HAL Laboratory"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Super Smash Bros.",
+        "release_date": "1999-01-21",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "04243654": {
@@ -94,6 +169,23 @@
         "sheet_row": 229,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6953742",
+          "mobygames": "nfl-qb-club-2001",
+          "igdb": "nfl-qb-club-2001"
+        },
+        "developers": [
+          "High Voltage Software"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NFL Quarterback Club",
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "06f96131": {
@@ -108,6 +200,23 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "caveats": "Gameplay: the screen flickers from time to time"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q220665",
+          "mobygames": "space-invaders________",
+          "igdb": "space-invaders"
+        },
+        "developers": [
+          "Taito"
+        ],
+        "publishers": [
+          "Midway Games",
+          "Taito"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "079955a7": {
@@ -121,6 +230,25 @@
         "sheet_row": 231,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q9048327",
+          "mobygames": "nfl-quarterback-club-98",
+          "igdb": "nfl-quarterback-club-98"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NFL Quarterback Club",
+        "release_date": "1997-10-24",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "088ca0db": {
@@ -134,6 +262,25 @@
         "sheet_row": 177,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3275508",
+          "mobygames": "madden-nfl-99",
+          "igdb": "madden-nfl-99"
+        },
+        "developers": [
+          "EA Orlando"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "Madden NFL",
+        "release_date": "1998-09-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "09708fb9": {
@@ -160,6 +307,25 @@
         "sheet_row": 230,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6953741",
+          "mobygames": "nfl-quarterback-club-2000",
+          "igdb": "nfl-quarterback-club-2000"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NFL Quarterback Club",
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "0ac7ff30": {
@@ -173,6 +339,24 @@
         "sheet_row": 42,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q890065",
+          "mobygames": "body-harvest",
+          "igdb": "body-harvest"
+        },
+        "developers": [
+          "Q94893"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1998-10-20",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "0fa0615b": {
@@ -186,6 +370,25 @@
         "sheet_row": 205,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1300499",
+          "mobygames": "mortal-kombat-trilogy",
+          "igdb": "mortal-kombat-trilogy"
+        },
+        "developers": [
+          "Avalanche Software"
+        ],
+        "publishers": [
+          "WMS Industries"
+        ],
+        "series": "Mortal Kombat",
+        "release_date": "1996-09-01",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "111200bd": {
@@ -199,6 +402,24 @@
         "sheet_row": 38,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2902310",
+          "mobygames": "big-mountain-2000",
+          "igdb": "big-mountain-2000"
+        },
+        "developers": [
+          "Winning Entertainment Group"
+        ],
+        "publishers": [
+          "Imagineer"
+        ],
+        "release_date": "1998-12-26",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "11860e27": {
@@ -239,6 +460,22 @@
         "sheet_row": 171,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3257786",
+          "mobygames": "lode-runner-3d",
+          "igdb": "lode-runner-3-d"
+        },
+        "publishers": [
+          "Bandai Namco Entertainment"
+        ],
+        "series": "Lode Runner",
+        "release_date": "1999-07-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "14a38e4f": {
@@ -252,6 +489,25 @@
         "sheet_row": 48,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2927045",
+          "mobygames": "brunswick-circuit-pro-bowling",
+          "igdb": "brunswick-circuit-pro-bowling"
+        },
+        "developers": [
+          "Point of View"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "series": "Brunswick Circuit Pro Bowling",
+        "release_date": "1998-09-28",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "1558821a": {
@@ -280,6 +536,25 @@
         "sheet_row": 142,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2387749",
+          "mobygames": "international-superstar-soccer-64",
+          "igdb": "international-superstar-soccer-64"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "International Superstar Soccer",
+        "release_date": "1997-06-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "17e9b6a1": {
@@ -293,6 +568,28 @@
         "sheet_row": 208,
         "observed_firmware": "1.1.9",
         "observed_region": "Europe"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3331753",
+          "mobygames": "goemons-great-adventure",
+          "igdb": "goemons-great-adventure"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Goemon",
+        "release_date": "1998-12-23",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "1935aa23": {
@@ -306,6 +603,24 @@
         "sheet_row": 91,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3040450",
+          "mobygames": "dual-heroes",
+          "igdb": "dual-heroes"
+        },
+        "developers": [
+          "Produce!"
+        ],
+        "publishers": [
+          "Hudson Soft"
+        ],
+        "release_date": "1997-12-05",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "1dc8597e": {
@@ -319,6 +634,24 @@
         "sheet_row": 383,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2015773",
+          "mobygames": "wwf-attitude_",
+          "igdb": "wwf-attitude"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1999-07-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "1e98d321": {
@@ -333,6 +666,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "Pushes the FPS to 60 without messing with the game logic."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q7976281",
+          "mobygames": "wayne-gretzkys-3d-hockey-98",
+          "igdb": "wayne-gretzky-s-3d-hockey-98"
+        },
+        "developers": [
+          "Software Creations"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1997-12-03",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "1ef07919": {
@@ -346,6 +697,27 @@
         "sheet_row": 381,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3291346",
+          "mobygames": "world-driver-championship",
+          "igdb": "world-driver-championship"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Boss Game Studios"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1999-05-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "2034d111": {
@@ -359,6 +731,24 @@
         "sheet_row": 351,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3539501",
+          "mobygames": "triple-play-2000",
+          "igdb": "triple-play-2000"
+        },
+        "developers": [
+          "Treyarch"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1999-02-28",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "20b8e93f": {
@@ -373,6 +763,29 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Smoother performance"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q841712",
+          "mobygames": "conkers-bad-fur-day",
+          "igdb": "conker-s-bad-fur-day"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo",
+          "THQ"
+        ],
+        "series": "Conker",
+        "release_date": "2001-03-05",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "228c0bc9": {
@@ -386,6 +799,28 @@
         "sheet_row": 348,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3279568",
+          "mobygames": "top-gear-rally-2",
+          "igdb": "top-gear-rally-2"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Saffire"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "series": "Top Gear",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "229dd6a9": {
@@ -401,6 +836,27 @@
         "observed_region": "?",
         "rationale": "Better framerate",
         "caveats": "Unleashed causes CPU drivers to drive badly (into walls, missing turns), making the game much easier. They will occasionally rubber band past you though"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q814145",
+          "mobygames": "beetle-adventure-racing",
+          "igdb": "beetle-adventure-racing"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Paradigm Entertainment"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "1999-02-28",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "23a4cf27": {
@@ -414,6 +870,24 @@
         "sheet_row": 362,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3560852",
+          "mobygames": "virtual-pool-64",
+          "igdb": "virtual-pool-64"
+        },
+        "developers": [
+          "Celeris"
+        ],
+        "publishers": [
+          "Crave Entertainment"
+        ],
+        "release_date": "1998-12-17",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "28ab6ca1": {
@@ -440,6 +914,28 @@
         "sheet_row": 70,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3005567",
+          "mobygames": "cruisn-world",
+          "igdb": "cruis-n-world"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Cruis'n",
+        "release_date": "1998-06-25",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "29f97010": {
@@ -454,6 +950,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed mode results in no dialogue audio in the pre-rendered intro cutscene of Leon and Clair. (Can someone else check this? I just tried and there is audio and dialogue as normal. I'm using 1.2.4)."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q733992",
+          "mobygames": "resident-evil-2__",
+          "igdb": "resident-evil-2"
+        },
+        "developers": [
+          "Capcom",
+          "Factor 5",
+          "Rockstar San Diego",
+          "Tiger Electronics"
+        ],
+        "publishers": [
+          "Capcom"
+        ],
+        "release_date": "1998-01-21",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "2c00e5f4": {
@@ -467,6 +984,28 @@
         "sheet_row": 68,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3005559",
+          "mobygames": "cruisn-exotica_",
+          "igdb": "cruisn-exotica"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Cruis'n",
+        "release_date": "2000-10-16",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "2c389b1c": {
@@ -480,6 +1019,25 @@
         "sheet_row": 222,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1989219",
+          "mobygames": "nba-live-99",
+          "igdb": "nba-live-99"
+        },
+        "developers": [
+          "EA Vancouver"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "series": "NBA Live",
+        "release_date": "1998-10-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "2dde91e1": {
@@ -493,6 +1051,26 @@
         "sheet_row": 340,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1068778",
+          "mobygames": "tom-clancys-rainbow-six-gold-pack-edition",
+          "igdb": "tom-clancy-s-rainbow-six"
+        },
+        "developers": [
+          "Red Storm Entertainment"
+        ],
+        "publishers": [
+          "Red Storm Entertainment",
+          "Take-Two Interactive"
+        ],
+        "series": "Tom Clancy's Rainbow Six",
+        "release_date": "1998-08-21",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "2e74de9c": {
@@ -521,6 +1099,21 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed causes game to run too fast"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3198035",
+          "mobygames": "knockout-kings-2000",
+          "igdb": "knockout-kings-2000"
+        },
+        "developers": [
+          "Black Ops Entertainment"
+        ],
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "3049173b": {
@@ -534,6 +1127,18 @@
         "sheet_row": 227,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q56757295",
+          "mobygames": "nfl-blitz-2001",
+          "igdb": "nfl-blitz-2001"
+        },
+        "release_date": "2000-01-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "315bd0e7": {
@@ -547,6 +1152,24 @@
         "sheet_row": 233,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3334428",
+          "mobygames": "nhl-99",
+          "igdb": "nhl-99"
+        },
+        "developers": [
+          "EA Vancouver"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1998-09-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "31eb0049": {
@@ -561,6 +1184,27 @@
         "observed_firmware": "1.2.4",
         "observed_region": "USA",
         "rationale": "Faster Gameplay - everything else stays intact"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2872664",
+          "mobygames": "automobili-lamborghini",
+          "igdb": "automobili-lamborghini"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Titus Interactive"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "1997-11-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "324dfa08": {
@@ -574,6 +1218,28 @@
         "sheet_row": 389,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2337280",
+          "mobygames": "yoshis-story",
+          "igdb": "yoshi-s-story"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Yoshi",
+        "release_date": "1997-12-21",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "32cb1b48": {
@@ -587,6 +1253,25 @@
         "sheet_row": 133,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2525984",
+          "mobygames": "hey-you-pikachu",
+          "igdb": "hey-you-pikachu"
+        },
+        "developers": [
+          "Ambrella"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Pokémon Pikachu series",
+        "release_date": "1998-12-12",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "335e71eb": {
@@ -600,6 +1285,21 @@
         "sheet_row": 375,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3567573",
+          "mobygames": "wetrix",
+          "igdb": "wetrix"
+        },
+        "publishers": [
+          "Ocean Software"
+        ],
+        "release_date": "1998-11-27",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "33b6a071": {
@@ -653,6 +1353,25 @@
         "sheet_row": 380,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q864026",
+          "mobygames": "world-cup-98",
+          "igdb": "world-cup-98"
+        },
+        "developers": [
+          "EA Vancouver"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "FIFA World Cup",
+        "release_date": "1998-03-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "36bc864b": {
@@ -667,6 +1386,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "caveats": "Using Unleashed in multiplayer causes the game to run at a much higher speed.\n\nEnhanced results in a very stable framerate (especially in DK Jungle) without apparent gameplay changes."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1046604",
+          "mobygames": "mario-kart-64",
+          "igdb": "mario-kart-64"
+        },
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1996-12-14",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "37579204": {
@@ -680,6 +1417,25 @@
         "sheet_row": 270,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q737103",
+          "mobygames": "quake-ii-quad-damage",
+          "igdb": "quake-ii--2"
+        },
+        "developers": [
+          "id Software"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "series": "Quake",
+        "release_date": "1997-12-09",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "377e874d": {
@@ -732,6 +1488,24 @@
         "sheet_row": 73,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3008121",
+          "mobygames": "cybertiger",
+          "igdb": "cyber-tiger"
+        },
+        "developers": [
+          "Electronic Arts"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "1999-09-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "3b356814": {
@@ -745,6 +1519,25 @@
         "sheet_row": 90,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1957354",
+          "mobygames": "dr-mario-64",
+          "igdb": "dr-mario-64"
+        },
+        "developers": [
+          "Nintendo"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Dr. Mario",
+        "release_date": "2001-04-08",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "3d9cd3dd": {
@@ -758,6 +1551,27 @@
         "sheet_row": 305,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3281178",
+          "mobygames": "snowboard-kids-2",
+          "igdb": "snowboard-kids-2"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Racjin"
+        ],
+        "publishers": [
+          "Atlus"
+        ],
+        "release_date": "1999-02-19",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "40bb5e42": {
@@ -771,6 +1585,21 @@
         "sheet_row": 287,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q7886388",
+          "mobygames": "robotron-64",
+          "igdb": "robotron-64"
+        },
+        "publishers": [
+          "Crave Entertainment"
+        ],
+        "release_date": "1998-01-05",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "40de0109": {
@@ -786,6 +1615,28 @@
         "observed_region": "?",
         "rationale": "Increases framerate/performance.",
         "caveats": "Unleashed is mostly fine but does cause Bosses to drive faster, making them much more challenging than intended.\nEnhanced is the best option for performance improvements without drawbacks."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q545072",
+          "mobygames": "diddy-kong-racing",
+          "igdb": "diddy-kong-racing"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Rare Ltd."
+        ],
+        "series": "Diddy Kong Racing",
+        "release_date": "1997-11-21",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "431a0df7": {
@@ -842,6 +1693,24 @@
         "observed_region": "USA",
         "rationale": "Much better framerate.",
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1527683",
+          "mobygames": "indiana-jones-and-the-infernal-machine",
+          "igdb": "indiana-jones-and-the-infernal-machine"
+        },
+        "developers": [
+          "Lucasfilm Games"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1999-11-23",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "47f55a65": {
@@ -868,6 +1737,24 @@
         "sheet_row": 117,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3080185",
+          "mobygames": "fox-sports-college-hoops-99",
+          "igdb": "fox-sports-college-hoops-99"
+        },
+        "developers": [
+          "Underground Development"
+        ],
+        "publishers": [
+          "Fox Interactive"
+        ],
+        "release_date": "1998-10-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "4923d13b": {
@@ -881,6 +1768,24 @@
         "sheet_row": 144,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1571727",
+          "mobygames": "espn-international-track-field",
+          "igdb": "international-track-field-2000"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "49326676": {
@@ -921,6 +1826,24 @@
         "sheet_row": 372,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3564647",
+          "mobygames": "wcw-nitro",
+          "igdb": "wcw-nitro"
+        },
+        "developers": [
+          "Inland Productions"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1999-02-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "4f9832d9": {
@@ -935,6 +1858,28 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q806598",
+          "mobygames": "banjo-tooie",
+          "igdb": "banjo-tooie"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Banjo-Kazooie",
+        "release_date": "2000-11-20",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "4fb4dd5f": {
@@ -948,6 +1893,24 @@
         "sheet_row": 370,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2020334",
+          "mobygames": "wcw-backstage-assault",
+          "igdb": "wcw-backstage-assault"
+        },
+        "developers": [
+          "Electronic Arts"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "2000-12-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5218eb6c": {
@@ -961,6 +1924,18 @@
         "sheet_row": 112,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3071637",
+          "mobygames": "fighter-destiny-2",
+          "igdb": "fighter-destiny-2"
+        },
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "534e58e0": {
@@ -1000,6 +1975,21 @@
         "sheet_row": 333,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3519194",
+          "mobygames": "tetrisphere",
+          "igdb": "tetrisphere"
+        },
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1997-08-11",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "563b66fa": {
@@ -1013,6 +2003,28 @@
         "sheet_row": 152,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q387425",
+          "mobygames": "jeremy-mcgrath-supercross-2000-",
+          "igdb": "jeremy-mcgrath-supercross-2000"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Q339228"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Jeremy McGrath Supercross",
+        "release_date": "1999-09-29",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "571f4aa3": {
@@ -1040,6 +2052,24 @@
         "sheet_row": 235,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q16266959",
+          "mobygames": "nhl-breakaway-98",
+          "igdb": "nhl-breakaway-98"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1997-09-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5738bda3": {
@@ -1053,6 +2083,19 @@
         "sheet_row": 225,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q56757321",
+          "mobygames": "nfl-blitz",
+          "igdb": "nfl-blitz"
+        },
+        "series": "NFL Blitz",
+        "release_date": "1997-01-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5a98de60": {
@@ -1066,6 +2109,28 @@
         "sheet_row": 251,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3374797",
+          "mobygames": "penny-racers",
+          "igdb": "penny-racers"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Locomotive Games"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "series": "Choro Q",
+        "release_date": "1998-07-17",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5b7cafac": {
@@ -1079,6 +2144,25 @@
         "sheet_row": 115,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q16838717",
+          "mobygames": "flying-dragon",
+          "igdb": "sd-hiryuu-no-ken-densetsu"
+        },
+        "developers": [
+          "Culture Brain"
+        ],
+        "publishers": [
+          "Winning Entertainment Group"
+        ],
+        "series": "Flying Dragon",
+        "release_date": "1998-07-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5c02725a": {
@@ -1092,6 +2176,23 @@
         "sheet_row": 216,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q65038689",
+          "mobygames": "nba-in-the-zone-98",
+          "igdb": "nba-in-the-zone-98"
+        },
+        "developers": [
+          "Konami Computer Entertainment Osaka"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "NBA in the Zone",
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5d49e6d6": {
@@ -1105,6 +2206,27 @@
         "sheet_row": 242,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3280267",
+          "mobygames": "off-road-challenge",
+          "igdb": "off-road-challenge"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1997-01-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5da73985": {
@@ -1119,6 +2241,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Reports of its \"infamous slowdown\" is now gone"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2484974",
+          "mobygames": "wwf-no-mercy",
+          "igdb": "wwf-no-mercy"
+        },
+        "developers": [
+          "Asmik Ace Entertainment"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "2000-11-17",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "5e210d99": {
@@ -1132,6 +2272,25 @@
         "sheet_row": 218,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q65038734",
+          "mobygames": "nba-in-the-zone-2000",
+          "igdb": "nba-in-the-zone-2000"
+        },
+        "developers": [
+          "Konami Computer Entertainment Osaka"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "NBA in the Zone",
+        "release_date": "2000-01-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6101e995": {
@@ -1171,6 +2330,27 @@
         "sheet_row": 320,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3501136",
+          "mobygames": "stunt-racer-64",
+          "igdb": "stunt-racer-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Boss Game Studios"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "2000-10-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6352a50d": {
@@ -1185,6 +2365,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed causes voice lines to play out of sync from text & animations during cut scenes. Gameplay seems ok though."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3011830",
+          "mobygames": "looney-tunes-duck-dodgers-starring-daffy-duck",
+          "igdb": "duck-dodgers-starring-daffy-duck"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Paradigm Entertainment"
+        ],
+        "publishers": [
+          "Infogrames"
+        ],
+        "release_date": "2000-09-16",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "636c6ff8": {
@@ -1198,6 +2399,25 @@
         "sheet_row": 176,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3275499",
+          "mobygames": "madden-nfl-2002____",
+          "igdb": "madden-nfl-2002"
+        },
+        "developers": [
+          "EA Orlando"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "Madden NFL",
+        "release_date": "2001-09-12",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "637fc831": {
@@ -1211,6 +2431,30 @@
         "sheet_row": 330,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3515891",
+          "mobygames": "disneys-tarzan",
+          "igdb": "disneys-tarzan"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Eurocom",
+          "Q389261"
+        ],
+        "publishers": [
+          "Disney Interactive Studios",
+          "Q200491"
+        ],
+        "series": "Tarzan",
+        "release_date": "1999-06-16",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "646054a7": {
@@ -1224,6 +2468,25 @@
         "sheet_row": 183,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1758447",
+          "mobygames": "mario-golf",
+          "igdb": "mario-golf"
+        },
+        "developers": [
+          "Camelot Software Planning"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Mario Golf",
+        "release_date": "1999-06-11",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "647e59ff": {
@@ -1237,6 +2500,29 @@
         "sheet_row": 341,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q776134",
+          "mobygames": "tonic-trouble_",
+          "igdb": "tonic-trouble"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "RFX Interactive",
+          "Ubisoft Montpellier",
+          "Ubisoft Montreal"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "648266c8": {
@@ -1250,6 +2536,24 @@
         "sheet_row": 368,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3566832",
+          "mobygames": "wayne-gretzkys-3d-hockey",
+          "igdb": "wayne-gretzky-s-3d-hockey"
+        },
+        "developers": [
+          "WMS Industries"
+        ],
+        "publishers": [
+          "Atari Games"
+        ],
+        "release_date": "1996-11-11",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6563ade7": {
@@ -1263,6 +2567,27 @@
         "sheet_row": 201,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q110079388",
+          "mobygames": "monster-truck-madness-64",
+          "igdb": "monster-truck-madness-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Edge of Reality"
+        ],
+        "publishers": [
+          "Rockstar Games"
+        ],
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6565b3a3": {
@@ -1276,6 +2601,22 @@
         "sheet_row": 248,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1330205",
+          "mobygames": "paperboy",
+          "igdb": "paperboy"
+        },
+        "developers": [
+          "Atari Games"
+        ],
+        "publishers": [
+          "Atari Games"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "663f3ce1": {
@@ -1303,6 +2644,25 @@
         "sheet_row": 189,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2397985",
+          "mobygames": "mario-tennis",
+          "igdb": "mario-tennis"
+        },
+        "developers": [
+          "Camelot Software Planning"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Mario Tennis",
+        "release_date": "2000-07-21",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6bb03f80": {
@@ -1316,6 +2676,25 @@
         "sheet_row": 187,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1205676",
+          "mobygames": "mario-party-2",
+          "igdb": "mario-party-2"
+        },
+        "developers": [
+          "Hudson Soft"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Mario Party",
+        "release_date": "1999-12-17",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6d6e21df": {
@@ -1329,6 +2708,24 @@
         "sheet_row": 386,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2016181",
+          "mobygames": "wwf-wrestlemania-2000_",
+          "igdb": "wwf-wrestlemania-2000"
+        },
+        "developers": [
+          "Asmik Ace Entertainment"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "6dae3abb": {
@@ -1369,6 +2766,24 @@
         "sheet_row": 58,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2948512",
+          "mobygames": "chameleon-twist-2",
+          "igdb": "chameleon-twist-2"
+        },
+        "genres": [
+          "Action"
+        ],
+        "publishers": [
+          "Sun Corporation"
+        ],
+        "release_date": "1998-12-25",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7093d06a": {
@@ -1382,6 +2797,24 @@
         "sheet_row": 96,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1845090",
+          "mobygames": "ecw-hardcore-revolution",
+          "igdb": "ecw-hardcore-revolution"
+        },
+        "developers": [
+          "Q339228"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "2000-01-31",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "717cb88d": {
@@ -1395,6 +2828,25 @@
         "sheet_row": 168,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3198120",
+          "mobygames": "kobe-bryant-in-nba-courtside",
+          "igdb": "kobe-bryant-in-nba-courtside"
+        },
+        "developers": [
+          "Left Field Productions"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "NBA Courtside",
+        "release_date": "1998-04-01",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "71858b71": {
@@ -1435,6 +2887,25 @@
         "observed_firmware": "1.2.1",
         "observed_region": "USA",
         "rationale": "Significant improvement in framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q933524",
+          "mobygames": "pilotwings-64",
+          "igdb": "pilotwings-64"
+        },
+        "developers": [
+          "Nintendo"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Pilotwings",
+        "release_date": "1996-06-23",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "72ebd4e4": {
@@ -1448,6 +2919,25 @@
         "sheet_row": 306,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2636173",
+          "mobygames": "south-park",
+          "igdb": "south-park"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "South Park",
+        "release_date": "1998-12-12",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "746e6e83": {
@@ -1461,6 +2951,28 @@
         "sheet_row": 170,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1128672",
+          "mobygames": "lego-racers_",
+          "igdb": "lego-racers"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "High Voltage Software"
+        ],
+        "publishers": [
+          "The Lego Group"
+        ],
+        "series": "Lego Racers",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "75fafe2c": {
@@ -1488,6 +3000,19 @@
         "sheet_row": 211,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q4339204",
+          "mobygames": "namco-museum-64",
+          "igdb": "namco-museum-64"
+        },
+        "series": "Namco Museum",
+        "release_date": "1999-11-29",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7721bb23": {
@@ -1567,6 +3092,28 @@
         "sheet_row": 105,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2609497",
+          "mobygames": "f-zero-x",
+          "igdb": "f-zero-x"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "F-Zero",
+        "release_date": "1998-07-14",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7b1917c7": {
@@ -1580,6 +3127,17 @@
         "sheet_row": 18,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q55375355",
+          "mobygames": "all-star-baseball-2001",
+          "igdb": "all-star-baseball-2001--1"
+        },
+        "series": "All-Star Baseball",
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7bf2d3eb": {
@@ -1593,6 +3151,27 @@
         "sheet_row": 213,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3096283",
+          "mobygames": "nascar-2000_",
+          "igdb": "nascar-2000"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "EA Sports"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1999-09-24",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7c59b2a4": {
@@ -1607,6 +3186,25 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "Silky, smooth frame rate compared to \"Force Original Hardware.\""
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1385473",
+          "mobygames": "extreme-g",
+          "igdb": "extreme-g"
+        },
+        "developers": [
+          "Acclaim Studios London"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Extreme-G",
+        "release_date": "1997-09-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7ca344cc": {
@@ -1620,6 +3218,25 @@
         "sheet_row": 173,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2413620",
+          "mobygames": "madden-football-64",
+          "igdb": "madden-football-64"
+        },
+        "developers": [
+          "EA Orlando"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "Madden NFL",
+        "release_date": "1997-10-31",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7d55eee7": {
@@ -1633,6 +3250,19 @@
         "sheet_row": 217,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q65038690",
+          "mobygames": "nba-in-the-zone-99",
+          "igdb": "nba-in-the-zone-99"
+        },
+        "series": "NBA in the Zone",
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "7f3a3558": {
@@ -1660,6 +3290,25 @@
         "sheet_row": 298,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1274056",
+          "mobygames": "shadow-man",
+          "igdb": "shadow-man"
+        },
+        "developers": [
+          "Acclaim Studios Teesside"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Shadow Man",
+        "release_date": "1999-03-09",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "829d3617": {
@@ -1673,6 +3322,25 @@
         "sheet_row": 54,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2453573",
+          "mobygames": "castlevania-",
+          "igdb": "castlevania--2"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Castlevania",
+        "release_date": "1998-12-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8433d173": {
@@ -1686,6 +3354,28 @@
         "sheet_row": 138,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2312312",
+          "mobygames": "iggys-reckin-balls",
+          "igdb": "iggy-s-reckin-balls"
+        },
+        "genres": [
+          "Action",
+          "Fighting"
+        ],
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1998-07-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "844e2678": {
@@ -1699,6 +3389,20 @@
         "sheet_row": 195,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3313495",
+          "igdb": "mike-piazza-s-strike-zone"
+        },
+        "publishers": [
+          "Atari, Inc."
+        ],
+        "release_date": "1998-06-16",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "84d0e2e4": {
@@ -1780,6 +3484,28 @@
         "observed_region": "?",
         "rationale": "Much smoother framerate",
         "caveats": "Unleashed: Opening cutscene goes to black screen with no way to advance. Banana Fairy \"blessing\" animation is sometimes skipped after photographing one. Certain minigames may be harder/impossible (Krazy Kong Klamour screen fades out almost immediately after the banana appears)\nAny setting other than \"Force Original Hardware\" will result in cutscene desync issues. There are huge performance advantages to Unleashed/Enhanced/Enhanced+ however if something doesn't work turning it off may be necessary."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q774773",
+          "mobygames": "donkey-kong-64",
+          "igdb": "donkey-kong-64"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Donkey Kong",
+        "release_date": "1999-11-22",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "89eefc64": {
@@ -1795,6 +3521,24 @@
         "observed_region": "Japan",
         "rationale": "Better performance, reduces all kind of lags",
         "caveats": "(no lags = not original) but for casual def. better to enjoy"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2909712",
+          "igdb": "bomberman-64--1"
+        },
+        "developers": [
+          "Racjin"
+        ],
+        "publishers": [
+          "Hudson Soft"
+        ],
+        "series": "Saga Bomberman",
+        "release_date": "2001-12-20",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8a11842c": {
@@ -1808,6 +3552,28 @@
         "sheet_row": 46,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q690394",
+          "mobygames": "bomberman-hero",
+          "igdb": "bomberman-hero"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Hudson Soft"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Saga Bomberman",
+        "release_date": "1998-04-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8b0f5e93": {
@@ -1821,6 +3587,29 @@
         "sheet_row": 295,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1632811",
+          "mobygames": "san-francisco-rush-2049",
+          "igdb": "san-francisco-rush-2049"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Atari Games",
+          "Handheld Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Rush",
+        "release_date": "1999-10-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8b30b5a2": {
@@ -1834,6 +3623,24 @@
         "sheet_row": 278,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3421384",
+          "mobygames": "razor-freestyle-scooter",
+          "igdb": "razor-freestyle-scooter"
+        },
+        "developers": [
+          "Shaba Games"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "2000-12-11",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8c6894b8": {
@@ -1860,6 +3667,24 @@
         "sheet_row": 153,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1688483",
+          "mobygames": "jet-force-gemini",
+          "igdb": "jet-force-gemini"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Rare Ltd."
+        ],
+        "release_date": "1999-10-11",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "8decd965": {
@@ -1900,6 +3725,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "Seems to eliminate the occasional lag during big enemies encounters. The lag with Mammon's fire attack seems to be programmed in"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1478513",
+          "mobygames": "quest-64",
+          "igdb": "quest-64"
+        },
+        "developers": [
+          "Imagineer"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1998-06-01",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "903404e6": {
@@ -1927,6 +3770,24 @@
         "observed_firmware": "1.2.0",
         "observed_region": "USA",
         "rationale": "Better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3143650",
+          "mobygames": "hybrid-heaven",
+          "igdb": "hybrid-heaven"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "release_date": "1999-08-05",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "924b4b58": {
@@ -1940,6 +3801,28 @@
         "sheet_row": 378,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3015143",
+          "mobygames": "wipeout-64",
+          "igdb": "wipeout-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "SCE Studio Liverpool"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Wipeout",
+        "release_date": "1998-11-03",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9292bb08": {
@@ -1953,6 +3836,28 @@
         "sheet_row": 347,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3283260",
+          "mobygames": "top-gear-rally",
+          "igdb": "top-gear-rally"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Boss Game Studios"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "series": "Top Gear",
+        "release_date": "1997-12-05",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "940f1395": {
@@ -1966,6 +3871,19 @@
         "sheet_row": 17,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q65038106",
+          "mobygames": "all-star-baseball-2000",
+          "igdb": "all-star-baseball-2000"
+        },
+        "series": "All-Star Baseball",
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "941dbdc7": {
@@ -1979,6 +3897,27 @@
         "sheet_row": 197,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3089600",
+          "mobygames": "mischief-makers",
+          "igdb": "mischief-makers"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Treasure"
+        ],
+        "publishers": [
+          "Enix"
+        ],
+        "release_date": "1997-06-27",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "94329154": {
@@ -1992,6 +3931,25 @@
         "sheet_row": 284,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3434074",
+          "mobygames": "road-rash-64",
+          "igdb": "road-rash-64"
+        },
+        "developers": [
+          "Locomotive Games"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "series": "Road Rash",
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "95c1fec7": {
@@ -2005,6 +3963,24 @@
         "sheet_row": 215,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3334241",
+          "mobygames": "nba-hang-time",
+          "igdb": "nba-hangtime"
+        },
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1996-04-16",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9613a218": {
@@ -2018,6 +3994,25 @@
         "sheet_row": 188,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q743187",
+          "mobygames": "mario-party-3",
+          "igdb": "mario-party-3"
+        },
+        "developers": [
+          "Hudson Soft"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Mario Party",
+        "release_date": "2000-12-07",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9684939c": {
@@ -2057,6 +4052,21 @@
         "sheet_row": 196,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3314408",
+          "mobygames": "milos-astro-lanes",
+          "igdb": "milo-s-astro-lanes"
+        },
+        "publishers": [
+          "Crave Entertainment"
+        ],
+        "release_date": "1998-11-24",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "98e8864c": {
@@ -2070,6 +4080,28 @@
         "sheet_row": 382,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q953922",
+          "mobygames": "worms-armageddon",
+          "igdb": "worms-armageddon"
+        },
+        "developers": [
+          "Team17"
+        ],
+        "publishers": [
+          "Atari",
+          "Infogrames",
+          "MicroProse",
+          "Team17"
+        ],
+        "series": "Worms",
+        "release_date": "1999-05-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9908c4c6": {
@@ -2083,6 +4115,25 @@
         "sheet_row": 237,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q536833",
+          "mobygames": "nightmare-creatures",
+          "igdb": "nightmare-creatures"
+        },
+        "developers": [
+          "Kalisto Entertainment"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "series": "Nightmare Creatures",
+        "release_date": "1997-09-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9a776b7c": {
@@ -2096,6 +4147,27 @@
         "sheet_row": 52,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2933987",
+          "mobygames": "california-speed",
+          "igdb": "california-speed"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Atari Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1999-02-28",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9ad34ab6": {
@@ -2109,6 +4181,24 @@
         "sheet_row": 76,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3016256",
+          "mobygames": "dark-rift",
+          "igdb": "dark-rift"
+        },
+        "developers": [
+          "Kronos Digital Entertainment"
+        ],
+        "publishers": [
+          "Tokai Communications"
+        ],
+        "release_date": "1997-07-10",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9b9bb83b": {
@@ -2123,6 +4213,29 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "docs.google.com/spreadsheets/d/1SGo9l_NEzy0ESbWAgqOKAZSFJyXQhAAkZXZcSdZPeBA/edit"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1463730",
+          "mobygames": "tony-hawks-pro-skater-3__",
+          "igdb": "tony-hawks-pro-skater-3--2"
+        },
+        "developers": [
+          "Blizzard Albany",
+          "Edge of Reality",
+          "Gearbox Software",
+          "HotGen",
+          "Neversoft",
+          "Shaba Games"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "release_date": "2001-10-28",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9bfffb3f": {
@@ -2136,6 +4249,25 @@
         "sheet_row": 129,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2702506",
+          "mobygames": "harvest-moon-64",
+          "igdb": "harvest-moon-64"
+        },
+        "developers": [
+          "Marvelous Entertainment"
+        ],
+        "publishers": [
+          "Winning Entertainment Group"
+        ],
+        "series": "Story of Seasons",
+        "release_date": "1999-02-05",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9df2a0fb": {
@@ -2149,6 +4281,25 @@
         "sheet_row": 163,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q13743368",
+          "mobygames": "killer-instinct-gold",
+          "igdb": "killer-instinct-gold"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Killer Instinct",
+        "release_date": "1996-01-01",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "9f9267a7": {
@@ -2175,6 +4326,24 @@
         "sheet_row": 343,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1538485",
+          "mobygames": "tony-hawks-pro-skater-2",
+          "igdb": "tony-hawk-s-pro-skater-2"
+        },
+        "developers": [
+          "Neversoft"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "release_date": "2000-09-20",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "a0c63bac": {
@@ -2214,6 +4383,24 @@
         "sheet_row": 47,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2911866",
+          "mobygames": "bottom-of-the-9th_",
+          "igdb": "bottom-of-the-9th"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "release_date": "1996-04-04",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "a222b3a3": {
@@ -2227,6 +4414,25 @@
         "sheet_row": 24,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q4894560",
+          "mobygames": "asteroids-hyper-64",
+          "igdb": "asteroids-hyper-64"
+        },
+        "developers": [
+          "Syrox Developments"
+        ],
+        "publishers": [
+          "Crave Entertainment"
+        ],
+        "series": "Asteroids",
+        "release_date": "1999-12-15",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "a2a5229d": {
@@ -2241,6 +4447,26 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "More FPS, No problem found."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1071278",
+          "mobygames": "doom-64",
+          "igdb": "doom-64"
+        },
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Bethesda Softworks",
+          "Midway Games"
+        ],
+        "series": "Doom",
+        "release_date": "1997-03-31",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "a2fe0cb3": {
@@ -2281,6 +4507,25 @@
         "observed_firmware": "1.2.4",
         "observed_region": "All Regions",
         "caveats": "Any mode but auto causes hi-res mode to run too fast\n\nHi-Res not playable due to screen tearing and gameplay chugging\nDisabling 32bit mode fixes this, but game is too slow / 15fps at max"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1865940",
+          "mobygames": "international-superstar-soccer-2000_",
+          "igdb": "international-superstar-soccer-2000"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "International Superstar Soccer",
+        "release_date": "1999-07-29",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "a73f869f": {
@@ -2294,6 +4539,24 @@
         "sheet_row": 39,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2904020",
+          "mobygames": "bio-freaks",
+          "igdb": "bio-f-r-e-a-k-s"
+        },
+        "developers": [
+          "Saffire"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1998-04-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "aa3b76f1": {
@@ -2307,6 +4570,25 @@
         "sheet_row": 234,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3334430",
+          "mobygames": "nhl-blades-of-steel-99",
+          "igdb": "nhl-blades-of-steel-99"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Blades of Steel",
+        "release_date": "1999-04-05",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ab10bd70": {
@@ -2335,6 +4617,28 @@
         "observed_region": "USA",
         "rationale": "Better framerate",
         "caveats": "Got a black screen once mid game"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3143715",
+          "mobygames": "hydro-thunder",
+          "igdb": "hydro-thunder"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Thunder",
+        "release_date": "1999-09-09",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ac631da0": {
@@ -2349,6 +4653,25 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Increases framerate/performance."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q369086",
+          "mobygames": "goldeneye-007",
+          "igdb": "goldeneye-007"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "James Bond",
+        "release_date": "1997-08-23",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ac73d889": {
@@ -2362,6 +4685,25 @@
         "sheet_row": 220,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q16266958",
+          "mobygames": "nba-jam-99_",
+          "igdb": "nba-jam-99"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NBA Jam",
+        "release_date": "1998-12-04",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ad5cc4e0": {
@@ -2375,6 +4717,24 @@
         "sheet_row": 366,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1873945",
+          "mobygames": "war-gods",
+          "igdb": "war-gods"
+        },
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Atari, Inc."
+        ],
+        "release_date": "1997-05-21",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "add7a87d": {
@@ -2389,6 +4749,25 @@
         "observed_firmware": "1.2.0",
         "observed_region": "?",
         "rationale": "Significantly improved framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2562893",
+          "mobygames": "mystical-ninja-starring-goemon_",
+          "igdb": "mystical-ninja-starring-goemon"
+        },
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Goemon",
+        "release_date": "1997-08-07",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "adf6fa75": {
@@ -2415,6 +4794,24 @@
         "sheet_row": 34,
         "observed_firmware": "1.1.9",
         "observed_region": "Europe"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2891778",
+          "mobygames": "battletanx_",
+          "igdb": "battletanx"
+        },
+        "developers": [
+          "The 3DO Company"
+        ],
+        "publishers": [
+          "The 3DO Company"
+        ],
+        "release_date": "1998-12-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b04b4109": {
@@ -2428,6 +4825,25 @@
         "sheet_row": 312,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1141963",
+          "mobygames": "star-fox-64",
+          "igdb": "star-fox-64"
+        },
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Star Fox",
+        "release_date": "1997-04-27",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b04bdbdf": {
@@ -2441,6 +4857,24 @@
         "sheet_row": 236,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q16266960",
+          "mobygames": "nhl-breakaway-99",
+          "igdb": "nhl-breakaway-99"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1998-11-27",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b1ee945c": {
@@ -2482,6 +4916,25 @@
         "observed_region": "USA",
         "rationale": "Yes. I did all the game with 120 stars with Unleashed mode (US NTSC version)",
         "caveats": "No"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q216995",
+          "mobygames": "super-mario-64",
+          "igdb": "super-mario-64"
+        },
+        "developers": [
+          "Nintendo Entertainment Analysis & Development"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Super Mario",
+        "release_date": "1996-06-23",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b4cdf5d8": {
@@ -2508,6 +4961,24 @@
         "sheet_row": 200,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q28452238",
+          "mobygames": "monopoly_n64",
+          "igdb": "monopoly--7"
+        },
+        "developers": [
+          "Mind's Eye Productions"
+        ],
+        "publishers": [
+          "Hasbro Interactive"
+        ],
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b588d00b": {
@@ -2521,6 +4992,26 @@
         "sheet_row": 338,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3569363",
+          "mobygames": "tiggers-honey-hunt",
+          "igdb": "disneys-tiggers-honey-hunt"
+        },
+        "developers": [
+          "Doki Denki Studio"
+        ],
+        "publishers": [
+          "Disney Interactive Studios",
+          "NewKidCo",
+          "Ubisoft"
+        ],
+        "release_date": "2000-09-29",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b5ce1a05": {
@@ -2534,6 +5025,26 @@
         "sheet_row": 113,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2297514",
+          "mobygames": "fighters-destiny",
+          "igdb": "fighters-destiny"
+        },
+        "developers": [
+          "Genki",
+          "Imagineer"
+        ],
+        "publishers": [
+          "Ocean Software",
+          "SouthPeak Games"
+        ],
+        "release_date": "1998-01-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b7214f05": {
@@ -2547,6 +5058,27 @@
         "sheet_row": 327,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3504618",
+          "mobygames": "supercross-2000",
+          "igdb": "supercross-2000"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Electronic Arts"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b862b7f6": {
@@ -2560,6 +5092,24 @@
         "sheet_row": 41,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2907306",
+          "mobygames": "blues-brothers-2000",
+          "igdb": "blues-brothers-2000"
+        },
+        "genres": [
+          "Action"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "2000-11-16",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b86ab3ba": {
@@ -2573,6 +5123,24 @@
         "sheet_row": 40,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q339222",
+          "mobygames": "blast-corps",
+          "igdb": "blast-corps"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1997-03-21",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b908e90c": {
@@ -2586,6 +5154,28 @@
         "sheet_row": 307,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q530973",
+          "mobygames": "south-park-rally",
+          "igdb": "south-park-rally"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Tantalus Media"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "South Park",
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "b98e996c": {
@@ -2599,6 +5189,27 @@
         "sheet_row": 292,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3459046",
+          "mobygames": "scars",
+          "igdb": "s-c-a-r-s"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Vivid Image"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1998-08-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ba0a217e": {
@@ -2612,6 +5223,28 @@
         "sheet_row": 69,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3005563",
+          "mobygames": "cruisn-usa",
+          "igdb": "cruis-n-usa"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Cruis'n",
+        "release_date": "1996-12-03",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ba12a9a9": {
@@ -2625,6 +5258,25 @@
         "sheet_row": 174,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3275495",
+          "mobygames": "madden-nfl-2000",
+          "igdb": "madden-nfl-2000"
+        },
+        "developers": [
+          "EA Orlando"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "Madden NFL",
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ba557b6b": {
@@ -2651,6 +5303,27 @@
         "sheet_row": 140,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3150637",
+          "mobygames": "indy-racing-2000",
+          "igdb": "indy-racing-2000"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Paradigm Entertainment"
+        ],
+        "publishers": [
+          "Infogrames"
+        ],
+        "release_date": "2000-06-09",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ba7f5a1a": {
@@ -2677,6 +5350,24 @@
         "sheet_row": 110,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2420155",
+          "mobygames": "fifa-99",
+          "igdb": "fifa-99"
+        },
+        "developers": [
+          "EA Vancouver"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1998-10-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "bb2a1db7": {
@@ -2704,6 +5395,25 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "Increases framerate/performance."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1408723",
+          "mobygames": "perfect-dark",
+          "igdb": "perfect-dark"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Rare Ltd."
+        ],
+        "series": "Perfect Dark",
+        "release_date": "2000-05-22",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "bcf9dab5": {
@@ -2743,6 +5453,23 @@
         "sheet_row": 151,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q110041222",
+          "mobygames": "jeopardy_______"
+        },
+        "developers": [
+          "GameTek"
+        ],
+        "publishers": [
+          "GameTek"
+        ],
+        "release_date": "1998-02-25",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "be5799f3": {
@@ -2757,6 +5484,28 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "PAL Version runs great on unleashed, evens out choppy framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q149998",
+          "mobygames": "paper-mario",
+          "igdb": "paper-mario"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Intelligent Systems"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Paper Mario",
+        "release_date": "2000-08-11",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "bf3c8a26": {
@@ -2783,6 +5532,27 @@
         "sheet_row": 12,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q668397",
+          "mobygames": "aerogauge",
+          "igdb": "aerogauge"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Locomotive Games"
+        ],
+        "publishers": [
+          "ASCII Corporation"
+        ],
+        "release_date": "1997-12-19",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c22a994f": {
@@ -2850,6 +5620,25 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q129000",
+          "mobygames": "banjo-kazooie",
+          "igdb": "banjo-kazooie"
+        },
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Banjo-Kazooie",
+        "release_date": "1998-06-29",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c3f94820": {
@@ -2877,6 +5666,24 @@
         "sheet_row": 62,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2964476",
+          "mobygames": "chopper-attack",
+          "igdb": "chopper-attack"
+        },
+        "developers": [
+          "SETA Corporation"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1997-11-28",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c5c6ed65": {
@@ -2890,6 +5697,22 @@
         "sheet_row": 385,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2484999",
+          "mobygames": "wwf-war-zone",
+          "igdb": "wwf-war-zone"
+        },
+        "developers": [
+          "Sculptured Software"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c7fc35d3": {
@@ -2903,6 +5726,24 @@
         "sheet_row": 342,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2264782",
+          "mobygames": "tony-hawks-pro-skater-",
+          "igdb": "tony-hawk-s-pro-skater"
+        },
+        "developers": [
+          "Neversoft"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c8179ef6": {
@@ -2916,6 +5757,17 @@
         "sheet_row": 322,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3504117",
+          "mobygames": "super-bowling"
+        },
+        "release_date": "1999-03-26",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c88d19da": {
@@ -2930,6 +5782,28 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "rationale": "Almost solid 60 FPS, some occasional drops"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1065861",
+          "mobygames": "re-volt",
+          "igdb": "re-volt"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Acclaim Studios London"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Re-Volt",
+        "release_date": "1999-07-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "c9ae94fb": {
@@ -2943,6 +5817,22 @@
         "sheet_row": 359,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2988273",
+          "mobygames": "vigilante-8_",
+          "igdb": "vigilante-8--1"
+        },
+        "developers": [
+          "Luxoflux"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "cbdb20e0": {
@@ -2969,6 +5859,23 @@
         "sheet_row": 376,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q110039980",
+          "mobygames": "wheel-of-fortune___"
+        },
+        "developers": [
+          "GameTek"
+        ],
+        "publishers": [
+          "Take-Two Interactive"
+        ],
+        "release_date": "1997-11-28",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "cbf9dd35": {
@@ -2982,6 +5889,17 @@
         "sheet_row": 19,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q65038242",
+          "mobygames": "all-star-baseball-99",
+          "igdb": "all-star-baseball-99"
+        },
+        "series": "All-Star Baseball",
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d0fb7472": {
@@ -2995,6 +5913,28 @@
         "sheet_row": 100,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3046150",
+          "mobygames": "excitebike-64",
+          "igdb": "excitebike-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Left Field Productions"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "Excite",
+        "release_date": "2000-04-30",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d1610042": {
@@ -3008,6 +5948,26 @@
         "sheet_row": 199,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1998794",
+          "mobygames": "monaco-grand-prix-racing-simulation-2"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Ubisoft"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1999-06-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d2ac74fa": {
@@ -3034,6 +5994,27 @@
         "sheet_row": 304,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q475782",
+          "mobygames": "snowboard-kids",
+          "igdb": "snowboard-kids"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Racjin"
+        ],
+        "publishers": [
+          "Atlus"
+        ],
+        "release_date": "1997-12-12",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d46bd615": {
@@ -3047,6 +6028,24 @@
         "sheet_row": 339,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3530639",
+          "mobygames": "tom-and-jerry-in-fists-of-furry",
+          "igdb": "tom-and-jerry-in-fists-of-furry"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "VIS Entertainment"
+        ],
+        "release_date": "2000-01-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d51d95f6": {
@@ -3060,6 +6059,25 @@
         "sheet_row": 280,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3421556",
+          "mobygames": "ready-2-rumble-boxing_",
+          "igdb": "ready-2-rumble-boxing"
+        },
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Ready 2 Rumble",
+        "release_date": "1999-09-09",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d5c471b2": {
@@ -3073,6 +6091,21 @@
         "sheet_row": 276,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3284336",
+          "mobygames": "rat-attack",
+          "igdb": "rat-attack"
+        },
+        "publishers": [
+          "Mindscape"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d68f2b45": {
@@ -3086,6 +6119,24 @@
         "sheet_row": 361,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3560842",
+          "mobygames": "virtual-chess-64",
+          "igdb": "virtual-chess-64"
+        },
+        "developers": [
+          "Titus Interactive"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "1998-06-10",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d827b5d2": {
@@ -3099,6 +6150,24 @@
         "sheet_row": 49,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2719351",
+          "mobygames": "buck-bumble",
+          "igdb": "buck-bumble"
+        },
+        "developers": [
+          "Argonaut Games"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1998-09-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d90e6a67": {
@@ -3113,6 +6182,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed causes game to run too fast."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3564645",
+          "mobygames": "wcw-mayhem",
+          "igdb": "wcw-mayhem"
+        },
+        "developers": [
+          "Electronic Arts"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "d976e47c": {
@@ -3140,6 +6227,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed causes game to run too fast"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1980794",
+          "mobygames": "nascar-99",
+          "igdb": "nascar-99"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "EA Sports"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1998-09-11",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "dbcfd54b": {
@@ -3166,6 +6274,18 @@
         "sheet_row": 226,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q56757283",
+          "mobygames": "nfl-blitz-2000",
+          "igdb": "nfl-blitz-2000"
+        },
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "dd780abf": {
@@ -3179,6 +6299,25 @@
         "sheet_row": 178,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3043129",
+          "mobygames": "magical-tetris-challenge_",
+          "igdb": "magical-tetris-challenge"
+        },
+        "developers": [
+          "Capcom"
+        ],
+        "publishers": [
+          "Capcom"
+        ],
+        "series": "Tetris",
+        "release_date": "1998-11-20",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "dd7cbfd6": {
@@ -3218,6 +6357,22 @@
         "sheet_row": 66,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q868523",
+          "mobygames": "command-conquer-special-gold-edition",
+          "igdb": "command-conquer"
+        },
+        "developers": [
+          "Westwood Studios"
+        ],
+        "publishers": [
+          "Virgin Interactive"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "dff3047b": {
@@ -3231,6 +6386,25 @@
         "sheet_row": 221,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3281193",
+          "mobygames": "nba-live-2000",
+          "igdb": "nba-live-2000"
+        },
+        "developers": [
+          "EA Sports"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "series": "NBA Live",
+        "release_date": "1999-11-02",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e009a99c": {
@@ -3244,6 +6418,25 @@
         "sheet_row": 175,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3275498",
+          "mobygames": "madden-nfl-2001___",
+          "igdb": "madden-nfl-2001"
+        },
+        "developers": [
+          "EA Orlando"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "series": "Madden NFL",
+        "release_date": "2000-08-22",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e0304516": {
@@ -3257,6 +6450,27 @@
         "sheet_row": 57,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2948513",
+          "mobygames": "chameleon-twist",
+          "igdb": "chameleon-twist"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Japan System Supply"
+        ],
+        "publishers": [
+          "Sun Corporation"
+        ],
+        "release_date": "1997-12-09",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e0a11622": {
@@ -3284,6 +6498,27 @@
         "sheet_row": 106,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2539560",
+          "mobygames": "f1-pole-position-64",
+          "igdb": "f1-pole-position-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Human Entertainment"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1997-03-28",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e2207801": {
@@ -3310,6 +6545,24 @@
         "sheet_row": 93,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2737649",
+          "mobygames": "duke-nukem-64",
+          "igdb": "duke-nukem-64"
+        },
+        "developers": [
+          "3D Realms"
+        ],
+        "publishers": [
+          "Atari, Inc."
+        ],
+        "release_date": "1997-01-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e30ed745": {
@@ -3323,6 +6576,27 @@
         "sheet_row": 285,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3434110",
+          "mobygames": "roadsters_",
+          "igdb": "roadsters"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Titus Interactive"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e34100cb": {
@@ -3363,6 +6637,28 @@
         "sheet_row": 346,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3532029",
+          "mobygames": "top-gear-overdrive",
+          "igdb": "top-gear-overdrive"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Snowblind Studios"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "series": "Top Gear",
+        "release_date": "1998-11-23",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e5cded18": {
@@ -3376,6 +6672,24 @@
         "sheet_row": 311,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q288296",
+          "mobygames": "spider-man-",
+          "igdb": "spider-man--5"
+        },
+        "developers": [
+          "Neversoft"
+        ],
+        "publishers": [
+          "Q200491"
+        ],
+        "release_date": "2000-08-30",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "e61e368a": {
@@ -3402,6 +6716,27 @@
         "sheet_row": 273,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q518629",
+          "mobygames": "rally-challenge-2000",
+          "igdb": "rally-challenge-2000"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Genki"
+        ],
+        "publishers": [
+          "SouthPeak Games"
+        ],
+        "release_date": "1999-08-06",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "eaec4252": {
@@ -3415,6 +6750,25 @@
         "sheet_row": 103,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2028799",
+          "mobygames": "f1-world-grand-prix",
+          "igdb": "f-1-world-grand-prix"
+        },
+        "developers": [
+          "Paradigm Entertainment"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "F-1 Grand Prix",
+        "release_date": "1998-07-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ec4d4431": {
@@ -3428,6 +6782,23 @@
         "sheet_row": 232,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6953744",
+          "mobygames": "nfl-quarterback-club-99",
+          "igdb": "nfl-quarterback-club-99"
+        },
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NFL Quarterback Club",
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "ee0902de": {
@@ -3442,6 +6813,25 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "caveats": "Unleased casues game to run too fast. Also sceen flashes black quite frequently."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6952680",
+          "mobygames": "nba-jam-2000",
+          "igdb": "nba-jam-2000"
+        },
+        "developers": [
+          "Q339228"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "NBA Jam",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f0280886": {
@@ -3455,6 +6845,27 @@
         "sheet_row": 192,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3048043",
+          "mobygames": "mickeys-speedway-usa-",
+          "igdb": "mickey-s-speedway-usa"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Rare Ltd."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "2000-11-13",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f0e918ff": {
@@ -3468,6 +6879,24 @@
         "sheet_row": 125,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3110091",
+          "mobygames": "golden-nugget-64",
+          "igdb": "golden-nugget-64"
+        },
+        "developers": [
+          "Westwood Studios"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "release_date": "1998-12-01",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f3ff6662": {
@@ -3481,6 +6910,25 @@
         "sheet_row": 80,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3024754",
+          "mobygames": "destruction-derby-64",
+          "igdb": "destruction-derby-64"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Looking Glass Studios"
+        ],
+        "series": "Destruction Derby",
+        "release_date": "1999-01-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f43db086": {
@@ -3496,6 +6944,24 @@
         "observed_region": "?",
         "rationale": "Much better framerate",
         "caveats": "Game may crash occasionally regardless of overclock setting. Save often (press start in hub area)"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2007458",
+          "mobygames": "gauntlet-legends",
+          "igdb": "gauntlet-legends"
+        },
+        "developers": [
+          "Atari Games"
+        ],
+        "publishers": [
+          "Atari Games"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f61d66e3": {
@@ -3509,6 +6975,24 @@
         "sheet_row": 132,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1423930",
+          "mobygames": "hexen-beyond-heretic",
+          "igdb": "hexen-beyond-heretic--1"
+        },
+        "developers": [
+          "Raven Software"
+        ],
+        "publishers": [
+          "id Software"
+        ],
+        "release_date": "1997-04-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "f785edb4": {
@@ -3548,6 +7032,24 @@
         "sheet_row": 261,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3394052",
+          "mobygames": "polaris-snocross",
+          "igdb": "polaris-snocross"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Blizzard Albany"
+        ],
+        "release_date": "2000-12-27",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-02"
+        ]
       }
     },
     "fb847357": {

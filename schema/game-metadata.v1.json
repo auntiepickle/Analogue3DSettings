@@ -13,7 +13,7 @@
     "developers": { "type": "array", "items": { "type": "string" } },
     "publishers": { "type": "array", "items": { "type": "string" } },
     "series":     { "type": "string", "description": "Franchise. Lets a UI group 'all Mario games' or 'all Mario Kart entries'." },
-    "release_year": { "type": "integer", "minimum": 1995, "maximum": 2005 },
+    "release_year": { "type": "integer", "minimum": 1996, "maximum": 2003, "description": "Cart release year. Constrained to the N64 commercial lifetime; enrichers should drop pre-1996 (franchise-original) and post-2003 (reissue) dates rather than store them here." },
     "release_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "ISO date. release_year is derived from this when both are present — keep them in sync." },
     "region":     { "enum": ["USA", "Europe", "Japan", "Australia", "World"], "description": "Same vocabulary as cart-names.json — duplicated here so consumers don't have to cross-reference." },
     "players": {

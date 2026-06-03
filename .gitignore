@@ -6,3 +6,6 @@ venv/
 *.csv.tmp
 .DS_Store
 Thumbs.db
+# Wikidata fetch cache — regenerable; people running fresh re-fetch.
+tools/.wikidata_cache.json
+tools/.genre_debug_cache.json
