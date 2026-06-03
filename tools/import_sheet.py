@@ -160,6 +160,9 @@ def main():
     p.add_argument("--cart-names", default=str(CART_NAMES))
     p.add_argument("--out", default=str(OUT_FILE))
     p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--region", default="USA",
+                   help="Cart-DB region filter (USA / Europe / Japan / etc.) "
+                        "or 'all' to emit every regional variant. Default: USA.")
     args = p.parse_args()
 
     cart_index = load_cart_index(args.cart_names)
@@ -188,7 +191,10 @@ def main():
             carts = cart_index.get(ALIASES.get(k, k), [])
             if carts:
                 break
+        if args.region.lower() != "all":
+            carts = [c for c in carts if (c.get("region") or "").lower() == args.region.lower()]
         if not carts:
+            # Either no title-match, or the region filter wiped them all.
             unmatched += 1
             misses.append(title)
             continue

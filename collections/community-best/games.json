@@ -162,19 +162,6 @@
         "observed_region": "?"
       }
     },
-    "0aa32e3d": {
-      "title": "Mahjong Master (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 181,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "0ac7ff30": {
       "title": "Body Harvest (USA)",
       "settings": {
@@ -199,33 +186,6 @@
         "sheet_row": 205,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
-      }
-    },
-    "1069f712": {
-      "title": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 104,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "1088ed54": {
-      "title": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
-      "settings": {
-        "hardware": {
-          "overclock": "Enhanced"
-        }
-      },
-      "source": {
-        "sheet_row": 84,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?",
-        "caveats": "Enhanced works the most reliably. Unleashed: plays nicely, but voice lines stop matching up with the text & animation during cut scenes. Screen also jitters during gameplay"
       }
     },
     "111200bd": {
@@ -309,20 +269,6 @@
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
       }
     },
-    "17c5222c": {
-      "title": "1080 Snowboarding (Japan, USA) (En,Ja)",
-      "settings": {
-        "hardware": {
-          "overclock": "Enhanced+"
-        }
-      },
-      "source": {
-        "sheet_row": 4,
-        "observed_firmware": "1.2.4",
-        "observed_region": "USA",
-        "rationale": "Any other mode will make game run too fast (and controls too sensitive)"
-      }
-    },
     "17e4aeb2": {
       "title": "International Superstar Soccer 64 (USA)",
       "settings": {
@@ -358,19 +304,6 @@
       },
       "source": {
         "sheet_row": 91,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "1977ebb0": {
-      "title": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 331,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
       }
@@ -523,20 +456,6 @@
         "caveats": "Unleashed mode results in no dialogue audio in the pre-rendered intro cutscene of Leon and Clair. (Can someone else check this? I just tried and there is audio and dialogue as normal. I'm using 1.2.4)."
       }
     },
-    "2a1c8d54": {
-      "title": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 3,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?",
-        "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
-      }
-    },
     "2c00e5f4": {
       "title": "Cruis'n Exotica (USA)",
       "settings": {
@@ -666,19 +585,6 @@
       },
       "source": {
         "sheet_row": 133,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "32d9a959": {
-      "title": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 206,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
       }
@@ -910,19 +816,6 @@
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
       }
     },
-    "44fb72e2": {
-      "title": "Tetris 64 (Japan) (En)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 332,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "44fc8855": {
       "title": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
       "settings": {
@@ -934,19 +827,6 @@
         "sheet_row": 296,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
-      }
-    },
-    "45ac86d2": {
-      "title": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 5,
-        "observed_firmware": "1.1.9",
-        "observed_region": "Japan"
       }
     },
     "474fe11b": {
@@ -1372,19 +1252,6 @@
         "observed_region": "USA"
       }
     },
-    "6499464b": {
-      "title": "Mission - Impossible (Europe)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 198,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "6563ade7": {
       "title": "Monster Truck Madness 64 (USA)",
       "settings": {
@@ -1504,34 +1371,6 @@
         "observed_region": "?"
       }
     },
-    "6f90dfcb": {
-      "title": "Donkey Kong 64 (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 85,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?",
-        "rationale": "Much smoother framerate",
-        "caveats": "Unleashed: Opening cutscene goes to black screen with no way to advance. Banana Fairy \"blessing\" animation is sometimes skipped after photographing one. Certain minigames may be harder/impossible (Krazy Kong Klamour screen fades out almost immediately after the banana appears)\nAny setting other than \"Force Original Hardware\" will result in cutscene desync issues. There are huge performance advantages to Unleashed/Enhanced/Enhanced+ however if something doesn't work turning it off may be necessary."
-      }
-    },
-    "6fb60ce5": {
-      "title": "Nuclear Strike 64 (Europe) (En,Fr)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 239,
-        "observed_firmware": "1.1.9",
-        "observed_region": "USA"
-      }
-    },
     "7093d06a": {
       "title": "ECW Hardcore Revolution (USA)",
       "settings": {
@@ -1541,19 +1380,6 @@
       },
       "source": {
         "sheet_row": 96,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "70ee4483": {
-      "title": "Dance Dance Revolution - Disney Dancing Museum (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 75,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
       }
@@ -1809,21 +1635,6 @@
         "observed_region": "?"
       }
     },
-    "7f1df0fa": {
-      "title": "Super Mario 64 (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 323,
-        "observed_firmware": "1.1.9",
-        "observed_region": "USA",
-        "rationale": "Yes. I did all the game with 120 stars with Unleashed mode (US NTSC version)",
-        "caveats": "No"
-      }
-    },
     "7f3a3558": {
       "title": "007 - The World Is Not Enough (USA)",
       "settings": {
@@ -1851,19 +1662,6 @@
         "observed_region": "?"
       }
     },
-    "81e83731": {
-      "title": "Mahjong 64 (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 179,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "829d3617": {
       "title": "Castlevania (USA)",
       "settings": {
@@ -1873,19 +1671,6 @@
       },
       "source": {
         "sheet_row": 54,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "82f83aa0": {
-      "title": "Premier Manager 64 (Europe)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 264,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
       }
@@ -2222,20 +2007,6 @@
         "observed_region": "?"
       }
     },
-    "96080d48": {
-      "title": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 55,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?",
-        "rationale": "Framerate improves"
-      }
-    },
     "9613a218": {
       "title": "Mario Party 3 (USA)",
       "settings": {
@@ -2380,19 +2151,6 @@
         "observed_region": "?"
       }
     },
-    "9edbd4a3": {
-      "title": "Bust-A-Move 3 DX (Europe)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 51,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "9f9267a7": {
       "title": "Rocket - Robot on Wheels (USA)",
       "settings": {
@@ -2496,19 +2254,6 @@
         "sheet_row": 239,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
-      }
-    },
-    "a4398603": {
-      "title": "Derby Stallion 64 (Japan)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 79,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
       }
     },
     "a5ee8965": {
@@ -2748,19 +2493,6 @@
       },
       "source": {
         "sheet_row": 358,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
-    "b52c5792": {
-      "title": "Rakugakids (Europe)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 272,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
       }
@@ -3134,19 +2866,6 @@
         "rationale": "Better framerate"
       }
     },
-    "c485c444": {
-      "title": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
-      "settings": {
-        "hardware": {
-          "overclock": "Auto"
-        }
-      },
-      "source": {
-        "sheet_row": 107,
-        "observed_firmware": "1.1.9",
-        "observed_region": "?"
-      }
-    },
     "c538030c": {
       "title": "Chopper Attack (USA)",
       "settings": {
@@ -3367,20 +3086,6 @@
         "sheet_row": 361,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
-      }
-    },
-    "d7d3a654": {
-      "title": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
-      "settings": {
-        "hardware": {
-          "overclock": "Unleashed"
-        }
-      },
-      "source": {
-        "sheet_row": 252,
-        "observed_firmware": "1.1.9",
-        "observed_region": "USA",
-        "rationale": "Increases framerate/performance."
       }
     },
     "d827b5d2": {
