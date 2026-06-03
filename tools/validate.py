@@ -22,13 +22,17 @@ except ImportError:
 
 
 ROOT = Path(__file__).resolve().parent.parent
-SCHEMA_PATH = ROOT / "schema" / "game-settings.v1.json"
+SETTINGS_SCHEMA = ROOT / "schema" / "game-settings.v1.json"
+METADATA_SCHEMA = ROOT / "schema" / "game-metadata.v1.json"
 COLLECTIONS = ROOT / "collections"
 
 
 def main(argv):
-    schema = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
-    validator = jsonschema.Draft202012Validator(schema)
+    s_validator = jsonschema.Draft202012Validator(
+        json.loads(SETTINGS_SCHEMA.read_text(encoding="utf-8")))
+    m_validator = jsonschema.Draft202012Validator(
+        json.loads(METADATA_SCHEMA.read_text(encoding="utf-8"))) \
+        if METADATA_SCHEMA.exists() else None
     ids = argv[1:] or sorted(p.name for p in COLLECTIONS.iterdir() if p.is_dir())
     errors = 0
     for cid in ids:
@@ -38,12 +42,17 @@ def main(argv):
             continue
         data = json.loads(games_file.read_text(encoding="utf-8"))
         for cart_id, entry in data.get("games", {}).items():
-            settings = entry.get("settings", {})
-            for err in validator.iter_errors(settings):
+            for err in s_validator.iter_errors(entry.get("settings", {})):
                 errors += 1
-                print(f"[fail] {cid}/{cart_id}: {err.message} "
+                print(f"[fail] {cid}/{cart_id}/settings: {err.message} "
                       f"(at {'/'.join(map(str, err.absolute_path)) or '<root>'})",
                       file=sys.stderr)
+            if m_validator and "metadata" in entry:
+                for err in m_validator.iter_errors(entry["metadata"]):
+                    errors += 1
+                    print(f"[fail] {cid}/{cart_id}/metadata: {err.message} "
+                          f"(at {'/'.join(map(str, err.absolute_path)) or '<root>'})",
+                          file=sys.stderr)
         print(f"[ok]   {cid}: {len(data.get('games', {}))} entries")
     sys.exit(1 if errors else 0)
 

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/auntiepickle/Analogue3DSettings/schema/game-metadata.v1.json",
+  "title": "GameMetadata",
+  "description": "Source-agnostic factual metadata about a cart. Lives under each games.json entry's optional `metadata` field. Any enricher (Wikidata, IGDB, MobyGames, manual curation, etc.) fills the SAME fields — downstream consumers don't care where the data came from. Designed around the filters and sorts a UI / website actually needs (see docs/FILTERS.md). All fields optional — a partial enrichment is fine and additive.",
+
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "title":      { "type": "string", "description": "Canonical display title. May differ from the cart-DB name (which is ROM-DB-style)." },
+    "alt_titles": { "type": "array", "items": { "type": "string" }, "description": "Alternate names — regional retitlings, working titles, JP romanisations." },
+    "genres":     { "type": "array", "items": { "type": "string" }, "description": "One or more — many N64 games are multi-genre. See docs/FILTERS.md for the canonical vocabulary." },
+    "developers": { "type": "array", "items": { "type": "string" } },
+    "publishers": { "type": "array", "items": { "type": "string" } },
+    "series":     { "type": "string", "description": "Franchise. Lets a UI group 'all Mario games' or 'all Mario Kart entries'." },
+    "release_year": { "type": "integer", "minimum": 1995, "maximum": 2005 },
+    "release_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "ISO date. release_year is derived from this when both are present — keep them in sync." },
+    "region":     { "enum": ["USA", "Europe", "Japan", "Australia", "World"], "description": "Same vocabulary as cart-names.json — duplicated here so consumers don't have to cross-reference." },
+    "players": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "min": { "type": "integer", "minimum": 1, "maximum": 4 },
+        "max": { "type": "integer", "minimum": 1, "maximum": 4 }
+      }
+    },
+    "rating": {
+      "type": "object",
+      "description": "Per-source aggregate scores. Keys are source IDs ('metacritic', 'gamefaqs', 'mobygames', 'igdb'); values are 0-100 normalised. Optional; enrichers fill what they can.",
+      "additionalProperties": { "type": "number", "minimum": 0, "maximum": 100 }
+    },
+    "expansion_pak": {
+      "enum": ["required", "supported", "none"],
+      "description": "Whether the cart benefits from the Expansion Pak. Surfaces a 'requires EP' filter and lets the Desktop set hardware.virtualExpansionPak intelligently."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Freeform classifier-friendly hints (speedrun-friendly, requires-rumble-pak, has-online-play, etc.). UI uses for chips/badges."
+    },
+    "external_ids": {
+      "type": "object",
+      "description": "Cross-reference IDs by external database. Keys: 'wikidata', 'igdb', 'mobygames', 'gamefaqs', 'metacritic', 'thegamesdb'. Values are the ID strings as that database uses them.",
+      "additionalProperties": { "type": "string" }
+    },
+    "enriched_from": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Which enricher(s) populated which subset of fields. e.g. ['wikidata@2026-06-03', 'manual']. Lets a maintainer see who said what; lets a re-enrich preserve manual overrides."
+    }
+  }
+}
