@@ -1,0 +1,14 @@
+# Maps Google-Sheet column headers to our schema keys.
+# Filled in once we have a copy of the sheet's actual column layout.
+# Example shape (DO NOT TRUST YET — verify against the live sheet):
+#
+#   "Display Mode":             display.odm
+#   "Deblur":                   hardware.disableDeblur     # invert: "On" -> false
+#   "Region":                   hardware.region
+#   "Overclock":                hardware.overclock
+#   "Expansion Pak":            hardware.virtualExpansionPak
+#   "Force Progressive":        hardware.forceProgressiveOutput
+#   "32-bit Color":             hardware.enable32BitColor
+#
+# Each mapping may optionally carry a transform (invert, lowercase, etc.).
+# Unknown columns are logged to tools/outliers.log and ignored.

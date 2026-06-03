@@ -1,0 +1,10 @@
+{
+  "id": "editorial",
+  "name": "Editorial",
+  "description": "Our opinionated pick per game — informed by community-best but willing to disagree. Every entry carries a rationale; entries that diverge from the community consensus carry a `dissent` block explaining the divergence. This is the collection most users will want as their default.",
+  "version": "0.1.0",
+  "updated": "2026-06-03",
+  "license": "MIT",
+  "maintainers": ["auntiepickle"],
+  "depends_on": ["community-best"]
+}

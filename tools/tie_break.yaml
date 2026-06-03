@@ -1,0 +1,12 @@
+# When community votes tie, prefer these values.
+# Default bias: original hardware first, modern enhancements last.
+# Filter_community.py walks this list top-to-bottom; first match wins.
+prefer:
+  - { key: "hardware.disableDeblur",           value: false }   # period-correct softness
+  - { key: "hardware.forceOriginalHardware",   value: true }
+  - { key: "hardware.region",                  value: "Auto" }
+  - { key: "hardware.overclock",               value: "Auto" }
+  - { key: "hardware.enable32BitColor",        value: false }
+  - { key: "hardware.disableTextureFiltering", value: false }
+  - { key: "hardware.disableAntialiasing",     value: false }
+  - { key: "display.odm",                      value: "crt" }

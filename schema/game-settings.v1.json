@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/auntiepickle/Analogue3DSettings/schema/game-settings.v1.json",
+  "title": "AnalogueCartridgeSettings",
+  "description": "Per-game settings the Analogue 3D writes to /Library/N64/Games/<title> <cartId>/settings.json. Schema mirrors TheLeggett/A3D-Manager's reverse-engineered TypeScript interface (CC-BY via that repo). Collection authors emit a PARTIAL of this — anything omitted is left at whatever the user/console already has.",
+
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "title":   { "type": "string" },
+    "display": { "$ref": "#/$defs/DisplaySettings" },
+    "hardware":{ "$ref": "#/$defs/HardwareSettings" }
+  },
+
+  "$defs": {
+    "DisplaySettings": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "odm":     { "enum": ["bvm", "pvm", "crt", "scanlines", "clean"] },
+        "catalog": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "bvm":       { "$ref": "#/$defs/CRTModeSettings" },
+            "pvm":       { "$ref": "#/$defs/CRTModeSettings" },
+            "crt":       { "$ref": "#/$defs/CRTModeSettings" },
+            "scanlines": { "$ref": "#/$defs/CRTModeSettings" },
+            "clean":     { "$ref": "#/$defs/CleanModeSettings" }
+          }
+        }
+      }
+    },
+    "CRTModeSettings": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "horizontalBeamConvergence": { "enum": ["Off", "Consumer", "Professional"] },
+        "verticalBeamConvergence":   { "enum": ["Off", "Consumer", "Professional"] },
+        "enableEdgeOvershoot":       { "type": "boolean" },
+        "enableEdgeHardness":        { "type": "boolean" },
+        "imageSize":                 { "enum": ["Fill", "Integer", "Integer+"] },
+        "imageFit":                  { "enum": ["Original", "Stretch", "Cinema Zoom"] }
+      }
+    },
+    "CleanModeSettings": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "interpolationAlg":      { "enum": ["BC Spline", "Bilinear", "Blackman Harris", "Lanczos2"] },
+        "gammaTransferFunction": { "enum": ["Tube", "Modern", "Professional"] },
+        "sharpness":             { "enum": ["Very Soft", "Soft", "Medium", "Sharp", "Very Sharp"] },
+        "imageSize":             { "enum": ["Fill", "Integer", "Integer+"] },
+        "imageFit":              { "enum": ["Original", "Stretch", "Cinema Zoom"] }
+      }
+    },
+    "HardwareSettings": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "virtualExpansionPak":     { "type": "boolean" },
+        "region":                  { "enum": ["Auto", "NTSC", "PAL"] },
+        "disableDeblur":           { "type": "boolean" },
+        "enable32BitColor":        { "type": "boolean" },
+        "forceProgressiveOutput":  { "type": "boolean" },
+        "disableTextureFiltering": { "type": "boolean" },
+        "disableAntialiasing":     { "type": "boolean" },
+        "forceOriginalHardware":   { "type": "boolean" },
+        "overclock":               { "enum": ["Auto", "Enhanced", "Enhanced+", "Unleashed"] }
+      }
+    }
+  }
+}

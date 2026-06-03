@@ -1,0 +1,9 @@
+{
+  "id": "conservative",
+  "name": "Conservative",
+  "description": "Period-correct N64 look — CRT display, deblur off, original-hardware path, no overclock. The closest the Analogue 3D will get to a 1996 CRT.",
+  "version": "0.1.0",
+  "updated": "2026-06-03",
+  "license": "MIT",
+  "maintainers": ["auntiepickle"]
+}

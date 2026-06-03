@@ -1,0 +1,10 @@
+{
+  "id": "community-best",
+  "name": "Community Best",
+  "description": "Imported from the community-maintained Analogue 3D settings spreadsheet. See tools/import_sheet.py for the pipeline. Cadence: re-imported weekly via GitHub Actions; PRs of any meaningful diff land for review before merge.",
+  "version": "0.0.0",
+  "updated": "2026-06-03",
+  "source": "https://docs.google.com/spreadsheets/d/1SGo9l_NEzy0ESbWAgqOKAZSFJyXQhAAkZXZcSdZPeBA/",
+  "license": "see source spreadsheet — pending curator confirmation",
+  "maintainers": ["pending"]
+}

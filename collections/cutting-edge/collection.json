@@ -1,0 +1,9 @@
+{
+  "id": "cutting-edge",
+  "name": "Cutting Edge",
+  "description": "Every modern enhancement on — clean display, deblur on, 32-bit colour, forced progressive output, Lanczos2 + max sharpness, Enhanced+ overclock. Ignores authenticity for maximum clarity.",
+  "version": "0.1.0",
+  "updated": "2026-06-03",
+  "license": "MIT",
+  "maintainers": ["auntiepickle"]
+}
