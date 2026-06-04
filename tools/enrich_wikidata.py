@@ -38,7 +38,16 @@ COLLECTIONS = ROOT / "collections"
 CACHE_PATH = ROOT / "tools" / ".wikidata_cache.json"
 
 SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
+WBAPI_ENDPOINT = "https://www.wikidata.org/w/api.php"
 USER_AGENT = "Analogue3DSettings-enricher/0.1 (+https://github.com/auntiepickle/Analogue3DSettings)"
+
+# Genuine title renames Wikidata's fuzzy search can't bridge — the cart-DB
+# name and the Wikidata canonical title are different products with different
+# names. Keys are normalized sheet/cart titles; values are Q-IDs to use directly.
+WIKIDATA_ALIASES = {
+    "mega man 64":          "Q3179262",     # Wikidata: "Mega Man Legends"
+    "v-rally edition 99":   "Q2333604",     # Wikidata: "V-Rally 2"
+}
 
 # Wikidata Q-IDs we lean on
 Q_VIDEO_GAME = "Q7889"
@@ -172,6 +181,18 @@ def sparql(query, sleep=0.3):
     return _http_json(SPARQL_ENDPOINT, {"query": query, "format": "json"})
 
 
+def wbsearch(needle, sleep=0.3, limit=5):
+    """The wbsearchentities API does accent-insensitive, punctuation-tolerant
+    fuzzy matching — much better at title resolution than SPARQL CONTAINS.
+    Returns the list of hits, each with id/label/description."""
+    time.sleep(sleep)
+    body = _http_json(WBAPI_ENDPOINT, {
+        "action": "wbsearchentities", "search": needle,
+        "language": "en", "limit": limit, "format": "json",
+    })
+    return body.get("search", []) or []
+
+
 # ---------- cache ----------
 
 def load_cache():
@@ -224,6 +245,8 @@ def lookup_variants(title):
         re.sub(r"\s*\bv\d+\b.*$", "", base).strip(),                   # drop '(v2)' tails
         re.sub(r"\s*\bbeta\b.*$", "", base).strip(),                   # drop '(Beta)' tails
         re.sub(r"\s+featuring\s.*$", "", base, flags=re.I).strip(),    # 'Major League ... featuring Ken Griffey Jr.' → drop the 'featuring …'
+        re.sub(r"\b(9[0-9])\b", r"'\1", base),                          # 'Olympic Hockey 98' → "Olympic Hockey '98"
+        re.sub(r"wcw[- ]nwo", "wcw/nwo", base, flags=re.I),             # 'WCW-nWo Revenge' → 'WCW/nWo Revenge'
     ]
     if " - " in base:
         head, _, tail = base.partition(" - ")
@@ -238,38 +261,77 @@ def lookup_variants(title):
     return out
 
 
+def _looks_like_video_game(hit):
+    """Filter wbsearchentities results to actual video games — the description
+    almost always contains 'video game' or a console name when it's one."""
+    desc = (hit.get("description") or "").lower()
+    return any(s in desc for s in ("video game", "nintendo 64", "n64",
+                                   "game ", "computer game"))
+
+
 def resolve_qid(title, cache):
     if not title:
         return None
     base = title_for_lookup(title)
     if base in cache and "qid" in cache[base]:
         return cache[base].get("qid")
+    # Hand-aliased Q-IDs win first — for genuinely-renamed games (Mega Man 64
+    # → Mega Man Legends, etc.) the fuzzy search can't bridge.
+    if base in WIKIDATA_ALIASES:
+        qid = WIKIDATA_ALIASES[base]
+        cache.setdefault(base, {})["qid"] = qid
+        return qid
     qid = None
+    # Try the wbsearchentities API first (handles accents, punctuation,
+    # edition variants natively); fall back to SPARQL CONTAINS only if it
+    # gives nothing useful.
     for needle in lookup_variants(title):
         try:
-            body = sparql(RESOLVE_QUERY.format(needle=needle.replace('"', '\\"')))
+            hits = wbsearch(needle, limit=5)
         except Exception as e:
-            sys.stderr.write(f"[err]  resolve '{needle}': {e}\n")
+            sys.stderr.write(f"[err]  wbsearch '{needle}': {e}\n")
             continue
-        for row in body.get("results", {}).get("bindings", []):
-            q = row.get("game", {}).get("value", "")
-            if q.startswith("http://www.wikidata.org/entity/Q"):
-                qid = q.rsplit("/", 1)[-1]
+        for h in hits:
+            if _looks_like_video_game(h) and h.get("id", "").startswith("Q"):
+                qid = h["id"]
                 break
         if qid:
             break
+    if not qid:
+        # SPARQL CONTAINS as fallback — rare but catches a few wbsearch misses.
+        for needle in lookup_variants(title):
+            try:
+                body = sparql(RESOLVE_QUERY.format(needle=needle.replace('"', '\\"')))
+            except Exception as e:
+                sys.stderr.write(f"[err]  resolve '{needle}': {e}\n")
+                continue
+            for row in body.get("results", {}).get("bindings", []):
+                q = row.get("game", {}).get("value", "")
+                if q.startswith("http://www.wikidata.org/entity/Q"):
+                    qid = q.rsplit("/", 1)[-1]
+                    break
+            if qid:
+                break
     cache.setdefault(base, {})["qid"] = qid
     return qid
 
 
 def fetch_details(qid, cache):
-    if qid in cache and "details" in cache[qid]:
+    # Only return cached details if they're actually populated. A None or
+    # empty cache hit means the previous run errored out; retry rather than
+    # carry the stale failure forward.
+    if qid in cache and cache[qid].get("details"):
         return cache[qid]["details"]
     try:
         body = sparql(DETAILS_QUERY.format(qid=qid))
     except Exception as e:
-        sys.stderr.write(f"[err]  details {qid}: {e}\n")
-        return None
+        sys.stderr.write(f"[err]  details {qid}: {e} — retrying once\n")
+        try:
+            time.sleep(2.0)        # back off before single retry
+            body = sparql(DETAILS_QUERY.format(qid=qid))
+        except Exception as e2:
+            sys.stderr.write(f"[err]  details {qid}: retry also failed: {e2}\n")
+            return None
     out = {
         "genres": set(), "developers": set(), "publishers": set(),
         "series": None, "release_date": None,

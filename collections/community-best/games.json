@@ -1,7 +1,7 @@
 {
   "collection_id": "community-best",
   "version": "0.1.0",
-  "updated": "2026-06-03",
+  "updated": "2026-06-04",
   "games": {
     "0149b304": {
       "title": "Nagano Winter Olympics '98 (USA)",
@@ -42,7 +42,7 @@
         "release_date": "1997-12-18",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -60,34 +60,27 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q6507722",
-          "mobygames": "mario-party",
-          "howlongtobeat": "5641",
-          "giantbomb": "3030-6424",
-          "igdb": "mario-party",
-          "nintendo64ever": "192",
-          "n64database": "186",
-          "retroachievements": "10263",
-          "metacritic": "mario-party"
+          "wikidata": "Q1196737",
+          "giantbomb": "3025-508"
         },
         "genres": [
           "Party"
         ],
         "developers": [
-          "Hudson Soft"
+          "Capcom",
+          "Hudson Soft",
+          "Nintendo Cube"
         ],
         "publishers": [
           "Nintendo"
         ],
         "tags": [
-          "multiplayer",
           "single-player"
         ],
-        "series": "Mario Party",
         "release_date": "1998-12-18",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -103,6 +96,37 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Noticeably increases FPS"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3179262",
+          "mobygames": "mega-man-legends",
+          "howlongtobeat": "5813",
+          "giantbomb": "3030-7901",
+          "igdb": "mega-man-64",
+          "nintendo64ever": "196",
+          "n64database": "191",
+          "retroachievements": "11280",
+          "metacritic": "mega-man-64"
+        },
+        "genres": [
+          "Action-Adventure"
+        ],
+        "developers": [
+          "Capcom"
+        ],
+        "publishers": [
+          "Capcom"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "series": "Mega Man Legends",
+        "release_date": "1997-12-18",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "03cc04ee": {
@@ -143,7 +167,7 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -161,34 +185,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q870981",
-          "mobygames": "super-smash-bros",
-          "howlongtobeat": "9440",
-          "giantbomb": "3030-19125",
-          "igdb": "super-smash-bros",
-          "nintendo64ever": "336",
-          "n64database": "327",
-          "retroachievements": "10082",
-          "metacritic": "super-smash-bros"
+          "wikidata": "Q2778220",
+          "giantbomb": "3025-318",
+          "retroachievements": "1400"
         },
         "genres": [
-          "Action"
-        ],
-        "developers": [
-          "HAL Laboratory"
-        ],
-        "publishers": [
-          "Nintendo"
+          "Action",
+          "Fighting"
         ],
         "tags": [
           "multiplayer",
           "single-player"
         ],
-        "series": "Super Smash Bros.",
-        "release_date": "1999-01-21",
-        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -226,7 +236,7 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -267,7 +277,7 @@
         ],
         "series": "NFL Quarterback Club",
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -308,7 +318,7 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -350,7 +360,7 @@
         "release_date": "1997-10-24",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -394,7 +404,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -436,7 +446,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -479,7 +489,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -523,7 +533,7 @@
         "release_date": "1998-10-20",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -565,7 +575,7 @@
         "release_date": "1996-09-01",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -606,7 +616,7 @@
         "release_date": "1998-12-26",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -621,6 +631,32 @@
         "sheet_row": 50,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3176640",
+          "mobygames": "bust-a-move-again",
+          "howlongtobeat": "1417",
+          "igdb": "bust-a-move-again",
+          "nintendo64ever": "48",
+          "n64database": "47",
+          "retroachievements": "2465",
+          "metacritic": "puzzle-bobble-2"
+        },
+        "genres": [
+          "Puzzle"
+        ],
+        "developers": [
+          "Taito"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1996-03-29",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "123d4d7a": {
@@ -638,28 +674,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q2891582",
-          "mobygames": "batman-beyond-return-of-the-joker",
-          "howlongtobeat": "878",
-          "giantbomb": "3030-1238",
-          "igdb": "batman-beyond-return-of-the-joker",
-          "nintendo64ever": "30",
-          "n64database": "28",
+          "wikidata": "Q113332390",
+          "mobygames": "batman-beyond-return-of-the-joker_",
           "metacritic": "batman-beyond-return-of-the-joker"
         },
         "developers": [
           "Kemco"
         ],
-        "publishers": [
-          "Ubisoft"
-        ],
         "tags": [
           "single-player"
         ],
-        "release_date": "2000-11-20",
+        "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -697,7 +725,7 @@
         "release_date": "1999-07-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -739,7 +767,7 @@
         "release_date": "1998-09-28",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -785,8 +813,8 @@
         "release_date": "2000-12-18",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -830,7 +858,7 @@
         "release_date": "1997-06-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -874,7 +902,7 @@
         "release_date": "1998-12-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -914,7 +942,7 @@
         "release_date": "1997-12-05",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -956,8 +984,8 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -1000,7 +1028,7 @@
         "release_date": "1997-12-03",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1043,7 +1071,7 @@
         "release_date": "1999-05-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1084,7 +1112,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1131,7 +1159,7 @@
         "release_date": "2001-03-05",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1173,8 +1201,8 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -1220,7 +1248,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1257,7 +1285,7 @@
         "release_date": "1998-12-17",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1274,10 +1302,35 @@
         "observed_region": "?"
       },
       "metadata": {
-        "expansion_pak": "supported",
+        "external_ids": {
+          "wikidata": "Q3532028",
+          "mobygames": "top-gear-hyper-bike",
+          "giantbomb": "3030-9586",
+          "igdb": "top-gear-hyper-bike",
+          "nintendo64ever": "353",
+          "n64database": "341"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Snowblind Studios"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "Top Gear",
+        "release_date": "2000-03-17",
+        "release_year": 2000,
         "enriched_from": [
-          "hand-curated-expansion-pak@2026-06-03"
-        ]
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "290e8150": {
@@ -1318,7 +1371,7 @@
         "release_date": "1998-06-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1362,8 +1415,8 @@
         "release_date": "1998-01-21",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -1407,7 +1460,7 @@
         "release_date": "2000-10-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1450,7 +1503,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1468,24 +1521,26 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1068778",
-          "mobygames": "tom-clancys-rainbow-six",
-          "howlongtobeat": "10442",
-          "giantbomb": "3030-7887",
-          "igdb": "tom-clancy-s-rainbow-six",
-          "nintendo64ever": "348",
-          "n64database": "274",
-          "metacritic": "tom-clancys-rainbow-six"
+          "wikidata": "Q17183996",
+          "mobygames": "tom-clancys-rainbow-six-siege",
+          "howlongtobeat": "21279",
+          "giantbomb": "3030-46562",
+          "igdb": "rainbow-six-siege",
+          "metacritic": "tom-clancys-rainbow-six-siege"
         },
         "genres": [
           "Shooter"
         ],
         "developers": [
-          "Red Storm Entertainment"
+          "Ubisoft Barcelona",
+          "Ubisoft Chengdu",
+          "Ubisoft Kyiv",
+          "Ubisoft Montreal",
+          "Ubisoft Shanghai",
+          "Ubisoft Toronto"
         ],
         "publishers": [
-          "Red Storm Entertainment",
-          "Take-Two Interactive"
+          "Ubisoft"
         ],
         "tags": [
           "co-op",
@@ -1493,10 +1548,8 @@
           "single-player"
         ],
         "series": "Tom Clancy's Rainbow Six",
-        "release_date": "1998-08-21",
-        "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1536,7 +1589,7 @@
         "release_date": "2001-03-14",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1569,7 +1622,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1601,7 +1654,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1642,7 +1695,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1685,7 +1738,7 @@
         "release_date": "1997-11-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1728,7 +1781,7 @@
         "release_date": "1997-12-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1768,7 +1821,7 @@
         "release_date": "1998-12-12",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1807,7 +1860,7 @@
         "release_date": "1998-11-27",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1846,7 +1899,7 @@
         "release_date": "1999-06-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1861,6 +1914,34 @@
         "sheet_row": 374,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3564638",
+          "mobygames": "wcwnwo-revenge",
+          "giantbomb": "3030-18320",
+          "igdb": "wcw-nwo-revenge",
+          "nintendo64ever": "379",
+          "n64database": "370"
+        },
+        "genres": [
+          "Wrestling"
+        ],
+        "developers": [
+          "Asmik Ace Entertainment"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1998-11-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "34c2c4a8": {
@@ -1899,7 +1980,7 @@
         "release_date": "1998-11-27",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1942,7 +2023,7 @@
         "release_date": "1998-03-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -1984,7 +2065,7 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2029,8 +2110,8 @@
         "release_date": "1997-12-09",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2072,7 +2153,7 @@
         "release_date": "1997-07-18",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2087,6 +2168,33 @@
         "sheet_row": 162,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3195037",
+          "mobygames": "ken-griffey-jrs-slugfest",
+          "igdb": "ken-griffey-jr-dot-s-slugfest",
+          "nintendo64ever": "165",
+          "n64database": "160"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Rockstar San Diego"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1999-05-10",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "3897882c": {
@@ -2103,31 +2211,34 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q2909712",
-          "giantbomb": "3030-33469",
-          "igdb": "bomberman-64--1",
-          "nintendo64ever": "42",
-          "n64database": "39"
+          "wikidata": "Q2705639",
+          "mobygames": "bomberman-64-the-second-attack",
+          "howlongtobeat": "1235",
+          "giantbomb": "3030-17082",
+          "igdb": "bomberman-64-the-second-attack",
+          "nintendo64ever": "43",
+          "n64database": "40",
+          "retroachievements": "10330"
         },
         "genres": [
           "Action",
           "Puzzle"
         ],
         "developers": [
-          "Racjin"
+          "Hudson Soft"
         ],
         "publishers": [
-          "Hudson Soft"
+          "Nintendo"
         ],
         "tags": [
           "multiplayer",
           "single-player"
         ],
         "series": "Saga Bomberman",
-        "release_date": "2001-12-20",
-        "release_year": 2001,
+        "release_date": "1999-12-03",
+        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2165,7 +2276,7 @@
         "release_date": "1999-09-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2209,7 +2320,7 @@
         "release_date": "2001-04-08",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2251,7 +2362,7 @@
         "release_date": "1999-02-19",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2289,7 +2400,7 @@
         "release_date": "1998-01-05",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2337,7 +2448,7 @@
         "release_date": "1997-11-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2381,7 +2492,7 @@
         "release_date": "1998-11-10",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2400,6 +2511,11 @@
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
       },
       "metadata": {
+        "expansion_pak": "supported",
+        "enriched_from": [
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata@2026-06-04"
+        ],
         "external_ids": {
           "wikidata": "Q54297",
           "mobygames": "star-wars-rogue-squadron-3d",
@@ -2426,12 +2542,7 @@
         ],
         "series": "Star Wars: Rogue Squadron",
         "release_date": "1998-12-03",
-        "release_year": 1998,
-        "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
-        ],
-        "expansion_pak": "supported"
+        "release_year": 1998
       }
     },
     "44fc8855": {
@@ -2476,7 +2587,7 @@
         "release_date": "1997-11-08",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2521,8 +2632,8 @@
         "release_date": "1999-11-23",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2541,10 +2652,9 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q6843142",
-          "mobygames": "midways-greatest-arcade-hits",
-          "igdb": "midways-greatest-arcade-hits",
-          "metacritic": "midways-greatest-arcade-hits"
+          "wikidata": "Q2859905",
+          "mobygames": "arcades-greatest-hits-the-atari-collection-1",
+          "giantbomb": "3030-2851"
         },
         "developers": [
           "Q389261"
@@ -2553,12 +2663,13 @@
           "Midway Games"
         ],
         "tags": [
+          "multiplayer",
           "single-player"
         ],
-        "release_date": "2000-06-27",
-        "release_year": 2000,
+        "release_date": "1996-12-31",
+        "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2600,7 +2711,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2639,8 +2750,8 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2685,7 +2796,7 @@
         "release_date": "1997-02-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2728,7 +2839,7 @@
         "release_date": "1999-08-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2770,8 +2881,8 @@
         "release_date": "1999-02-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2819,8 +2930,8 @@
         "release_date": "2000-11-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2863,8 +2974,8 @@
         "release_date": "2000-12-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2895,7 +3006,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -2938,8 +3049,8 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -2958,35 +3069,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q3098037",
-          "mobygames": "turok-2-seeds-of-evil",
-          "howlongtobeat": "10705",
-          "giantbomb": "3030-7052",
-          "igdb": "turok-2-seeds-of-evil",
-          "nintendo64ever": "361",
-          "n64database": "349",
-          "retroachievements": "10520",
-          "metacritic": "turok-2-seeds-of-evil"
+          "wikidata": "Q28452472",
+          "mobygames": "turok-2-seeds-of-evil_",
+          "igdb": "turok-2-seeds-of-evil--1",
+          "retroachievements": "13829"
         },
         "genres": [
-          "Shooter"
-        ],
-        "developers": [
-          "Acclaim Studios Austin"
-        ],
-        "publishers": [
-          "Q339228"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
+          "Action"
         ],
         "series": "Turok",
-        "release_date": "1998-10-21",
+        "release_date": "1998-01-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -3026,7 +3122,7 @@
         "release_date": "1997-08-11",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3070,7 +3166,7 @@
         "release_date": "1999-09-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3110,8 +3206,8 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -3152,7 +3248,7 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3185,7 +3281,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3227,7 +3323,7 @@
         "release_date": "1998-07-17",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3268,7 +3364,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3304,7 +3400,7 @@
         ],
         "series": "NBA in the Zone",
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3345,7 +3441,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3390,8 +3486,8 @@
         "release_date": "2000-11-17",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -3429,7 +3525,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3444,6 +3540,33 @@
         "sheet_row": 114,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1411913",
+          "mobygames": "fighting-force",
+          "giantbomb": "3030-14996",
+          "igdb": "fighting-force",
+          "nintendo64ever": "114",
+          "n64database": "110",
+          "retroachievements": "10129"
+        },
+        "developers": [
+          "Core Design"
+        ],
+        "publishers": [
+          "Eidos Interactive"
+        ],
+        "tags": [
+          "co-op",
+          "single-player"
+        ],
+        "series": "Fighting Force",
+        "release_date": "1997-10-31",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "6153de1c": {
@@ -3484,7 +3607,7 @@
         "release_date": "1999-09-23",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3525,8 +3648,8 @@
         "release_date": "2000-10-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -3570,7 +3693,7 @@
         "release_date": "2000-09-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3614,7 +3737,7 @@
         "release_date": "2001-09-12",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3632,34 +3755,14 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q3515891",
-          "mobygames": "disneys-tarzan",
-          "howlongtobeat": "2623",
-          "igdb": "disneys-tarzan",
-          "nintendo64ever": "340",
-          "n64database": "79",
-          "retroachievements": "10298",
-          "metacritic": "disneys-tarzan"
+          "wikidata": "Q28966664",
+          "mobygames": "tarzan"
         },
         "genres": [
-          "Platformer"
+          "Action-Adventure"
         ],
-        "developers": [
-          "Eurocom",
-          "Q389261"
-        ],
-        "publishers": [
-          "Activision",
-          "Disney Interactive Studios"
-        ],
-        "tags": [
-          "single-player"
-        ],
-        "series": "Tarzan",
-        "release_date": "1999-06-16",
-        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3677,33 +3780,19 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1758447",
-          "mobygames": "mario-golf",
-          "giantbomb": "3030-19716",
-          "igdb": "mario-golf",
-          "nintendo64ever": "189",
-          "n64database": "183",
-          "retroachievements": "10259",
+          "wikidata": "Q18087995",
+          "mobygames": "mario-golf-",
+          "retroachievements": "1403",
           "metacritic": "mario-golf"
         },
         "genres": [
           "Sports"
         ],
-        "developers": [
-          "Camelot Software Planning"
-        ],
-        "publishers": [
-          "Nintendo"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
         "series": "Mario Golf",
-        "release_date": "1999-06-11",
+        "release_date": "1999-08-10",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3746,7 +3835,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3787,7 +3876,7 @@
         "release_date": "1996-11-11",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3824,7 +3913,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3842,30 +3931,26 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1330205",
-          "mobygames": "paperboy",
-          "howlongtobeat": "6913",
-          "giantbomb": "3030-3414",
-          "igdb": "paperboy",
-          "nintendo64ever": "258",
-          "n64database": "251",
-          "retroachievements": "177",
-          "metacritic": "paperboy"
+          "wikidata": "Q3283252",
+          "mobygames": "paperboy-2",
+          "giantbomb": "3030-17563",
+          "igdb": "paperboy-2"
         },
         "genres": [
           "Action"
         ],
         "developers": [
-          "Atari Games"
+          "Tengen"
         ],
         "publishers": [
-          "Atari Games"
+          "Mindscape"
         ],
         "tags": [
+          "multiplayer",
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3883,10 +3968,31 @@
         "rationale": "Increased FPS"
       },
       "metadata": {
-        "expansion_pak": "supported",
+        "external_ids": {
+          "wikidata": "Q60029557",
+          "mobygames": "starcraft-64",
+          "howlongtobeat": "9152",
+          "igdb": "starcraft-64",
+          "nintendo64ever": "328",
+          "n64database": "319",
+          "retroachievements": "10272",
+          "metacritic": "starcraft-64"
+        },
+        "developers": [
+          "Blizzard Entertainment",
+          "Mass Media Inc."
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "series": "StarCraft",
+        "release_date": "2000-06-01",
+        "release_year": 2000,
         "enriched_from": [
-          "hand-curated-expansion-pak@2026-06-03"
-        ]
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "6a8078f5": {
@@ -3927,7 +4033,7 @@
         "release_date": "2000-07-21",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -3971,7 +4077,7 @@
         "release_date": "1999-12-17",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4012,8 +4118,8 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -4053,7 +4159,7 @@
         "release_date": "2000-03-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4095,7 +4201,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4134,7 +4240,7 @@
         "release_date": "1998-12-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4175,7 +4281,7 @@
         "release_date": "2000-01-31",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4217,7 +4323,7 @@
         "release_date": "1998-04-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4258,7 +4364,7 @@
         "release_date": "1999-12-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4273,6 +4379,37 @@
         "sheet_row": 53,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q660034",
+          "mobygames": "carmageddon-2-carpocalypse-now",
+          "howlongtobeat": "1535",
+          "giantbomb": "3030-10553",
+          "igdb": "carmageddon-ii-carpocalypse-now",
+          "nintendo64ever": "52",
+          "n64database": "49",
+          "metacritic": "carmageddon-2-carpocalypse-now"
+        },
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "developers": [
+          "Stainless Games"
+        ],
+        "publishers": [
+          "Eidos Interactive"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "series": "Carmageddon",
+        "release_date": "1998-11-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "71d82dc2": {
@@ -4313,7 +4450,7 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4356,8 +4493,8 @@
         "release_date": "1998-12-12",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -4376,32 +4513,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1128672",
-          "mobygames": "lego-racers",
-          "howlongtobeat": "5257",
-          "giantbomb": "3030-11174",
-          "igdb": "lego-racers",
-          "nintendo64ever": "174",
-          "n64database": "170"
+          "wikidata": "Q110810801"
         },
         "genres": [
           "Racing"
         ],
         "developers": [
-          "High Voltage Software"
+          "Kiloo"
         ],
         "publishers": [
-          "The Lego Group"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
+          "Hands-On Mobile"
         ],
         "series": "Lego Racers",
-        "release_date": "1999-10-31",
-        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4445,7 +4570,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4477,7 +4602,7 @@
         "release_date": "1999-11-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4492,6 +4617,34 @@
         "sheet_row": 77,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3093039",
+          "mobygames": "deadly-arts",
+          "giantbomb": "3030-18251",
+          "igdb": "deadly-arts",
+          "nintendo64ever": "120",
+          "n64database": "115"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1998-03-26",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "77a46b7c": {
@@ -4506,6 +4659,37 @@
         "observed_firmware": "1.2.4",
         "observed_region": "USA",
         "rationale": "Smoother Performance, especially in 3D matches"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1109914",
+          "mobygames": "pokmon-puzzle-league",
+          "howlongtobeat": "7165",
+          "giantbomb": "3030-8052",
+          "igdb": "pokemon-puzzle-league",
+          "nintendo64ever": "265",
+          "n64database": "258",
+          "retroachievements": "10270",
+          "metacritic": "pokemon-puzzle-league"
+        },
+        "genres": [
+          "Puzzle"
+        ],
+        "developers": [
+          "Nintendo Software Technology"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "series": "Pokémon Puzzle series",
+        "release_date": "2000-09-25",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "77a7e487": {
@@ -4544,7 +4728,7 @@
         "release_date": "1999-10-13",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4586,7 +4770,7 @@
         "release_date": "2000-10-29",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4629,7 +4813,7 @@
         "release_date": "1999-03-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4674,7 +4858,7 @@
         "release_date": "1998-07-14",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4701,7 +4885,7 @@
         },
         "series": "All-Star Baseball",
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4742,7 +4926,7 @@
         "release_date": "1999-09-24",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4761,33 +4945,10 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1385473",
-          "mobygames": "extreme-g",
-          "howlongtobeat": "3277",
-          "giantbomb": "3030-2379",
-          "igdb": "extreme-g",
-          "nintendo64ever": "102",
-          "n64database": "97",
-          "metacritic": "extreme-g"
+          "wikidata": "Q66058767"
         },
-        "genres": [
-          "Action"
-        ],
-        "developers": [
-          "Acclaim Studios London"
-        ],
-        "publishers": [
-          "Q339228"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "series": "Extreme-G",
-        "release_date": "1997-09-30",
-        "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4829,7 +4990,7 @@
         "release_date": "1997-10-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4861,7 +5022,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4880,30 +5041,19 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1217501",
-          "mobygames": "007-the-world-is-not-enough",
-          "igdb": "james-bond-007-the-world-is-not-enough--1",
-          "nintendo64ever": "1",
-          "n64database": "378",
+          "wikidata": "Q28136682",
+          "mobygames": "007-the-world-is-not-enough_",
+          "igdb": "james-bond-007-the-world-is-not-enough--2",
+          "retroachievements": "15616",
           "metacritic": "007-the-world-is-not-enough"
         },
         "genres": [
           "Shooter"
         ],
-        "developers": [
-          "Eurocom"
-        ],
-        "publishers": [
-          "Electronic Arts"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "2000-11-01",
-        "release_year": 2000,
+        "release_date": "2001-01-01",
+        "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -4947,8 +5097,8 @@
         "release_date": "1999-03-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -4967,34 +5117,19 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q2453573",
-          "mobygames": "castlevania-",
-          "howlongtobeat": "1569",
-          "giantbomb": "3030-22950",
-          "igdb": "castlevania--2",
-          "nintendo64ever": "53",
-          "n64database": "50",
-          "retroachievements": "10667",
-          "metacritic": "castlevania-1998"
+          "wikidata": "Q2515184",
+          "giantbomb": "3025-86",
+          "retroachievements": "8491"
         },
         "genres": [
-          "Action-Adventure"
+          "Platformer"
         ],
         "developers": [
           "Konami"
         ],
-        "publishers": [
-          "Konami"
-        ],
-        "tags": [
-          "single-player"
-        ],
-        "series": "Castlevania",
-        "release_date": "1998-12-31",
-        "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -5038,7 +5173,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5074,7 +5209,7 @@
         "release_date": "1998-06-16",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5115,7 +5250,7 @@
         "release_date": "1998-08-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5156,7 +5291,7 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5197,7 +5332,7 @@
         "release_date": "1997-10-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5212,6 +5347,33 @@
         "sheet_row": 59,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q7719077",
+          "mobygames": "bombing-islands",
+          "giantbomb": "3030-22939",
+          "igdb": "the-bombing-islands",
+          "nintendo64ever": "58"
+        },
+        "genres": [
+          "Puzzle"
+        ],
+        "developers": [
+          "Kemco"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1997-07-18",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "887a8fe3": {
@@ -5253,7 +5415,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5300,8 +5462,8 @@
         "release_date": "1999-11-22",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "required"
       }
@@ -5322,31 +5484,35 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q2909712",
-          "giantbomb": "3030-33469",
-          "igdb": "bomberman-64--1",
-          "nintendo64ever": "42",
-          "n64database": "39"
+          "wikidata": "Q2909714",
+          "mobygames": "bomberman-64",
+          "howlongtobeat": "1234",
+          "giantbomb": "3030-17348",
+          "igdb": "bomberman-64",
+          "nintendo64ever": "41",
+          "n64database": "38",
+          "retroachievements": "10120"
         },
         "genres": [
-          "Action",
+          "Platformer",
           "Puzzle"
         ],
         "developers": [
-          "Racjin"
+          "Hudson Soft"
         ],
         "publishers": [
-          "Hudson Soft"
+          "Hudson Soft",
+          "Nintendo"
         ],
         "tags": [
           "multiplayer",
           "single-player"
         ],
         "series": "Saga Bomberman",
-        "release_date": "2001-12-20",
-        "release_year": 2001,
+        "release_date": "1997-09-26",
+        "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5390,7 +5556,7 @@
         "release_date": "1998-04-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5434,7 +5600,7 @@
         "release_date": "1999-10-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5473,7 +5639,7 @@
         "release_date": "2000-12-11",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5511,7 +5677,7 @@
         "release_date": "2000-10-13",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5555,8 +5721,8 @@
         "release_date": "1999-10-11",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -5594,7 +5760,7 @@
         "release_date": "1999-05-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5636,7 +5802,7 @@
         "release_date": "1996-12-03",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5678,7 +5844,7 @@
         "release_date": "1998-06-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5721,7 +5887,7 @@
         "release_date": "2000-09-08",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5763,8 +5929,8 @@
         "release_date": "1999-08-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -5808,7 +5974,7 @@
         "release_date": "1998-11-03",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5850,7 +6016,7 @@
         "release_date": "1997-12-05",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5880,7 +6046,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5921,7 +6087,7 @@
         "release_date": "1997-06-27",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -5962,7 +6128,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6003,7 +6169,7 @@
         "release_date": "1996-04-16",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6048,7 +6214,7 @@
         "release_date": "2000-12-07",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6087,7 +6253,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6132,8 +6298,8 @@
         "release_date": "2000-07-27",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -6171,7 +6337,7 @@
         "release_date": "1998-11-24",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6214,7 +6380,7 @@
         "release_date": "1999-05-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6253,7 +6419,7 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6295,7 +6461,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6337,7 +6503,7 @@
         "release_date": "1997-07-10",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6387,8 +6553,8 @@
         "release_date": "2001-10-28",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -6429,7 +6595,7 @@
         "release_date": "1999-02-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6470,7 +6636,7 @@
         "release_date": "1996-01-01",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6511,7 +6677,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6552,8 +6718,8 @@
         "release_date": "2000-09-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -6595,7 +6761,7 @@
         "release_date": "1997-11-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6636,7 +6802,7 @@
         "release_date": "1998-11-18",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6678,7 +6844,7 @@
         "release_date": "1996-04-04",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6715,7 +6881,7 @@
         "release_date": "1999-12-15",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6761,7 +6927,7 @@
         "release_date": "1997-03-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6776,6 +6942,31 @@
         "sheet_row": 239,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3346033",
+          "mobygames": "nuclear-strike",
+          "giantbomb": "3030-11731",
+          "igdb": "nuclear-strike",
+          "nintendo64ever": "247",
+          "n64database": "242"
+        },
+        "developers": [
+          "Electronic Arts"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "series": "Strike",
+        "release_date": "1997-08-31",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "a5ee8965": {
@@ -6789,6 +6980,35 @@
         "sheet_row": 244,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3351655",
+          "mobygames": "olympic-hockey-98",
+          "giantbomb": "3030-22790",
+          "igdb": "olympic-hockey-98",
+          "nintendo64ever": "252",
+          "n64database": "247"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Treyarch"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "Winter Olympic Games",
+        "release_date": "1998-02-23",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "a63cc09a": {
@@ -6830,7 +7050,7 @@
         "release_date": "1999-07-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6872,7 +7092,7 @@
         "release_date": "1998-04-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6914,7 +7134,7 @@
         "release_date": "1999-04-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6939,7 +7159,7 @@
           "n64database": "231"
         },
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -6983,7 +7203,7 @@
         "release_date": "1999-09-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7002,34 +7222,15 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q369086",
-          "mobygames": "goldeneye-007",
-          "howlongtobeat": "4003",
-          "giantbomb": "3030-3166",
-          "igdb": "goldeneye-007",
-          "nintendo64ever": "128",
-          "n64database": "124",
-          "retroachievements": "10073",
+          "wikidata": "Q114374241",
+          "mobygames": "goldeneye-007__",
           "metacritic": "goldeneye-007"
         },
-        "genres": [
-          "Shooter"
-        ],
         "developers": [
-          "Rare Ltd."
+          "n-Space"
         ],
-        "publishers": [
-          "Nintendo"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "series": "James Bond",
-        "release_date": "1997-08-23",
-        "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7070,7 +7271,7 @@
         "release_date": "1998-12-04",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7111,7 +7312,7 @@
         "release_date": "1997-05-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7153,7 +7354,7 @@
         "release_date": "1997-08-07",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7195,7 +7396,7 @@
         "release_date": "1999-03-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7237,7 +7438,7 @@
         "release_date": "1998-12-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7282,7 +7483,7 @@
         "release_date": "1997-04-27",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7322,7 +7523,7 @@
         "release_date": "1998-11-27",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7337,6 +7538,29 @@
         "sheet_row": 16,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3571784",
+          "mobygames": "all-star-tennis-99",
+          "howlongtobeat": "15032",
+          "giantbomb": "3030-13377",
+          "igdb": "all-star-tennis-99",
+          "nintendo64ever": "393",
+          "n64database": "14"
+        },
+        "publishers": [
+          "Ubisoft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1998-11-01",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "b372fa05": {
@@ -7376,7 +7600,7 @@
         "release_date": "1999-07-14",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7421,7 +7645,7 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7436,6 +7660,33 @@
         "sheet_row": 358,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2333604",
+          "mobygames": "need-for-speed-v-rally-2",
+          "igdb": "need-for-speed-v-rally-2--1",
+          "metacritic": "test-drive-v-rally"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Eden Games"
+        ],
+        "publishers": [
+          "Infogrames"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "V-Rally",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "b54ec52b": {
@@ -7452,27 +7703,12 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q28452238",
-          "mobygames": "monopoly__",
-          "howlongtobeat": "15937",
-          "igdb": "monopoly--7",
-          "nintendo64ever": "206",
-          "n64database": "201"
+          "wikidata": "Q28452239",
+          "mobygames": "monopoly_____",
+          "igdb": "monopoly--21"
         },
-        "developers": [
-          "Mind's Eye Productions"
-        ],
-        "publishers": [
-          "Hasbro Interactive"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "1999-01-01",
-        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7512,7 +7748,7 @@
         "release_date": "2000-09-29",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7555,7 +7791,7 @@
         "release_date": "1998-01-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7597,7 +7833,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7637,7 +7873,7 @@
         "release_date": "2000-11-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7681,7 +7917,7 @@
         "release_date": "1997-03-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7724,7 +7960,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7764,7 +8000,7 @@
         "release_date": "1998-08-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7807,7 +8043,7 @@
         "release_date": "1996-12-03",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7849,7 +8085,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7893,7 +8129,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -7935,8 +8171,8 @@
         "release_date": "2000-06-09",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -7975,7 +8211,7 @@
         "release_date": "1998-07-10",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8017,7 +8253,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8058,7 +8294,7 @@
         "release_date": "1998-01-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8106,8 +8342,8 @@
         "release_date": "2000-05-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "required"
       }
@@ -8149,7 +8385,7 @@
         "release_date": "1999-10-12",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8167,33 +8403,17 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q2862833",
-          "mobygames": "army-men-sarges-heroes-2",
-          "howlongtobeat": "616",
-          "giantbomb": "3030-14160",
-          "igdb": "army-men-sarge-s-heroes-2",
-          "nintendo64ever": "20",
-          "n64database": "18",
-          "metacritic": "army-men-sarges-heroes-2"
+          "wikidata": "Q126733627",
+          "mobygames": "army-men-sarges-heroes-2_",
+          "igdb": "army-men-sarges-heroes-2"
         },
-        "genres": [
-          "Action",
-          "Shooter"
-        ],
-        "developers": [
-          "The 3DO Company"
-        ],
         "publishers": [
           "The 3DO Company"
         ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "2000-09-26",
+        "release_date": "2000-11-21",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8211,21 +8431,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q110041222",
-          "mobygames": "jeopardy_______",
-          "nintendo64ever": "151",
-          "n64database": "149"
+          "wikidata": "Q1979518",
+          "mobygames": "jeopardy"
         },
+        "genres": [
+          "Puzzle"
+        ],
         "developers": [
-          "GameTek"
+          "Rare Ltd."
         ],
         "publishers": [
           "GameTek"
         ],
-        "release_date": "1998-02-25",
-        "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8271,7 +8490,7 @@
         "release_date": "2000-08-11",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8312,7 +8531,7 @@
         "release_date": "2000-06-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8354,7 +8573,7 @@
         "release_date": "1997-12-19",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8395,7 +8614,7 @@
         "release_date": "1998-07-29",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8437,7 +8656,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8479,7 +8698,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8522,7 +8741,7 @@
         "release_date": "2000-03-24",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8567,7 +8786,7 @@
         "release_date": "1998-06-29",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8586,33 +8805,12 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q55217",
-          "mobygames": "star-wars-episode-i-racer",
-          "howlongtobeat": "9080",
-          "giantbomb": "3030-13526",
-          "igdb": "star-wars-episode-i-racer",
-          "nintendo64ever": "326",
-          "n64database": "316",
-          "metacritic": "star-wars-episode-i-racer"
+          "wikidata": "Q860750",
+          "retroachievements": "14240"
         },
-        "genres": [
-          "Racing"
-        ],
-        "developers": [
-          "Lucasfilm Games"
-        ],
-        "publishers": [
-          "Lucasfilm Games"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "1999-05-19",
-        "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -8652,7 +8850,7 @@
         "release_date": "1997-11-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8691,7 +8889,7 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8735,8 +8933,8 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -8755,18 +8953,24 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q3504117",
-          "mobygames": "super-bowling",
-          "nintendo64ever": "332",
-          "n64database": "323"
+          "wikidata": "Q7642219",
+          "igdb": "super-bowling--1"
         },
         "genres": [
           "Sports"
         ],
-        "release_date": "1999-03-26",
-        "release_year": 1999,
+        "developers": [
+          "KID"
+        ],
+        "publishers": [
+          "Athena"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8811,7 +9015,7 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8852,7 +9056,7 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8897,7 +9101,7 @@
         "release_date": "1999-09-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8915,21 +9119,10 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q110039980",
-          "mobygames": "wheel-of-fortune___",
-          "nintendo64ever": "381",
-          "n64database": "372"
+          "wikidata": "Q3567653"
         },
-        "developers": [
-          "GameTek"
-        ],
-        "publishers": [
-          "Take-Two Interactive"
-        ],
-        "release_date": "1997-11-28",
-        "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -8947,17 +9140,15 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q65038242",
-          "mobygames": "all-star-baseball-99",
-          "howlongtobeat": "20507",
-          "giantbomb": "3030-19311",
-          "igdb": "all-star-baseball-99",
-          "nintendo64ever": "15",
-          "n64database": "11"
+          "wikidata": "Q2837387",
+          "mobygames": "all-star-baseball-2003_",
+          "retroachievements": "1385"
         },
-        "series": "All-Star Baseball",
+        "genres": [
+          "Sports"
+        ],
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9001,8 +9192,8 @@
         "release_date": "2000-04-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -9042,7 +9233,7 @@
         "release_date": "1999-06-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9083,7 +9274,7 @@
         "release_date": "1998-12-04",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9126,7 +9317,7 @@
         "release_date": "1997-12-12",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9165,7 +9356,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9204,7 +9395,7 @@
         "release_date": "1999-09-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9242,7 +9433,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9280,7 +9471,7 @@
         "release_date": "1998-06-10",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9323,7 +9514,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9342,32 +9533,21 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q3564645",
-          "mobygames": "wcw-mayhem",
-          "howlongtobeat": "11116",
-          "giantbomb": "3030-1204",
-          "igdb": "wcw-mayhem",
-          "nintendo64ever": "376",
-          "n64database": "367"
+          "wikidata": "Q130550035",
+          "mobygames": "wcw-mayhem_",
+          "igdb": "wcw-mayhem--1"
         },
         "genres": [
           "Wrestling"
         ],
         "developers": [
-          "Electronic Arts"
+          "2n Productions"
         ],
-        "publishers": [
-          "Electronic Arts"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "1999-08-31",
-        "release_year": 1999,
+        "release_date": "2000-01-01",
+        "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -9386,32 +9566,20 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q3282847",
-          "mobygames": "turok-rage-wars",
-          "giantbomb": "3030-7962",
-          "igdb": "turok-rage-wars",
-          "nintendo64ever": "360",
-          "n64database": "351"
+          "wikidata": "Q28452644",
+          "mobygames": "turok-rage-wars_",
+          "igdb": "turok-rage-wars--1"
         },
         "genres": [
-          "Shooter"
+          "Action"
         ],
         "developers": [
-          "Acclaim Studios Austin"
+          "Bit Managers"
         ],
-        "publishers": [
-          "Q339228"
-        ],
-        "tags": [
-          "co-op",
-          "multiplayer",
-          "single-player"
-        ],
-        "series": "Turok",
-        "release_date": "1999-10-31",
+        "release_date": "1999-11-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9454,7 +9622,7 @@
         "release_date": "1998-09-11",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9494,7 +9662,7 @@
         "release_date": "2000-11-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9527,7 +9695,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9569,7 +9737,7 @@
         "release_date": "1998-11-20",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9613,7 +9781,7 @@
         "release_date": "1997-10-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9655,7 +9823,7 @@
         "release_date": "1998-07-16",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9693,8 +9861,8 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -9738,7 +9906,7 @@
         "release_date": "1999-11-02",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9781,7 +9949,7 @@
         "release_date": "2000-08-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9824,7 +9992,7 @@
         "release_date": "1997-12-09",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9843,30 +10011,19 @@
       },
       "metadata": {
         "external_ids": {
-          "wikidata": "Q1217501",
-          "mobygames": "007-the-world-is-not-enough",
-          "igdb": "james-bond-007-the-world-is-not-enough--1",
-          "nintendo64ever": "1",
-          "n64database": "378",
+          "wikidata": "Q28136682",
+          "mobygames": "007-the-world-is-not-enough_",
+          "igdb": "james-bond-007-the-world-is-not-enough--2",
+          "retroachievements": "15616",
           "metacritic": "007-the-world-is-not-enough"
         },
         "genres": [
           "Shooter"
         ],
-        "developers": [
-          "Eurocom"
-        ],
-        "publishers": [
-          "Electronic Arts"
-        ],
-        "tags": [
-          "multiplayer",
-          "single-player"
-        ],
-        "release_date": "2000-11-01",
-        "release_year": 2000,
+        "release_date": "2001-01-01",
+        "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9906,7 +10063,7 @@
         "release_date": "1997-03-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9921,6 +10078,35 @@
         "sheet_row": 116,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1633977",
+          "mobygames": "forsaken",
+          "giantbomb": "3030-15636",
+          "igdb": "forsaken",
+          "nintendo64ever": "116",
+          "n64database": "112",
+          "metacritic": "forsaken-1998"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Acclaim Studios London"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1998-04-30",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "e2bbf74f": {
@@ -9957,7 +10143,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -9998,8 +10184,8 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -10040,7 +10226,7 @@
         "release_date": "2000-10-23",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10085,8 +10271,8 @@
         "release_date": "1999-10-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03",
-          "hand-curated-expansion-pak@2026-06-03"
+          "wikidata@2026-06-04",
+          "hand-curated-expansion-pak@2026-06-04"
         ],
         "expansion_pak": "supported"
       }
@@ -10129,7 +10315,7 @@
         "release_date": "1998-11-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10168,7 +10354,7 @@
         "release_date": "2000-08-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10183,6 +10369,34 @@
         "sheet_row": 191,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3517288",
+          "mobygames": "mia-hamm-soccer-64",
+          "giantbomb": "3030-22797",
+          "igdb": "world-league-soccer-2000",
+          "nintendo64ever": "198",
+          "n64database": "192"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Silicon Dreams Studios"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "2000-11-09",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "ead8d623": {
@@ -10223,7 +10437,7 @@
         "release_date": "1999-08-06",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10263,7 +10477,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10297,10 +10511,10 @@
         "publishers": [
           "Q339228"
         ],
-        "series": "NFL Quarterback Club",
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-04"
+        ],
+        "series": "NFL Quarterback Club"
       }
     },
     "ee0902de": {
@@ -10342,7 +10556,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10385,7 +10599,7 @@
         "release_date": "2000-11-13",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10423,7 +10637,7 @@
         "release_date": "1998-12-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10460,7 +10674,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10501,7 +10715,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10545,7 +10759,7 @@
         "release_date": "1997-04-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10560,6 +10774,36 @@
         "sheet_row": 143,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2398156",
+          "mobygames": "international-superstar-soccer-98",
+          "howlongtobeat": "12844",
+          "giantbomb": "3030-12841",
+          "igdb": "international-superstar-soccer-98",
+          "nintendo64ever": "148",
+          "n64database": "139"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Konami"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "International Superstar Soccer",
+        "release_date": "1998-06-04",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "f79f53cf": {
@@ -10573,6 +10817,15 @@
         "sheet_row": 193,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q123986341",
+          "mobygames": "micro-machines-64-turbo"
+        },
+        "enriched_from": [
+          "wikidata@2026-06-04"
+        ]
       }
     },
     "f7a5d91b": {
@@ -10610,7 +10863,7 @@
         "release_date": "2000-12-27",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     },
@@ -10648,7 +10901,7 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
+          "wikidata@2026-06-04"
         ]
       }
     }
