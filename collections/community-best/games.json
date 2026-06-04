@@ -42,7 +42,11 @@
         "release_date": "1997-12-18",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Hyper Olympics in Nagano"
         ]
       }
     },
@@ -167,8 +171,16 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "MK64",
+          "MK 64",
+          "Super Mario Kart R"
+        ],
+        "series": "Mario Kart"
       }
     },
     "04079b93": {
@@ -198,7 +210,19 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "SSB",
+          "Smash Bros.",
+          "Smash",
+          "Super Smash",
+          "Smash Bros",
+          "Smash Brothers",
+          "Super Smash Brothers",
+          "Super Smash Bros",
+          "Super Smash Bros. (series)"
         ]
       }
     },
@@ -277,7 +301,11 @@
         ],
         "series": "NFL Quarterback Club",
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "NFL Quarterback Club 2001"
         ]
       }
     },
@@ -318,8 +346,10 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "List of Space Invaders video games"
       }
     },
     "079955a7": {
@@ -360,7 +390,11 @@
         "release_date": "1997-10-24",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "NFL Quarterback Club '98"
         ]
       }
     },
@@ -404,7 +438,12 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Madden NFL '99",
+          "Madden NFL 1999"
         ]
       }
     },
@@ -575,7 +614,11 @@
         "release_date": "1996-09-01",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "alianse"
         ]
       }
     },
@@ -616,7 +659,11 @@
         "release_date": "1998-12-26",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Snow Speeder"
         ]
       }
     },
@@ -655,8 +702,14 @@
         "release_date": "1996-03-29",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "ACA NEOGEO PUZZLE BOBBLE 2"
+        ],
+        "series": "Bubble Bobble#Puzzle Bobble"
       }
     },
     "123d4d7a": {
@@ -814,9 +867,15 @@
         "release_year": 2000,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Star Wars: Battle for Naboo"
+        ],
+        "series": "Star Wars video games"
       }
     },
     "17e4aeb2": {
@@ -902,7 +961,11 @@
         "release_date": "1998-12-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mystical Ninja 2 Starring Goemon"
         ]
       }
     },
@@ -1112,8 +1175,10 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Triple Play series"
       }
     },
     "20b8e93f": {
@@ -1159,7 +1224,11 @@
         "release_date": "2001-03-05",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Conker’s BFD"
         ]
       }
     },
@@ -1371,7 +1440,11 @@
         "release_date": "1998-06-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Cruisin' World"
         ]
       }
     },
@@ -1416,9 +1489,20 @@
         "release_year": 1998,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "1998 Resident Evil 2",
+          "RE2",
+          "RE 2",
+          "Biohazard 2",
+          "Resident Evil 2 (1998)",
+          "Biohazard 2 (1998)"
+        ],
+        "series": "Resident Evil"
       }
     },
     "2c00e5f4": {
@@ -1549,7 +1633,18 @@
         ],
         "series": "Tom Clancy's Rainbow Six",
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Rainbow Six Siege",
+          "Rainbow 6 siege",
+          "Rainbow Six: Siege",
+          "R6",
+          "Siege",
+          "Tom Clancy’s Rainbow Six Siege X",
+          "Rainbow Six Siege X",
+          "R6 Siege"
         ]
       }
     },
@@ -1589,7 +1684,12 @@
         "release_date": "2001-03-14",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Aidyn Chronicles",
+          "The First Mage"
         ]
       }
     },
@@ -1622,8 +1722,10 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Knockout Kings"
       }
     },
     "3049173b": {
@@ -1654,8 +1756,10 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "NFL Blitz"
       }
     },
     "315bd0e7": {
@@ -1695,8 +1799,10 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "NHL (video game series)"
       }
     },
     "31eb0049": {
@@ -1781,7 +1887,11 @@
         "release_date": "1997-12-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Yoshi Story"
         ]
       }
     },
@@ -2065,8 +2175,16 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "MK64",
+          "MK 64",
+          "Super Mario Kart R"
+        ],
+        "series": "Mario Kart"
       }
     },
     "37579204": {
@@ -2111,9 +2229,13 @@
         "release_year": 1997,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Quake 2"
+        ]
       }
     },
     "377e874d": {
@@ -2633,9 +2755,13 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Infernal machine"
+        ]
       }
     },
     "47f55a65": {
@@ -2669,8 +2795,10 @@
         "release_date": "1996-12-31",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Arcade's Greatest Hits"
       }
     },
     "48283c1b": {
@@ -2839,8 +2967,10 @@
         "release_date": "1999-08-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Duke Nukem"
       }
     },
     "4d845967": {
@@ -3122,8 +3252,10 @@
         "release_date": "1997-08-11",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "List of Tetris variants"
       }
     },
     "563b66fa": {
@@ -3565,7 +3697,12 @@
         "release_date": "1997-10-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Fighting Force 64",
+          "Metal Fist"
         ]
       }
     },
@@ -3607,7 +3744,11 @@
         "release_date": "1999-09-23",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "WinBack: Covert Operations"
         ]
       }
     },
@@ -3649,9 +3790,13 @@
         "release_year": 2000,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Stunt Racer 3000"
+        ]
       }
     },
     "6352a50d": {
@@ -3693,7 +3838,11 @@
         "release_date": "2000-09-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Daffy Duck Starring As Duck Dodgers"
         ]
       }
     },
@@ -3737,7 +3886,12 @@
         "release_date": "2001-09-12",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Madden 2002",
+          "Madden NFL 02"
         ]
       }
     },
@@ -3792,7 +3946,11 @@
         "release_date": "1999-08-10",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mario Golf GB"
         ]
       }
     },
@@ -3913,7 +4071,11 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "MTM 64"
         ]
       }
     },
@@ -4033,7 +4195,11 @@
         "release_date": "2000-07-21",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mario Tennis 64"
         ]
       }
     },
@@ -4364,8 +4530,10 @@
         "release_date": "1999-12-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Transformers"
       }
     },
     "71b58e1b": {
@@ -4408,7 +4576,14 @@
         "release_date": "1998-11-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Carmageddon 2",
+          "Carmageddon II",
+          "Carmageddon 64",
+          "Carmageddon II: Carpocalypse Now!"
         ]
       }
     },
@@ -4450,7 +4625,11 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Pilot Wings 64"
         ]
       }
     },
@@ -4526,7 +4705,13 @@
         ],
         "series": "Lego Racers",
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "LEGO Racers",
+          "LEGO Racers Mobile",
+          "LEGO Racers [Mobile]"
         ]
       }
     },
@@ -4570,8 +4755,10 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Toy Story (franchise)"
       }
     },
     "765d40ef": {
@@ -4688,7 +4875,11 @@
         "release_date": "2000-09-25",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Pokemon Puzzle League"
         ]
       }
     },
@@ -4728,8 +4919,14 @@
         "release_date": "1999-10-13",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Army Men: Air Combat"
+        ],
+        "series": "Army Men"
       }
     },
     "7809ed5d": {
@@ -4813,8 +5010,15 @@
         "release_date": "1999-03-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Rampage 2",
+          "Universal Tour"
+        ],
+        "series": "Rampage (franchise)"
       }
     },
     "7a9cfa1e": {
@@ -4926,8 +5130,10 @@
         "release_date": "1999-09-24",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "EA Sports NASCAR"
       }
     },
     "7c59b2a4": {
@@ -5053,8 +5259,10 @@
         "release_date": "2001-01-01",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "James Bond in video games"
       }
     },
     "7fd2d858": {
@@ -5098,9 +5306,13 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Shadowman"
+        ]
       }
     },
     "829d3617": {
@@ -5250,7 +5462,11 @@
         "release_date": "1998-08-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "GT 64"
         ]
       }
     },
@@ -5291,8 +5507,14 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Rampage: World Tour"
+        ],
+        "series": "Rampage (franchise)"
       }
     },
     "871bbc72": {
@@ -5372,8 +5594,10 @@
         "release_date": "1997-07-18",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Kid Klown"
       }
     },
     "887a8fe3": {
@@ -5415,8 +5639,14 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "FIFA 98"
+        ],
+        "series": "FIFA (video game series)"
       }
     },
     "89239b0e": {
@@ -5463,9 +5693,14 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "required"
+        "expansion_pak": "required",
+        "alt_titles": [
+          "DK64",
+          "DK 64"
+        ]
       }
     },
     "89eefc64": {
@@ -5512,7 +5747,11 @@
         "release_date": "1997-09-26",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Bomberman 64 (1997 video game)"
         ]
       }
     },
@@ -5600,7 +5839,12 @@
         "release_date": "1999-10-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "SF Rush 2049",
+          "Rush 2049"
         ]
       }
     },
@@ -5844,7 +6088,12 @@
         "release_date": "1998-06-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Holy Magic Century",
+          "Eltale Monsters"
         ]
       }
     },
@@ -5887,8 +6136,10 @@
         "release_date": "2000-09-08",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "List of Pac-Man video games"
       }
     },
     "91d646c4": {
@@ -6016,7 +6267,11 @@
         "release_date": "1997-12-05",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Top Gear Pocket"
         ]
       }
     },
@@ -6299,9 +6554,13 @@
         "release_year": 2000,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Turok 3"
+        ]
       }
     },
     "97a533c0": {
@@ -6554,9 +6813,16 @@
         "release_year": 2001,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "THPS3",
+          "Tony Hawk 3"
+        ],
+        "series": "Tony Hawk's"
       }
     },
     "9bfffb3f": {
@@ -6595,7 +6861,11 @@
         "release_date": "1999-02-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Bokujō Monogatari 2"
         ]
       }
     },
@@ -6719,9 +6989,15 @@
         "release_year": 2000,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "THPS2"
+        ],
+        "series": "Tony Hawk's"
       }
     },
     "a0c63bac": {
@@ -6927,7 +7203,11 @@
         "release_date": "1997-03-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "DOOM 64"
         ]
       }
     },
@@ -7007,7 +7287,11 @@
         "release_date": "1998-02-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Olympic Hockey Nagano '98"
         ]
       }
     },
@@ -7050,7 +7334,14 @@
         "release_date": "1999-07-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "ISS 2000",
+          "Jikkyō J-League 1999: Perfect Striker 2",
+          "Jikkyou J-League 1999: Perfect Striker 2",
+          "実況J.LEAGUE1999パーフェクトストライカー2"
         ]
       }
     },
@@ -7134,7 +7425,11 @@
         "release_date": "1999-04-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "NHL Pro 99"
         ]
       }
     },
@@ -7396,7 +7691,11 @@
         "release_date": "1999-03-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Gex 3"
         ]
       }
     },
@@ -7483,7 +7782,13 @@
         "release_date": "1997-04-27",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Lylat Wars",
+          "Star Fox⁶⁴",
+          "Starfox 64"
         ]
       }
     },
@@ -7559,7 +7864,11 @@
         "release_date": "1998-11-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Yannick Noah All Star Tennis '99"
         ]
       }
     },
@@ -7645,7 +7954,19 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mario 64",
+          "SM 64",
+          "M64",
+          "M 64",
+          "スーパーマリオ64",
+          "Super Mario Bros. 6",
+          "Super Mario Brothers 6",
+          "Super Mario Bros. 64",
+          "Super Mario Brothers 64"
         ]
       }
     },
@@ -7708,8 +8029,10 @@
           "igdb": "monopoly--21"
         },
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Monopoly in video games"
       }
     },
     "b588d00b": {
@@ -7748,8 +8071,10 @@
         "release_date": "2000-09-29",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Winnie the Pooh (franchise)"
       }
     },
     "b5ce1a05": {
@@ -7791,7 +8116,11 @@
         "release_date": "1998-01-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Fighting Cup"
         ]
       }
     },
@@ -7873,8 +8202,10 @@
         "release_date": "2000-11-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "|engine ="
       }
     },
     "b86ab3ba": {
@@ -8000,7 +8331,13 @@
         "release_date": "1998-08-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Super Computer Animal Racing Simulator",
+          "S C A R S.",
+          "SCARS"
         ]
       }
     },
@@ -8085,7 +8422,12 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Madden 2000",
+          "Madden NFL 00"
         ]
       }
     },
@@ -8253,8 +8595,10 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "FIFA (video game series)"
       }
     },
     "bb2a1db7": {
@@ -8385,7 +8729,12 @@
         "release_date": "1999-10-12",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Chef's Luv Shack",
+          "South Park- Chef's Luv Shack"
         ]
       }
     },
@@ -8490,7 +8839,13 @@
         "release_date": "2000-08-11",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mario Story",
+          "Super Mario RPG 2",
+          "Mario RPG 2"
         ]
       }
     },
@@ -8656,7 +9011,12 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Armorines",
+          "Project S.W.A.R.M."
         ]
       }
     },
@@ -8741,8 +9101,14 @@
         "release_date": "2000-03-24",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Kirby 64"
+        ],
+        "series": "Kirby (series)"
       }
     },
     "c3f6f568": {
@@ -8786,7 +9152,11 @@
         "release_date": "1998-06-29",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Banjo Kazooie"
         ]
       }
     },
@@ -8810,9 +9180,16 @@
         },
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "racing",
+          "racing game",
+          "racer",
+          "racing video games"
+        ]
       }
     },
     "c538030c": {
@@ -8934,9 +9311,18 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "THPS",
+          "THPS1",
+          "Tony Hawk's Pro Skater 1",
+          "Tony Hawk's Skateboarding"
+        ],
+        "series": "Tony Hawk's"
       }
     },
     "c8179ef6": {
@@ -9233,7 +9619,12 @@
         "release_date": "1999-06-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Monaco Grand Prix",
+          "Racing Simulation: Monaco Grand Prix"
         ]
       }
     },
@@ -9356,7 +9747,14 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Tom & Jerry: Fists of Fury",
+          "Tom&Jerry: Fists of Fury",
+          "Tom and Jerry: Fists of Fury",
+          "Fists of Fury"
         ]
       }
     },
@@ -9579,8 +9977,10 @@
         "release_date": "1999-11-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Turok (video game series)"
       }
     },
     "da3391cc": {
@@ -9622,8 +10022,10 @@
         "release_date": "1998-09-11",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "EA Sports NASCAR"
       }
     },
     "dbcfd54b": {
@@ -9695,8 +10097,10 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "NFL Blitz"
       }
     },
     "dd780abf": {
@@ -9781,7 +10185,11 @@
         "release_date": "1997-10-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "MKM:S-Z"
         ]
       }
     },
@@ -9862,9 +10270,20 @@
         ],
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "1995 Command & Conquer",
+          "Command and Conquer",
+          "Tiberian Dawn",
+          "Command & Conquer: Tiberian Dawn",
+          "C&C",
+          "Command & Conquer 64"
+        ],
+        "series": "Command & Conquer"
       }
     },
     "dff3047b": {
@@ -9949,7 +10368,12 @@
         "release_date": "2000-08-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Madden 2001",
+          "Madden NFL 01"
         ]
       }
     },
@@ -10023,8 +10447,10 @@
         "release_date": "2001-01-01",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "James Bond in video games"
       }
     },
     "e0ea96b2": {
@@ -10105,7 +10531,11 @@
         "release_date": "1998-04-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Forsaken 64"
         ]
       }
     },
@@ -10185,9 +10615,13 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Roadsters Tophy"
+        ]
       }
     },
     "e34100cb": {
@@ -10272,9 +10706,13 @@
         "release_year": 1999,
         "enriched_from": [
           "wikidata@2026-06-04",
-          "hand-curated-expansion-pak@2026-06-04"
+          "hand-curated-expansion-pak@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "expansion_pak": "supported"
+        "expansion_pak": "supported",
+        "alt_titles": [
+          "Rayman 3D"
+        ]
       }
     },
     "e5351549": {
@@ -10354,8 +10792,14 @@
         "release_date": "2000-08-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Spider-Man 2000"
+        ],
+        "series": "List of video games featuring Spider-Man"
       }
     },
     "e61e368a": {
@@ -10395,7 +10839,13 @@
         "release_date": "2000-11-09",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Mia Hamm Soccer 64",
+          "RTL World League Soccer 2000",
+          "Telefoot Soccer 2000"
         ]
       }
     },
@@ -10437,7 +10887,11 @@
         "release_date": "1999-08-06",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "Rally '99"
         ]
       }
     },
@@ -10512,9 +10966,13 @@
           "Q339228"
         ],
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
         ],
-        "series": "NFL Quarterback Club"
+        "series": "NFL Quarterback Club",
+        "alt_titles": [
+          "NFL Quarterback Club '99"
+        ]
       }
     },
     "ee0902de": {
@@ -10674,7 +11132,11 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "DD64"
         ]
       }
     },
@@ -10715,8 +11177,10 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Gauntlet (series)"
       }
     },
     "f61d66e3": {
@@ -10759,8 +11223,14 @@
         "release_date": "1997-04-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "alt_titles": [
+          "Hexen"
+        ],
+        "series": "Heretic (video game)"
       }
     },
     "f785edb4": {
@@ -10802,7 +11272,13 @@
         "release_date": "1998-06-04",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-04"
+          "wikidata@2026-06-04",
+          "wikidata-aliases@2026-06-04"
+        ],
+        "alt_titles": [
+          "ISS 98",
+          "Jikkyō World Soccer: World Cup France '98",
+          "Jikkyou World Soccer: World Cup France '98"
         ]
       }
     },
@@ -10901,8 +11377,10 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-04"
-        ]
+          "wikidata@2026-06-04",
+          "wikipedia-infobox@2026-06-04"
+        ],
+        "series": "Tetris"
       }
     }
   }

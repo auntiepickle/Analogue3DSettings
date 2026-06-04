@@ -9,3 +9,4 @@ Thumbs.db
 # Wikidata fetch cache — regenerable; people running fresh re-fetch.
 tools/.wikidata_cache.json
 tools/.genre_debug_cache.json
+tools/.extras_cache.json
