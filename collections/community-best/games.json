@@ -19,7 +19,11 @@
         "external_ids": {
           "wikidata": "Q1523264",
           "mobygames": "nagano-winter-olympics-98",
-          "igdb": "nagano-winter-olympics-98"
+          "howlongtobeat": "6342",
+          "giantbomb": "3030-14096",
+          "igdb": "nagano-winter-olympics-98",
+          "nintendo64ever": "216",
+          "n64database": "210"
         },
         "genres": [
           "Sports"
@@ -29,6 +33,10 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Winter Olympic Games",
         "release_date": "1997-12-18",
@@ -54,7 +62,13 @@
         "external_ids": {
           "wikidata": "Q6507722",
           "mobygames": "mario-party",
-          "igdb": "mario-party"
+          "howlongtobeat": "5641",
+          "giantbomb": "3030-6424",
+          "igdb": "mario-party",
+          "nintendo64ever": "192",
+          "n64database": "186",
+          "retroachievements": "10263",
+          "metacritic": "mario-party"
         },
         "genres": [
           "Party"
@@ -64,6 +78,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Mario Party",
         "release_date": "1998-12-18",
@@ -104,13 +122,23 @@
         "external_ids": {
           "wikidata": "Q1046604",
           "mobygames": "mario-kart-64",
-          "igdb": "mario-kart-64"
+          "howlongtobeat": "5633",
+          "giantbomb": "3030-10084",
+          "igdb": "mario-kart-64",
+          "nintendo64ever": "190",
+          "n64database": "184",
+          "retroachievements": "10078",
+          "metacritic": "mario-kart-64"
         },
         "developers": [
           "Nintendo Entertainment Analysis & Development"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1996-12-14",
         "release_year": 1996,
@@ -135,7 +163,13 @@
         "external_ids": {
           "wikidata": "Q870981",
           "mobygames": "super-smash-bros",
-          "igdb": "super-smash-bros"
+          "howlongtobeat": "9440",
+          "giantbomb": "3030-19125",
+          "igdb": "super-smash-bros",
+          "nintendo64ever": "336",
+          "n64database": "327",
+          "retroachievements": "10082",
+          "metacritic": "super-smash-bros"
         },
         "genres": [
           "Action"
@@ -145,6 +179,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Super Smash Bros.",
         "release_date": "1999-01-21",
@@ -183,7 +221,11 @@
         "external_ids": {
           "wikidata": "Q6953742",
           "mobygames": "nfl-qb-club-2001",
-          "igdb": "nfl-qb-club-2001"
+          "giantbomb": "3030-15381",
+          "igdb": "nfl-qb-club-2001",
+          "nintendo64ever": "237",
+          "n64database": "235",
+          "metacritic": "nfl-qb-club-2001"
         },
         "genres": [
           "Sports"
@@ -193,6 +235,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NFL Quarterback Club",
         "enriched_from": [
@@ -217,7 +263,10 @@
         "external_ids": {
           "wikidata": "Q220665",
           "mobygames": "space-invaders________",
-          "igdb": "space-invaders"
+          "howlongtobeat": "8854",
+          "giantbomb": "3030-5099",
+          "igdb": "space-invaders",
+          "retroachievements": "11684"
         },
         "genres": [
           "Shooter"
@@ -228,6 +277,10 @@
         "publishers": [
           "Midway Games",
           "Taito"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -250,7 +303,10 @@
         "external_ids": {
           "wikidata": "Q9048327",
           "mobygames": "nfl-quarterback-club-98",
-          "igdb": "nfl-quarterback-club-98"
+          "giantbomb": "3030-10536",
+          "igdb": "nfl-quarterback-club-98",
+          "nintendo64ever": "239",
+          "n64database": "232"
         },
         "genres": [
           "Sports"
@@ -260,6 +316,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NFL Quarterback Club",
         "release_date": "1997-10-24",
@@ -285,7 +345,12 @@
         "external_ids": {
           "wikidata": "Q3275508",
           "mobygames": "madden-nfl-99",
-          "igdb": "madden-nfl-99"
+          "howlongtobeat": "17035",
+          "giantbomb": "3030-13996",
+          "igdb": "madden-nfl-99",
+          "nintendo64ever": "182",
+          "n64database": "174",
+          "metacritic": "madden-nfl-99"
         },
         "genres": [
           "Sports"
@@ -295,6 +360,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Madden NFL",
         "release_date": "1998-09-30",
@@ -320,7 +389,11 @@
         "external_ids": {
           "wikidata": "Q2891772",
           "mobygames": "battletanx-global-assault",
-          "igdb": "battletanx-global-assault"
+          "howlongtobeat": "955",
+          "giantbomb": "3030-17922",
+          "igdb": "battletanx-global-assault",
+          "nintendo64ever": "32",
+          "n64database": "30"
         },
         "genres": [
           "Action"
@@ -330,6 +403,10 @@
         ],
         "publishers": [
           "The 3DO Company"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -354,7 +431,11 @@
         "external_ids": {
           "wikidata": "Q6953741",
           "mobygames": "nfl-quarterback-club-2000",
-          "igdb": "nfl-quarterback-club-2000"
+          "howlongtobeat": "16791",
+          "giantbomb": "3030-7966",
+          "igdb": "nfl-quarterback-club-2000",
+          "nintendo64ever": "238",
+          "n64database": "234"
         },
         "genres": [
           "Sports"
@@ -364,6 +445,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NFL Quarterback Club",
         "release_date": "1999-08-31",
@@ -389,7 +474,13 @@
         "external_ids": {
           "wikidata": "Q890065",
           "mobygames": "body-harvest",
-          "igdb": "body-harvest"
+          "howlongtobeat": "1217",
+          "giantbomb": "3030-18772",
+          "igdb": "body-harvest",
+          "nintendo64ever": "40",
+          "n64database": "37",
+          "retroachievements": "10265",
+          "metacritic": "body-harvest"
         },
         "genres": [
           "Action-Adventure",
@@ -400,6 +491,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-10-20",
         "release_year": 1998,
@@ -424,7 +518,11 @@
         "external_ids": {
           "wikidata": "Q1300499",
           "mobygames": "mortal-kombat-trilogy",
-          "igdb": "mortal-kombat-trilogy"
+          "giantbomb": "3030-8279",
+          "igdb": "mortal-kombat-trilogy",
+          "nintendo64ever": "211",
+          "n64database": "206",
+          "retroachievements": "10114"
         },
         "genres": [
           "Fighting"
@@ -434,6 +532,9 @@
         ],
         "publishers": [
           "WMS Industries"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Mortal Kombat",
         "release_date": "1996-09-01",
@@ -459,7 +560,10 @@
         "external_ids": {
           "wikidata": "Q2902310",
           "mobygames": "big-mountain-2000",
-          "igdb": "big-mountain-2000"
+          "giantbomb": "3030-22568",
+          "igdb": "big-mountain-2000",
+          "nintendo64ever": "36",
+          "n64database": "33"
         },
         "genres": [
           "Sports"
@@ -469,6 +573,10 @@
         ],
         "publishers": [
           "Imagineer"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-12-26",
         "release_year": 1998,
@@ -507,13 +615,21 @@
         "external_ids": {
           "wikidata": "Q2891582",
           "mobygames": "batman-beyond-return-of-the-joker",
-          "igdb": "batman-beyond-return-of-the-joker"
+          "howlongtobeat": "878",
+          "giantbomb": "3030-1238",
+          "igdb": "batman-beyond-return-of-the-joker",
+          "nintendo64ever": "30",
+          "n64database": "28",
+          "metacritic": "batman-beyond-return-of-the-joker"
         },
         "developers": [
           "Kemco"
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-11-20",
         "release_year": 2000,
@@ -537,14 +653,20 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3257786",
-          "mobygames": "lode-runner-3d",
-          "igdb": "lode-runner-3-d"
+          "mobygames": "lode-runner-3-d",
+          "giantbomb": "3030-13907",
+          "igdb": "lode-runner-3-d",
+          "nintendo64ever": "175",
+          "n64database": "171"
         },
         "genres": [
           "Puzzle"
         ],
         "publishers": [
           "Bandai Namco Entertainment"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Lode Runner",
         "release_date": "1999-07-30",
@@ -570,7 +692,10 @@
         "external_ids": {
           "wikidata": "Q2927045",
           "mobygames": "brunswick-circuit-pro-bowling",
-          "igdb": "brunswick-circuit-pro-bowling"
+          "giantbomb": "3030-278",
+          "igdb": "brunswick-circuit-pro-bowling",
+          "nintendo64ever": "46",
+          "n64database": "43"
         },
         "genres": [
           "Sports"
@@ -580,6 +705,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Brunswick Circuit Pro Bowling",
         "release_date": "1998-09-28",
@@ -607,7 +736,12 @@
         "external_ids": {
           "wikidata": "Q54840",
           "mobygames": "star-wars-episode-i-battle-for-naboo",
-          "igdb": "star-wars-episode-i-battle-for-naboo"
+          "howlongtobeat": "9105",
+          "giantbomb": "3030-8114",
+          "igdb": "star-wars-episode-i-battle-for-naboo",
+          "nintendo64ever": "327",
+          "n64database": "315",
+          "metacritic": "star-wars-episode-i-battle-for-naboo"
         },
         "genres": [
           "Action"
@@ -619,6 +753,9 @@
         "publishers": [
           "Lucasfilm Games",
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-12-18",
         "release_year": 2000,
@@ -643,7 +780,11 @@
         "external_ids": {
           "wikidata": "Q2387749",
           "mobygames": "international-superstar-soccer-64",
-          "igdb": "international-superstar-soccer-64"
+          "howlongtobeat": "4711",
+          "giantbomb": "3030-9790",
+          "igdb": "international-superstar-soccer-64",
+          "nintendo64ever": "147",
+          "n64database": "141"
         },
         "genres": [
           "Sports"
@@ -653,6 +794,10 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "International Superstar Soccer",
         "release_date": "1997-06-01",
@@ -678,7 +823,11 @@
         "external_ids": {
           "wikidata": "Q3331753",
           "mobygames": "goemons-great-adventure",
-          "igdb": "goemons-great-adventure"
+          "giantbomb": "3030-14117",
+          "igdb": "goemons-great-adventure",
+          "nintendo64ever": "214",
+          "n64database": "122",
+          "retroachievements": "10198"
         },
         "genres": [
           "Platformer"
@@ -688,6 +837,11 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "series": "Goemon",
         "release_date": "1998-12-23",
@@ -713,7 +867,9 @@
         "external_ids": {
           "wikidata": "Q3040450",
           "mobygames": "dual-heroes",
-          "igdb": "dual-heroes"
+          "igdb": "dual-heroes",
+          "nintendo64ever": "92",
+          "n64database": "87"
         },
         "genres": [
           "Fighting"
@@ -723,6 +879,10 @@
         ],
         "publishers": [
           "Hudson Soft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-12-05",
         "release_year": 1997,
@@ -746,8 +906,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2015773",
-          "mobygames": "wwf-attitude_",
-          "igdb": "wwf-attitude"
+          "mobygames": "wwf-attitude",
+          "giantbomb": "3030-16435",
+          "igdb": "wwf-attitude",
+          "nintendo64ever": "387",
+          "n64database": "380"
         },
         "genres": [
           "Fighting",
@@ -758,6 +921,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-07-31",
         "release_year": 1999,
@@ -783,7 +950,10 @@
         "external_ids": {
           "wikidata": "Q7976281",
           "mobygames": "wayne-gretzkys-3d-hockey-98",
-          "igdb": "wayne-gretzky-s-3d-hockey-98"
+          "giantbomb": "3030-22796",
+          "igdb": "wayne-gretzky-s-3d-hockey-98",
+          "nintendo64ever": "374",
+          "n64database": "365"
         },
         "genres": [
           "Sports"
@@ -793,6 +963,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-12-03",
         "release_year": 1997,
@@ -817,7 +991,12 @@
         "external_ids": {
           "wikidata": "Q3291346",
           "mobygames": "world-driver-championship",
-          "igdb": "world-driver-championship"
+          "howlongtobeat": "11984",
+          "giantbomb": "3030-10150",
+          "igdb": "world-driver-championship",
+          "nintendo64ever": "385",
+          "n64database": "377",
+          "metacritic": "world-driver-championship"
         },
         "genres": [
           "Racing"
@@ -827,6 +1006,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-05-31",
         "release_year": 1999,
@@ -851,7 +1034,10 @@
         "external_ids": {
           "wikidata": "Q3539501",
           "mobygames": "triple-play-2000",
-          "igdb": "triple-play-2000"
+          "giantbomb": "3030-14025",
+          "igdb": "triple-play-2000",
+          "nintendo64ever": "358",
+          "n64database": "347"
         },
         "genres": [
           "Sports"
@@ -861,6 +1047,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-02-28",
         "release_year": 1999,
@@ -886,7 +1076,13 @@
         "external_ids": {
           "wikidata": "Q841712",
           "mobygames": "conkers-bad-fur-day",
-          "igdb": "conker-s-bad-fur-day"
+          "howlongtobeat": "1894",
+          "giantbomb": "3030-10533",
+          "igdb": "conker-s-bad-fur-day",
+          "nintendo64ever": "68",
+          "n64database": "63",
+          "retroachievements": "10164",
+          "metacritic": "conkers-bad-fur-day"
         },
         "genres": [
           "Platformer"
@@ -897,6 +1093,10 @@
         "publishers": [
           "Nintendo",
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Conker",
         "release_date": "2001-03-05",
@@ -922,7 +1122,10 @@
         "external_ids": {
           "wikidata": "Q3279568",
           "mobygames": "top-gear-rally-2",
-          "igdb": "top-gear-rally-2"
+          "giantbomb": "3030-9706",
+          "igdb": "top-gear-rally-2",
+          "nintendo64ever": "356",
+          "n64database": "344"
         },
         "genres": [
           "Racing"
@@ -932,6 +1135,10 @@
         ],
         "publishers": [
           "Kemco"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Top Gear",
         "release_date": "1999-10-31",
@@ -959,7 +1166,12 @@
         "external_ids": {
           "wikidata": "Q814145",
           "mobygames": "beetle-adventure-racing",
-          "igdb": "beetle-adventure-racing"
+          "howlongtobeat": "995",
+          "giantbomb": "3030-10791",
+          "igdb": "beetle-adventure-racing",
+          "nintendo64ever": "35",
+          "n64database": "32",
+          "metacritic": "beetle-adventure-racing"
         },
         "genres": [
           "Racing"
@@ -969,6 +1181,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-02-28",
         "release_year": 1999,
@@ -993,13 +1209,19 @@
         "external_ids": {
           "wikidata": "Q3560852",
           "mobygames": "virtual-pool-64",
-          "igdb": "virtual-pool-64"
+          "giantbomb": "3030-22795",
+          "igdb": "virtual-pool-64",
+          "nintendo64ever": "368",
+          "n64database": "358"
         },
         "developers": [
           "Celeris"
         ],
         "publishers": [
           "Crave Entertainment"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-12-17",
         "release_year": 1998,
@@ -1037,7 +1259,11 @@
         "external_ids": {
           "wikidata": "Q3005567",
           "mobygames": "cruisn-world",
-          "igdb": "cruis-n-world"
+          "howlongtobeat": "2054",
+          "giantbomb": "3030-9482",
+          "igdb": "cruis-n-world",
+          "nintendo64ever": "72",
+          "n64database": "66"
         },
         "genres": [
           "Racing"
@@ -1047,6 +1273,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Cruis'n",
         "release_date": "1998-06-25",
@@ -1072,8 +1301,14 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q733992",
-          "mobygames": "resident-evil-2__",
-          "igdb": "resident-evil-2"
+          "mobygames": "resident-evil-2",
+          "howlongtobeat": "7718",
+          "giantbomb": "3030-9418",
+          "igdb": "resident-evil-2",
+          "nintendo64ever": "292",
+          "n64database": "285",
+          "retroachievements": "10077",
+          "metacritic": "resident-evil-2-1998"
         },
         "developers": [
           "Capcom",
@@ -1083,6 +1318,9 @@
         ],
         "publishers": [
           "Capcom"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-01-21",
         "release_year": 1998,
@@ -1106,8 +1344,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3005559",
-          "mobygames": "cruisn-exotica_",
-          "igdb": "cruisn-exotica"
+          "mobygames": "cruisn-exotica",
+          "howlongtobeat": "2052",
+          "giantbomb": "3030-19022",
+          "igdb": "cruisn-exotica",
+          "nintendo64ever": "70",
+          "n64database": "64",
+          "metacritic": "cruisn-exotica"
         },
         "genres": [
           "Racing"
@@ -1117,6 +1360,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Cruis'n",
         "release_date": "2000-10-16",
@@ -1142,7 +1388,11 @@
         "external_ids": {
           "wikidata": "Q1989219",
           "mobygames": "nba-live-99",
-          "igdb": "nba-live-99"
+          "howlongtobeat": "64716",
+          "giantbomb": "3030-2861",
+          "igdb": "nba-live-99",
+          "nintendo64ever": "226",
+          "n64database": "221"
         },
         "genres": [
           "Sports"
@@ -1152,6 +1402,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NBA Live",
         "release_date": "1998-10-31",
@@ -1176,8 +1430,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1068778",
-          "mobygames": "tom-clancys-rainbow-six-gold-pack-edition",
-          "igdb": "tom-clancy-s-rainbow-six"
+          "mobygames": "tom-clancys-rainbow-six",
+          "howlongtobeat": "10442",
+          "giantbomb": "3030-7887",
+          "igdb": "tom-clancy-s-rainbow-six",
+          "nintendo64ever": "348",
+          "n64database": "274",
+          "metacritic": "tom-clancys-rainbow-six"
         },
         "genres": [
           "Shooter"
@@ -1188,6 +1447,11 @@
         "publishers": [
           "Red Storm Entertainment",
           "Take-Two Interactive"
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "series": "Tom Clancy's Rainbow Six",
         "release_date": "1998-08-21",
@@ -1214,13 +1478,21 @@
         "external_ids": {
           "wikidata": "Q1118490",
           "mobygames": "aidyn-chronicles-the-first-mage",
-          "igdb": "aidyn-chronicles-the-first-mage"
+          "howlongtobeat": "289",
+          "giantbomb": "3030-14602",
+          "igdb": "aidyn-chronicles-the-first-mage",
+          "nintendo64ever": "11",
+          "n64database": "9",
+          "metacritic": "aidyn-chronicles-the-first-mage"
         },
         "genres": [
           "RPG"
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2001-03-14",
         "release_year": 2001,
@@ -1246,7 +1518,11 @@
         "external_ids": {
           "wikidata": "Q3198035",
           "mobygames": "knockout-kings-2000",
-          "igdb": "knockout-kings-2000"
+          "howlongtobeat": "5108",
+          "giantbomb": "3030-18207",
+          "igdb": "knockout-kings-2000",
+          "nintendo64ever": "170",
+          "n64database": "165"
         },
         "developers": [
           "Black Ops Entertainment"
@@ -1274,7 +1550,11 @@
         "external_ids": {
           "wikidata": "Q56757295",
           "mobygames": "nfl-blitz-2001",
-          "igdb": "nfl-blitz-2001"
+          "howlongtobeat": "15771",
+          "giantbomb": "3030-12669",
+          "igdb": "nfl-blitz-2001",
+          "nintendo64ever": "235",
+          "metacritic": "nfl-blitz-2001"
         },
         "genres": [
           "Sports"
@@ -1302,7 +1582,10 @@
         "external_ids": {
           "wikidata": "Q3334428",
           "mobygames": "nhl-99",
-          "igdb": "nhl-99"
+          "giantbomb": "3030-7774",
+          "igdb": "nhl-99",
+          "nintendo64ever": "241",
+          "n64database": "236"
         },
         "genres": [
           "Sports"
@@ -1312,6 +1595,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-09-30",
         "release_year": 1998,
@@ -1337,7 +1624,11 @@
         "external_ids": {
           "wikidata": "Q2872664",
           "mobygames": "automobili-lamborghini",
-          "igdb": "automobili-lamborghini"
+          "howlongtobeat": "733",
+          "giantbomb": "3030-27569",
+          "igdb": "automobili-lamborghini",
+          "nintendo64ever": "22",
+          "n64database": "20"
         },
         "genres": [
           "Racing"
@@ -1347,6 +1638,10 @@
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-11-30",
         "release_year": 1997,
@@ -1371,7 +1666,12 @@
         "external_ids": {
           "wikidata": "Q2337280",
           "mobygames": "yoshis-story",
-          "igdb": "yoshi-s-story"
+          "giantbomb": "3030-15207",
+          "igdb": "yoshi-s-story",
+          "nintendo64ever": "394",
+          "n64database": "386",
+          "retroachievements": "10173",
+          "metacritic": "yoshis-story"
         },
         "genres": [
           "Platformer"
@@ -1381,6 +1681,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Yoshi",
         "release_date": "1997-12-21",
@@ -1406,13 +1709,21 @@
         "external_ids": {
           "wikidata": "Q2525984",
           "mobygames": "hey-you-pikachu",
-          "igdb": "hey-you-pikachu"
+          "howlongtobeat": "4450",
+          "giantbomb": "3030-17113",
+          "igdb": "hey-you-pikachu",
+          "nintendo64ever": "137",
+          "n64database": "131",
+          "metacritic": "hey-you-pikachu"
         },
         "developers": [
           "Ambrella"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Pokémon Pikachu series",
         "release_date": "1998-12-12",
@@ -1438,13 +1749,21 @@
         "external_ids": {
           "wikidata": "Q3567573",
           "mobygames": "wetrix",
-          "igdb": "wetrix"
+          "giantbomb": "3030-14264",
+          "igdb": "wetrix",
+          "nintendo64ever": "380",
+          "n64database": "371",
+          "metacritic": "wetrix"
         },
         "genres": [
           "Puzzle"
         ],
         "publishers": [
           "Ocean Software"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-11-27",
         "release_year": 1998,
@@ -1469,13 +1788,21 @@
         "external_ids": {
           "wikidata": "Q3235097",
           "mobygames": "rugrats-scavenger-hunt",
-          "igdb": "rugrats-scavenger-hunt"
+          "howlongtobeat": "8006",
+          "giantbomb": "3030-21658",
+          "igdb": "rugrats-scavenger-hunt",
+          "nintendo64ever": "301",
+          "n64database": "293"
         },
         "developers": [
           "Realtime Associates"
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-06-29",
         "release_year": 1999,
@@ -1514,7 +1841,9 @@
         "external_ids": {
           "wikidata": "Q3197991",
           "mobygames": "knife-edge-nose-gunner",
-          "igdb": "knife-edge-nose-gunner"
+          "igdb": "knife-edge-nose-gunner",
+          "nintendo64ever": "169",
+          "n64database": "164"
         },
         "genres": [
           "Shooter"
@@ -1524,6 +1853,9 @@
         ],
         "publishers": [
           "Kemco"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-11-27",
         "release_year": 1998,
@@ -1548,7 +1880,11 @@
         "external_ids": {
           "wikidata": "Q864026",
           "mobygames": "world-cup-98",
-          "igdb": "world-cup-98"
+          "howlongtobeat": "11272",
+          "giantbomb": "3030-12771",
+          "igdb": "world-cup-98",
+          "nintendo64ever": "69",
+          "n64database": "376"
         },
         "genres": [
           "Sports"
@@ -1558,6 +1894,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "FIFA World Cup",
         "release_date": "1998-03-31",
@@ -1584,13 +1924,23 @@
         "external_ids": {
           "wikidata": "Q1046604",
           "mobygames": "mario-kart-64",
-          "igdb": "mario-kart-64"
+          "howlongtobeat": "5633",
+          "giantbomb": "3030-10084",
+          "igdb": "mario-kart-64",
+          "nintendo64ever": "190",
+          "n64database": "184",
+          "retroachievements": "10078",
+          "metacritic": "mario-kart-64"
         },
         "developers": [
           "Nintendo Entertainment Analysis & Development"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1996-12-14",
         "release_year": 1996,
@@ -1614,8 +1964,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q737103",
-          "mobygames": "quake-ii-quad-damage",
-          "igdb": "quake-ii--2"
+          "mobygames": "quake-ii",
+          "howlongtobeat": "7455",
+          "giantbomb": "3030-3207",
+          "igdb": "quake-ii",
+          "nintendo64ever": "281",
+          "n64database": "272",
+          "metacritic": "quake-ii"
         },
         "genres": [
           "Shooter"
@@ -1625,6 +1980,11 @@
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "series": "Quake",
         "release_date": "1997-12-09",
@@ -1650,7 +2010,10 @@
         "external_ids": {
           "wikidata": "Q3327645",
           "mobygames": "mrc-multi-racing-championship",
-          "igdb": "mrc-multi-racing-championship"
+          "giantbomb": "3030-9826",
+          "igdb": "mrc-multi-racing-championship",
+          "nintendo64ever": "213",
+          "n64database": "208"
         },
         "genres": [
           "Racing"
@@ -1660,6 +2023,10 @@
         ],
         "publishers": [
           "Imagineer"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-07-18",
         "release_year": 1997,
@@ -1710,13 +2077,20 @@
         "external_ids": {
           "wikidata": "Q3008121",
           "mobygames": "cybertiger",
-          "igdb": "cyber-tiger"
+          "giantbomb": "3030-1336",
+          "igdb": "cyber-tiger",
+          "nintendo64ever": "75",
+          "n64database": "69"
         },
         "developers": [
           "Electronic Arts"
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-09-30",
         "release_year": 1999,
@@ -1741,7 +2115,12 @@
         "external_ids": {
           "wikidata": "Q1957354",
           "mobygames": "dr-mario-64",
-          "igdb": "dr-mario-64"
+          "giantbomb": "3030-1072",
+          "igdb": "dr-mario-64",
+          "nintendo64ever": "91",
+          "n64database": "86",
+          "retroachievements": "11200",
+          "metacritic": "dr-mario-64"
         },
         "genres": [
           "Puzzle"
@@ -1751,6 +2130,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Dr. Mario",
         "release_date": "2001-04-08",
@@ -1776,7 +2159,12 @@
         "external_ids": {
           "wikidata": "Q3281178",
           "mobygames": "snowboard-kids-2",
-          "igdb": "snowboard-kids-2"
+          "howlongtobeat": "12607",
+          "giantbomb": "3030-18426",
+          "igdb": "snowboard-kids-2",
+          "nintendo64ever": "316",
+          "n64database": "306",
+          "retroachievements": "10247"
         },
         "genres": [
           "Racing"
@@ -1786,6 +2174,9 @@
         ],
         "publishers": [
           "Atlus"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1999-02-19",
         "release_year": 1999,
@@ -1810,13 +2201,20 @@
         "external_ids": {
           "wikidata": "Q7886388",
           "mobygames": "robotron-64",
-          "igdb": "robotron-64"
+          "giantbomb": "3030-10858",
+          "igdb": "robotron-64",
+          "nintendo64ever": "298",
+          "n64database": "290",
+          "metacritic": "robotron-64"
         },
         "genres": [
           "Action"
         ],
         "publishers": [
           "Crave Entertainment"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-01-05",
         "release_year": 1998,
@@ -1843,7 +2241,13 @@
         "external_ids": {
           "wikidata": "Q545072",
           "mobygames": "diddy-kong-racing",
-          "igdb": "diddy-kong-racing"
+          "howlongtobeat": "2520",
+          "giantbomb": "3030-15990",
+          "igdb": "diddy-kong-racing",
+          "nintendo64ever": "83",
+          "n64database": "77",
+          "retroachievements": "10202",
+          "metacritic": "diddy-kong-racing"
         },
         "genres": [
           "Action",
@@ -1854,6 +2258,10 @@
         ],
         "publishers": [
           "Rare Ltd."
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Diddy Kong Racing",
         "release_date": "1997-11-21",
@@ -1879,7 +2287,11 @@
         "external_ids": {
           "wikidata": "Q1634362",
           "mobygames": "rush-2-extreme-racing-usa",
-          "igdb": "rush-2-extreme-racing-usa"
+          "howlongtobeat": "8030",
+          "giantbomb": "3030-1221",
+          "igdb": "rush-2-extreme-racing-usa",
+          "nintendo64ever": "302",
+          "n64database": "294"
         },
         "genres": [
           "Racing"
@@ -1890,6 +2302,10 @@
         "publishers": [
           "Atari, Inc.",
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Rush",
         "release_date": "1998-11-10",
@@ -1917,7 +2333,12 @@
         "external_ids": {
           "wikidata": "Q54297",
           "mobygames": "star-wars-rogue-squadron-3d",
-          "igdb": "star-wars-rogue-squadron"
+          "howlongtobeat": "9122",
+          "giantbomb": "3030-4011",
+          "igdb": "star-wars-rogue-squadron",
+          "nintendo64ever": "324",
+          "n64database": "317",
+          "metacritic": "star-wars-rogue-squadron-3d"
         },
         "genres": [
           "Action"
@@ -1929,6 +2350,9 @@
         "publishers": [
           "Lucasfilm Games",
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Star Wars: Rogue Squadron",
         "release_date": "1998-12-03",
@@ -1954,7 +2378,11 @@
         "external_ids": {
           "wikidata": "Q1632918",
           "mobygames": "san-francisco-rush-extreme-racing",
-          "igdb": "san-francisco-rush-extreme-racing"
+          "giantbomb": "3030-8458",
+          "igdb": "san-francisco-rush-extreme-racing",
+          "nintendo64ever": "305",
+          "n64database": "297",
+          "retroachievements": "10360"
         },
         "genres": [
           "Racing"
@@ -1967,6 +2395,10 @@
         "publishers": [
           "Atari Games",
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Rush",
         "release_date": "1997-11-08",
@@ -1994,7 +2426,12 @@
         "external_ids": {
           "wikidata": "Q1527683",
           "mobygames": "indiana-jones-and-the-infernal-machine",
-          "igdb": "indiana-jones-and-the-infernal-machine"
+          "howlongtobeat": "4665",
+          "giantbomb": "3030-7284",
+          "igdb": "indiana-jones-and-the-infernal-machine",
+          "nintendo64ever": "144",
+          "n64database": "137",
+          "metacritic": "indiana-jones-and-the-infernal-machine"
         },
         "genres": [
           "Action-Adventure",
@@ -2005,6 +2442,9 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1999-11-23",
         "release_year": 1999,
@@ -2042,7 +2482,11 @@
         "external_ids": {
           "wikidata": "Q3080185",
           "mobygames": "fox-sports-college-hoops-99",
-          "igdb": "fox-sports-college-hoops-99"
+          "howlongtobeat": "59483",
+          "giantbomb": "3030-22752",
+          "igdb": "fox-sports-college-hoops-99",
+          "nintendo64ever": "117",
+          "n64database": "113"
         },
         "genres": [
           "Sports"
@@ -2052,6 +2496,10 @@
         ],
         "publishers": [
           "Fox Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-10-31",
         "release_year": 1998,
@@ -2075,14 +2523,22 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1571727",
-          "mobygames": "espn-international-track-field",
-          "igdb": "international-track-field-2000"
+          "mobygames": "international-track-field-2000",
+          "giantbomb": "3030-6820",
+          "igdb": "international-track-field-2000",
+          "nintendo64ever": "149",
+          "n64database": "142",
+          "metacritic": "espn-international-track-field"
         },
         "developers": [
           "Konami"
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-10-31",
         "release_year": 1999,
@@ -2107,7 +2563,13 @@
         "external_ids": {
           "wikidata": "Q2431467",
           "mobygames": "turok-dinosaur-hunter",
-          "igdb": "turok-dinosaur-hunter"
+          "howlongtobeat": "10707",
+          "giantbomb": "3030-14614",
+          "igdb": "turok-dinosaur-hunter",
+          "nintendo64ever": "359",
+          "n64database": "348",
+          "retroachievements": "10182",
+          "metacritic": "turok-dinosaur-hunter"
         },
         "genres": [
           "Shooter"
@@ -2117,6 +2579,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Turok",
         "release_date": "1997-02-28",
@@ -2143,7 +2608,11 @@
         "external_ids": {
           "wikidata": "Q2602179",
           "mobygames": "duke-nukem-zero-hour",
-          "igdb": "duke-nukem-zero-hour"
+          "howlongtobeat": "2931",
+          "giantbomb": "3030-2711",
+          "igdb": "duke-nukem-zero-hour",
+          "nintendo64ever": "95",
+          "n64database": "90"
         },
         "genres": [
           "Shooter"
@@ -2153,6 +2622,10 @@
         ],
         "publishers": [
           "Atari, Inc."
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-01",
         "release_year": 1999,
@@ -2177,7 +2650,10 @@
         "external_ids": {
           "wikidata": "Q3564647",
           "mobygames": "wcw-nitro",
-          "igdb": "wcw-nitro"
+          "giantbomb": "3030-7908",
+          "igdb": "wcw-nitro",
+          "nintendo64ever": "377",
+          "n64database": "368"
         },
         "genres": [
           "Fighting",
@@ -2188,6 +2664,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-02-01",
         "release_year": 1999,
@@ -2213,7 +2693,13 @@
         "external_ids": {
           "wikidata": "Q806598",
           "mobygames": "banjo-tooie",
-          "igdb": "banjo-tooie"
+          "howlongtobeat": "837",
+          "giantbomb": "3030-2871",
+          "igdb": "banjo-tooie",
+          "nintendo64ever": "26",
+          "n64database": "24",
+          "retroachievements": "10211",
+          "metacritic": "banjo-tooie"
         },
         "genres": [
           "Action-Adventure",
@@ -2224,6 +2710,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Banjo-Kazooie",
         "release_date": "2000-11-20",
@@ -2249,7 +2739,11 @@
         "external_ids": {
           "wikidata": "Q2020334",
           "mobygames": "wcw-backstage-assault",
-          "igdb": "wcw-backstage-assault"
+          "giantbomb": "3030-10286",
+          "igdb": "wcw-backstage-assault",
+          "nintendo64ever": "375",
+          "n64database": "366",
+          "metacritic": "wcw-backstage-assault"
         },
         "genres": [
           "Wrestling"
@@ -2259,6 +2753,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-12-01",
         "release_year": 2000,
@@ -2283,7 +2781,12 @@
         "external_ids": {
           "wikidata": "Q3071637",
           "mobygames": "fighter-destiny-2",
-          "igdb": "fighter-destiny-2"
+          "howlongtobeat": "15029",
+          "giantbomb": "3030-8673",
+          "igdb": "fighter-destiny-2",
+          "nintendo64ever": "113",
+          "n64database": "109",
+          "metacritic": "fighter-destiny-2"
         },
         "release_date": "1999-01-01",
         "release_year": 1999,
@@ -2308,7 +2811,11 @@
         "external_ids": {
           "wikidata": "Q2483445",
           "mobygames": "vigilante-8-2nd-offense",
-          "igdb": "vigilante-8-2nd-offense"
+          "howlongtobeat": "10941",
+          "giantbomb": "3030-7468",
+          "igdb": "vigilante-8-2nd-offense",
+          "nintendo64ever": "366",
+          "n64database": "356"
         },
         "genres": [
           "Action"
@@ -2318,6 +2825,10 @@
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Vigilante 8",
         "release_date": "1999-10-31",
@@ -2342,8 +2853,14 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3098037",
-          "mobygames": "turok-2-seeds-of-evil__",
-          "igdb": "turok-2-seeds-of-evil"
+          "mobygames": "turok-2-seeds-of-evil",
+          "howlongtobeat": "10705",
+          "giantbomb": "3030-7052",
+          "igdb": "turok-2-seeds-of-evil",
+          "nintendo64ever": "361",
+          "n64database": "349",
+          "retroachievements": "10520",
+          "metacritic": "turok-2-seeds-of-evil"
         },
         "genres": [
           "Shooter"
@@ -2353,6 +2870,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Turok",
         "release_date": "1998-10-21",
@@ -2378,13 +2899,21 @@
         "external_ids": {
           "wikidata": "Q3519194",
           "mobygames": "tetrisphere",
-          "igdb": "tetrisphere"
+          "howlongtobeat": "9727",
+          "giantbomb": "3030-3049",
+          "igdb": "tetrisphere",
+          "nintendo64ever": "342",
+          "n64database": "334"
         },
         "genres": [
           "Puzzle"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-08-11",
         "release_year": 1997,
@@ -2408,8 +2937,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q387425",
-          "mobygames": "jeremy-mcgrath-supercross-2000-",
-          "igdb": "jeremy-mcgrath-supercross-2000"
+          "mobygames": "jeremy-mcgrath-supercross-2000",
+          "howlongtobeat": "32512",
+          "giantbomb": "3030-4298",
+          "igdb": "jeremy-mcgrath-supercross-2000",
+          "nintendo64ever": "152",
+          "n64database": "150",
+          "metacritic": "jeremy-mcgrath-supercross-2000"
         },
         "genres": [
           "Racing"
@@ -2419,6 +2953,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Jeremy McGrath Supercross",
         "release_date": "1999-09-29",
@@ -2445,7 +2983,10 @@
         "external_ids": {
           "wikidata": "Q2553121",
           "mobygames": "castlevania-legacy-of-darkness",
-          "igdb": "castlevania-legacy-of-darkness"
+          "giantbomb": "3030-6467",
+          "igdb": "castlevania-legacy-of-darkness",
+          "nintendo64ever": "54",
+          "n64database": "51"
         },
         "genres": [
           "Action-Adventure",
@@ -2453,6 +2994,9 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Castlevania",
         "release_date": "1999-11-30",
@@ -2478,7 +3022,10 @@
         "external_ids": {
           "wikidata": "Q16266959",
           "mobygames": "nhl-breakaway-98",
-          "igdb": "nhl-breakaway-98"
+          "giantbomb": "3030-19417",
+          "igdb": "nhl-breakaway-98",
+          "nintendo64ever": "244",
+          "n64database": "238"
         },
         "genres": [
           "Sports"
@@ -2488,6 +3035,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1997-09-30",
         "release_year": 1997,
@@ -2512,7 +3062,11 @@
         "external_ids": {
           "wikidata": "Q56757321",
           "mobygames": "nfl-blitz",
-          "igdb": "nfl-blitz"
+          "howlongtobeat": "6548",
+          "giantbomb": "3030-8417",
+          "igdb": "nfl-blitz",
+          "nintendo64ever": "233",
+          "n64database": "228"
         },
         "genres": [
           "Sports"
@@ -2541,7 +3095,10 @@
         "external_ids": {
           "wikidata": "Q3374797",
           "mobygames": "penny-racers",
-          "igdb": "penny-racers"
+          "giantbomb": "3030-67807",
+          "igdb": "penny-racers",
+          "nintendo64ever": "261",
+          "n64database": "254"
         },
         "genres": [
           "Racing"
@@ -2551,6 +3108,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Choro Q",
         "release_date": "1998-07-17",
@@ -2576,7 +3137,9 @@
         "external_ids": {
           "wikidata": "Q16838717",
           "mobygames": "flying-dragon",
-          "igdb": "sd-hiryuu-no-ken-densetsu"
+          "igdb": "sd-hiryuu-no-ken-densetsu",
+          "nintendo64ever": "115",
+          "n64database": "111"
         },
         "genres": [
           "Fighting"
@@ -2586,6 +3149,10 @@
         ],
         "publishers": [
           "Winning Entertainment Group"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Flying Dragon",
         "release_date": "1998-07-31",
@@ -2611,7 +3178,10 @@
         "external_ids": {
           "wikidata": "Q65038689",
           "mobygames": "nba-in-the-zone-98",
-          "igdb": "nba-in-the-zone-98"
+          "giantbomb": "3030-11866",
+          "igdb": "nba-in-the-zone-98",
+          "nintendo64ever": "227",
+          "n64database": "216"
         },
         "genres": [
           "Sports"
@@ -2644,7 +3214,10 @@
         "external_ids": {
           "wikidata": "Q3280267",
           "mobygames": "off-road-challenge",
-          "igdb": "off-road-challenge"
+          "giantbomb": "3030-835",
+          "igdb": "off-road-challenge",
+          "nintendo64ever": "250",
+          "n64database": "245"
         },
         "genres": [
           "Racing"
@@ -2654,6 +3227,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-01-01",
         "release_year": 1997,
@@ -2679,7 +3256,12 @@
         "external_ids": {
           "wikidata": "Q2484974",
           "mobygames": "wwf-no-mercy",
-          "igdb": "wwf-no-mercy"
+          "howlongtobeat": "11347",
+          "giantbomb": "3030-11394",
+          "igdb": "wwf-no-mercy",
+          "nintendo64ever": "388",
+          "n64database": "381",
+          "metacritic": "wwf-no-mercy"
         },
         "genres": [
           "Fighting",
@@ -2690,6 +3272,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-11-17",
         "release_year": 2000,
@@ -2714,7 +3300,9 @@
         "external_ids": {
           "wikidata": "Q65038734",
           "mobygames": "nba-in-the-zone-2000",
-          "igdb": "nba-in-the-zone-2000"
+          "igdb": "nba-in-the-zone-2000",
+          "nintendo64ever": "222",
+          "n64database": "218"
         },
         "genres": [
           "Sports"
@@ -2775,7 +3363,10 @@
         "external_ids": {
           "wikidata": "Q3501136",
           "mobygames": "stunt-racer-64",
-          "igdb": "stunt-racer-64"
+          "giantbomb": "3030-12060",
+          "igdb": "stunt-racer-64",
+          "nintendo64ever": "330",
+          "n64database": "321"
         },
         "genres": [
           "Racing"
@@ -2785,6 +3376,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-10-01",
         "release_year": 2000,
@@ -2810,7 +3405,11 @@
         "external_ids": {
           "wikidata": "Q3011830",
           "mobygames": "looney-tunes-duck-dodgers-starring-daffy-duck",
-          "igdb": "duck-dodgers-starring-daffy-duck"
+          "howlongtobeat": "2904",
+          "igdb": "duck-dodgers-starring-daffy-duck",
+          "nintendo64ever": "93",
+          "n64database": "88",
+          "metacritic": "duck-dodgers-starring-daffy-duck"
         },
         "genres": [
           "Platformer"
@@ -2820,6 +3419,10 @@
         ],
         "publishers": [
           "Infogrames"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-09-16",
         "release_year": 2000,
@@ -2843,8 +3446,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3275499",
-          "mobygames": "madden-nfl-2002____",
-          "igdb": "madden-nfl-2002"
+          "mobygames": "madden-nfl-2002",
+          "howlongtobeat": "5503",
+          "giantbomb": "3030-10845",
+          "igdb": "madden-nfl-2002",
+          "nintendo64ever": "181",
+          "n64database": "177",
+          "metacritic": "madden-nfl-2002"
         },
         "genres": [
           "Sports"
@@ -2854,6 +3462,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Madden NFL",
         "release_date": "2001-09-12",
@@ -2879,7 +3491,12 @@
         "external_ids": {
           "wikidata": "Q3515891",
           "mobygames": "disneys-tarzan",
-          "igdb": "disneys-tarzan"
+          "howlongtobeat": "2623",
+          "igdb": "disneys-tarzan",
+          "nintendo64ever": "340",
+          "n64database": "79",
+          "retroachievements": "10298",
+          "metacritic": "disneys-tarzan"
         },
         "genres": [
           "Platformer"
@@ -2891,6 +3508,9 @@
         "publishers": [
           "Activision",
           "Disney Interactive Studios"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Tarzan",
         "release_date": "1999-06-16",
@@ -2916,7 +3536,12 @@
         "external_ids": {
           "wikidata": "Q1758447",
           "mobygames": "mario-golf",
-          "igdb": "mario-golf"
+          "giantbomb": "3030-19716",
+          "igdb": "mario-golf",
+          "nintendo64ever": "189",
+          "n64database": "183",
+          "retroachievements": "10259",
+          "metacritic": "mario-golf"
         },
         "genres": [
           "Sports"
@@ -2926,6 +3551,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Mario Golf",
         "release_date": "1999-06-11",
@@ -2950,8 +3579,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q776134",
-          "mobygames": "tonic-trouble_",
-          "igdb": "tonic-trouble"
+          "mobygames": "tonic-trouble",
+          "howlongtobeat": "10488",
+          "giantbomb": "3030-11027",
+          "igdb": "tonic-trouble",
+          "nintendo64ever": "349",
+          "n64database": "337"
         },
         "genres": [
           "Platformer"
@@ -2963,6 +3596,9 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -2987,7 +3623,10 @@
         "external_ids": {
           "wikidata": "Q3566832",
           "mobygames": "wayne-gretzkys-3d-hockey",
-          "igdb": "wayne-gretzky-s-3d-hockey"
+          "giantbomb": "3030-20062",
+          "igdb": "wayne-gretzky-s-3d-hockey",
+          "nintendo64ever": "373",
+          "n64database": "364"
         },
         "genres": [
           "Sports"
@@ -2997,6 +3636,10 @@
         ],
         "publishers": [
           "Atari Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1996-11-11",
         "release_year": 1996,
@@ -3021,7 +3664,10 @@
         "external_ids": {
           "wikidata": "Q110079388",
           "mobygames": "monster-truck-madness-64",
-          "igdb": "monster-truck-madness-64"
+          "giantbomb": "3030-26441",
+          "igdb": "monster-truck-madness-64",
+          "nintendo64ever": "207",
+          "n64database": "202"
         },
         "genres": [
           "Racing"
@@ -3055,7 +3701,13 @@
         "external_ids": {
           "wikidata": "Q1330205",
           "mobygames": "paperboy",
-          "igdb": "paperboy"
+          "howlongtobeat": "6913",
+          "giantbomb": "3030-3414",
+          "igdb": "paperboy",
+          "nintendo64ever": "258",
+          "n64database": "251",
+          "retroachievements": "177",
+          "metacritic": "paperboy"
         },
         "genres": [
           "Action"
@@ -3065,6 +3717,9 @@
         ],
         "publishers": [
           "Atari Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -3101,13 +3756,23 @@
         "external_ids": {
           "wikidata": "Q2397985",
           "mobygames": "mario-tennis",
-          "igdb": "mario-tennis"
+          "howlongtobeat": "5657",
+          "giantbomb": "3030-6073",
+          "igdb": "mario-tennis",
+          "nintendo64ever": "195",
+          "n64database": "189",
+          "retroachievements": "10024",
+          "metacritic": "mario-tennis"
         },
         "developers": [
           "Camelot Software Planning"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Mario Tennis",
         "release_date": "2000-07-21",
@@ -3133,7 +3798,12 @@
         "external_ids": {
           "wikidata": "Q1205676",
           "mobygames": "mario-party-2",
-          "igdb": "mario-party-2"
+          "howlongtobeat": "5642",
+          "giantbomb": "3030-12162",
+          "igdb": "mario-party-2",
+          "nintendo64ever": "193",
+          "n64database": "187",
+          "retroachievements": "10264"
         },
         "genres": [
           "Party"
@@ -3143,6 +3813,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Mario Party",
         "release_date": "1999-12-17",
@@ -3167,8 +3841,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2016181",
-          "mobygames": "wwf-wrestlemania-2000_",
-          "igdb": "wwf-wrestlemania-2000"
+          "mobygames": "wwf-wrestlemania-2000",
+          "giantbomb": "3030-3667",
+          "igdb": "wwf-wrestlemania-2000",
+          "nintendo64ever": "390",
+          "n64database": "383"
         },
         "genres": [
           "Wrestling"
@@ -3178,6 +3855,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-01-01",
         "release_year": 1999,
@@ -3203,13 +3884,20 @@
         "external_ids": {
           "wikidata": "Q591956",
           "mobygames": "battlezone-rise-of-the-black-dogs",
-          "igdb": "battlezone-rise-of-the-black-dogs"
+          "howlongtobeat": "34253",
+          "igdb": "battlezone-rise-of-the-black-dogs",
+          "nintendo64ever": "33",
+          "n64database": "31"
         },
         "developers": [
           "Climax Studios"
         ],
         "publishers": [
           "Crave Entertainment"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-03-01",
         "release_year": 2000,
@@ -3247,13 +3935,21 @@
         "external_ids": {
           "wikidata": "Q2948512",
           "mobygames": "chameleon-twist-2",
-          "igdb": "chameleon-twist-2"
+          "howlongtobeat": "1633",
+          "giantbomb": "3030-15991",
+          "igdb": "chameleon-twist-2",
+          "nintendo64ever": "57",
+          "n64database": "54",
+          "retroachievements": "10283"
         },
         "genres": [
           "Platformer"
         ],
         "publishers": [
           "Sun Corporation"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-12-25",
         "release_year": 1998,
@@ -3278,7 +3974,9 @@
         "external_ids": {
           "wikidata": "Q1845090",
           "mobygames": "ecw-hardcore-revolution",
-          "igdb": "ecw-hardcore-revolution"
+          "igdb": "ecw-hardcore-revolution",
+          "nintendo64ever": "97",
+          "n64database": "92"
         },
         "genres": [
           "Fighting",
@@ -3289,6 +3987,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-01-31",
         "release_year": 2000,
@@ -3313,7 +4015,10 @@
         "external_ids": {
           "wikidata": "Q3198120",
           "mobygames": "kobe-bryant-in-nba-courtside",
-          "igdb": "kobe-bryant-in-nba-courtside"
+          "giantbomb": "3030-5012",
+          "igdb": "kobe-bryant-in-nba-courtside",
+          "nintendo64ever": "171",
+          "n64database": "166"
         },
         "genres": [
           "Sports"
@@ -3323,6 +4028,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NBA Courtside",
         "release_date": "1998-04-01",
@@ -3348,7 +4057,10 @@
         "external_ids": {
           "wikidata": "Q920886",
           "mobygames": "transformers-beast-wars-transmetals",
-          "igdb": "transformers-beast-wars-transmetals"
+          "giantbomb": "3030-5394",
+          "igdb": "transformers-beast-wars-transmetals",
+          "nintendo64ever": "34",
+          "n64database": "346"
         },
         "genres": [
           "Fighting"
@@ -3358,6 +4070,10 @@
         ],
         "publishers": [
           "Takara"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-12-09",
         "release_year": 1999,
@@ -3396,13 +4112,22 @@
         "external_ids": {
           "wikidata": "Q933524",
           "mobygames": "pilotwings-64",
-          "igdb": "pilotwings-64"
+          "howlongtobeat": "7046",
+          "giantbomb": "3030-108",
+          "igdb": "pilotwings-64",
+          "nintendo64ever": "264",
+          "n64database": "257",
+          "retroachievements": "267",
+          "metacritic": "pilotwings-64"
         },
         "developers": [
           "Nintendo"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Pilotwings",
         "release_date": "1996-06-23",
@@ -3428,7 +4153,11 @@
         "external_ids": {
           "wikidata": "Q2636173",
           "mobygames": "south-park",
-          "igdb": "south-park"
+          "giantbomb": "3030-8845",
+          "igdb": "south-park",
+          "nintendo64ever": "317",
+          "n64database": "307",
+          "retroachievements": "10328"
         },
         "genres": [
           "Shooter"
@@ -3438,6 +4167,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "South Park",
         "release_date": "1998-12-12",
@@ -3462,8 +4195,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1128672",
-          "mobygames": "lego-racers_",
-          "igdb": "lego-racers"
+          "mobygames": "lego-racers",
+          "howlongtobeat": "5257",
+          "giantbomb": "3030-11174",
+          "igdb": "lego-racers",
+          "nintendo64ever": "174",
+          "n64database": "170"
         },
         "genres": [
           "Racing"
@@ -3473,6 +4210,10 @@
         ],
         "publishers": [
           "The Lego Group"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Lego Racers",
         "release_date": "1999-10-31",
@@ -3512,7 +4253,13 @@
         "external_ids": {
           "wikidata": "Q4339204",
           "mobygames": "namco-museum-64",
-          "igdb": "namco-museum-64"
+          "howlongtobeat": "13105",
+          "giantbomb": "3030-13641",
+          "igdb": "namco-museum-64",
+          "nintendo64ever": "217",
+          "n64database": "211",
+          "retroachievements": "10489",
+          "metacritic": "namco-museum"
         },
         "series": "Namco Museum",
         "release_date": "1999-11-29",
@@ -3577,8 +4324,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3235100",
-          "mobygames": "rugrats-in-paris-the-movie__",
-          "igdb": "rugrats-in-paris-the-movie"
+          "mobygames": "rugrats-in-paris-the-movie",
+          "howlongtobeat": "8003",
+          "igdb": "rugrats-in-paris-the-movie",
+          "nintendo64ever": "300",
+          "n64database": "292",
+          "metacritic": "rugrats-in-paris-the-movie"
         },
         "genres": [
           "Platformer"
@@ -3588,6 +4339,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-10-29",
         "release_year": 2000,
@@ -3612,7 +4367,12 @@
         "external_ids": {
           "wikidata": "Q3418570",
           "mobygames": "rampage-2-universal-tour",
-          "igdb": "rampage-2-universal-tour"
+          "howlongtobeat": "21902",
+          "giantbomb": "3030-9382",
+          "igdb": "rampage-2-universal-tour",
+          "nintendo64ever": "285",
+          "n64database": "277",
+          "retroachievements": "10329"
         },
         "genres": [
           "Action"
@@ -3622,6 +4382,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-03-31",
         "release_year": 1999,
@@ -3646,7 +4410,13 @@
         "external_ids": {
           "wikidata": "Q2609497",
           "mobygames": "f-zero-x",
-          "igdb": "f-zero-x"
+          "howlongtobeat": "3290",
+          "giantbomb": "3030-18808",
+          "igdb": "f-zero-x",
+          "nintendo64ever": "119",
+          "n64database": "101",
+          "retroachievements": "10133",
+          "metacritic": "f-zero-x"
         },
         "genres": [
           "Racing"
@@ -3656,6 +4426,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "F-Zero",
         "release_date": "1998-07-14",
@@ -3681,7 +4455,10 @@
         "external_ids": {
           "wikidata": "Q55375355",
           "mobygames": "all-star-baseball-2001",
-          "igdb": "all-star-baseball-2001--1"
+          "giantbomb": "3030-12481",
+          "igdb": "all-star-baseball-2001--1",
+          "nintendo64ever": "14",
+          "n64database": "13"
         },
         "series": "All-Star Baseball",
         "enriched_from": [
@@ -3704,8 +4481,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3096283",
-          "mobygames": "nascar-2000_",
-          "igdb": "nascar-2000"
+          "mobygames": "nascar-2000",
+          "giantbomb": "3030-15920",
+          "igdb": "nascar-2000",
+          "nintendo64ever": "218",
+          "n64database": "213"
         },
         "genres": [
           "Racing"
@@ -3715,6 +4495,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-09-24",
         "release_year": 1999,
@@ -3740,7 +4524,12 @@
         "external_ids": {
           "wikidata": "Q1385473",
           "mobygames": "extreme-g",
-          "igdb": "extreme-g"
+          "howlongtobeat": "3277",
+          "giantbomb": "3030-2379",
+          "igdb": "extreme-g",
+          "nintendo64ever": "102",
+          "n64database": "97",
+          "metacritic": "extreme-g"
         },
         "genres": [
           "Action"
@@ -3750,6 +4539,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Extreme-G",
         "release_date": "1997-09-30",
@@ -3775,7 +4568,10 @@
         "external_ids": {
           "wikidata": "Q2413620",
           "mobygames": "madden-football-64",
-          "igdb": "madden-football-64"
+          "giantbomb": "3030-16446",
+          "igdb": "madden-football-64",
+          "nintendo64ever": "178",
+          "n64database": "173"
         },
         "genres": [
           "Sports"
@@ -3785,6 +4581,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Madden NFL",
         "release_date": "1997-10-31",
@@ -3810,7 +4610,10 @@
         "external_ids": {
           "wikidata": "Q65038690",
           "mobygames": "nba-in-the-zone-99",
-          "igdb": "nba-in-the-zone-99"
+          "giantbomb": "3030-7202",
+          "igdb": "nba-in-the-zone-99",
+          "nintendo64ever": "228",
+          "n64database": "217"
         },
         "genres": [
           "Sports"
@@ -3853,7 +4656,13 @@
         "external_ids": {
           "wikidata": "Q1274056",
           "mobygames": "shadow-man",
-          "igdb": "shadow-man"
+          "howlongtobeat": "8343",
+          "giantbomb": "3030-10746",
+          "igdb": "shadow-man",
+          "nintendo64ever": "309",
+          "n64database": "301",
+          "retroachievements": "10255",
+          "metacritic": "shadow-man-remastered"
         },
         "genres": [
           "Action-Adventure"
@@ -3863,6 +4672,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Shadow Man",
         "release_date": "1999-03-09",
@@ -3888,7 +4700,13 @@
         "external_ids": {
           "wikidata": "Q2453573",
           "mobygames": "castlevania-",
-          "igdb": "castlevania--2"
+          "howlongtobeat": "1569",
+          "giantbomb": "3030-22950",
+          "igdb": "castlevania--2",
+          "nintendo64ever": "53",
+          "n64database": "50",
+          "retroachievements": "10667",
+          "metacritic": "castlevania-1998"
         },
         "genres": [
           "Action-Adventure"
@@ -3898,6 +4716,9 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Castlevania",
         "release_date": "1998-12-31",
@@ -3923,7 +4744,11 @@
         "external_ids": {
           "wikidata": "Q2312312",
           "mobygames": "iggys-reckin-balls",
-          "igdb": "iggy-s-reckin-balls"
+          "howlongtobeat": "4605",
+          "giantbomb": "3030-2736",
+          "igdb": "iggy-s-reckin-balls",
+          "nintendo64ever": "143",
+          "n64database": "136"
         },
         "genres": [
           "Platformer",
@@ -3934,6 +4759,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-07-31",
         "release_year": 1998,
@@ -3957,13 +4786,19 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3313495",
-          "igdb": "mike-piazza-s-strike-zone"
+          "giantbomb": "3030-22760",
+          "igdb": "mike-piazza-s-strike-zone",
+          "nintendo64ever": "201",
+          "n64database": "196"
         },
         "genres": [
           "Sports"
         ],
         "publishers": [
           "Atari, Inc."
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-06-16",
         "release_year": 1998,
@@ -3989,7 +4824,9 @@
         "external_ids": {
           "wikidata": "Q3093445",
           "mobygames": "gt-64-championship-edition",
-          "igdb": "gt-64-championship-edition"
+          "igdb": "gt-64-championship-edition",
+          "nintendo64ever": "129",
+          "n64database": "125"
         },
         "genres": [
           "Racing"
@@ -3999,6 +4836,10 @@
         ],
         "publishers": [
           "Imagineer"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-08-31",
         "release_year": 1998,
@@ -4023,7 +4864,10 @@
         "external_ids": {
           "wikidata": "Q3418569",
           "mobygames": "rampage-world-tour",
-          "igdb": "rampage-world-tour"
+          "giantbomb": "3030-12331",
+          "igdb": "rampage-world-tour",
+          "nintendo64ever": "286",
+          "n64database": "278"
         },
         "genres": [
           "Action"
@@ -4033,6 +4877,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-09-30",
         "release_year": 1997,
@@ -4057,7 +4905,10 @@
         "external_ids": {
           "wikidata": "Q3274185",
           "mobygames": "mace-the-dark-age",
-          "igdb": "mace-the-dark-age"
+          "giantbomb": "3030-19028",
+          "igdb": "mace-the-dark-age",
+          "nintendo64ever": "177",
+          "n64database": "172"
         },
         "genres": [
           "Fighting"
@@ -4067,6 +4918,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-10-01",
         "release_year": 1997,
@@ -4104,7 +4959,12 @@
         "external_ids": {
           "wikidata": "Q913223",
           "mobygames": "fifa-road-to-world-cup-98_",
-          "igdb": "fifa-road-to-world-cup-98"
+          "howlongtobeat": "3460",
+          "giantbomb": "3030-11207",
+          "igdb": "fifa-road-to-world-cup-98",
+          "nintendo64ever": "109",
+          "n64database": "106",
+          "retroachievements": "10200"
         },
         "genres": [
           "Sports"
@@ -4114,6 +4974,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-01-01",
         "release_year": 1997,
@@ -4140,7 +5004,13 @@
         "external_ids": {
           "wikidata": "Q774773",
           "mobygames": "donkey-kong-64",
-          "igdb": "donkey-kong-64"
+          "howlongtobeat": "2684",
+          "giantbomb": "3030-15000",
+          "igdb": "donkey-kong-64",
+          "nintendo64ever": "85",
+          "n64database": "81",
+          "retroachievements": "10075",
+          "metacritic": "donkey-kong-64"
         },
         "genres": [
           "Platformer"
@@ -4150,6 +5020,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Donkey Kong",
         "release_date": "1999-11-22",
@@ -4176,7 +5050,10 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2909712",
-          "igdb": "bomberman-64--1"
+          "giantbomb": "3030-33469",
+          "igdb": "bomberman-64--1",
+          "nintendo64ever": "42",
+          "n64database": "39"
         },
         "genres": [
           "Action",
@@ -4187,6 +5064,10 @@
         ],
         "publishers": [
           "Hudson Soft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Saga Bomberman",
         "release_date": "2001-12-20",
@@ -4212,7 +5093,12 @@
         "external_ids": {
           "wikidata": "Q690394",
           "mobygames": "bomberman-hero",
-          "igdb": "bomberman-hero"
+          "howlongtobeat": "1243",
+          "giantbomb": "3030-15079",
+          "igdb": "bomberman-hero",
+          "nintendo64ever": "44",
+          "n64database": "41",
+          "retroachievements": "10285"
         },
         "genres": [
           "Platformer",
@@ -4223,6 +5109,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Saga Bomberman",
         "release_date": "1998-04-30",
@@ -4248,7 +5137,11 @@
         "external_ids": {
           "wikidata": "Q1632811",
           "mobygames": "san-francisco-rush-2049",
-          "igdb": "san-francisco-rush-2049"
+          "giantbomb": "3030-18834",
+          "igdb": "san-francisco-rush-2049",
+          "nintendo64ever": "306",
+          "n64database": "298",
+          "metacritic": "san-francisco-rush-2049"
         },
         "genres": [
           "Racing"
@@ -4259,6 +5152,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Rush",
         "release_date": "1999-10-01",
@@ -4284,13 +5181,21 @@
         "external_ids": {
           "wikidata": "Q3421384",
           "mobygames": "razor-freestyle-scooter",
-          "igdb": "razor-freestyle-scooter"
+          "giantbomb": "3030-5345",
+          "igdb": "razor-freestyle-scooter",
+          "nintendo64ever": "ello mate",
+          "n64database": "281",
+          "metacritic": "razor-freestyle-scooter"
         },
         "developers": [
           "Shaba Games"
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-12-11",
         "release_year": 2000,
@@ -4315,13 +5220,20 @@
         "external_ids": {
           "wikidata": "Q3133955",
           "mobygames": "hercules-the-legendary-journeys",
-          "igdb": "hercules-the-legendary-journeys"
+          "giantbomb": "3030-10682",
+          "igdb": "hercules-the-legendary-journeys",
+          "nintendo64ever": "135",
+          "n64database": "129",
+          "metacritic": "hercules-the-legendary-journeys"
         },
         "genres": [
           "Action-Adventure"
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-10-13",
         "release_year": 2000,
@@ -4346,7 +5258,12 @@
         "external_ids": {
           "wikidata": "Q1688483",
           "mobygames": "jet-force-gemini",
-          "igdb": "jet-force-gemini"
+          "giantbomb": "3030-12696",
+          "igdb": "jet-force-gemini",
+          "nintendo64ever": "153",
+          "n64database": "151",
+          "retroachievements": "30",
+          "metacritic": "jet-force-gemini"
         },
         "genres": [
           "Shooter"
@@ -4356,6 +5273,11 @@
         ],
         "publishers": [
           "Rare Ltd."
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-10-11",
         "release_year": 1999,
@@ -4380,13 +5302,19 @@
         "external_ids": {
           "wikidata": "Q1822207",
           "mobygames": "shadowgate-64-trials-of-the-four-towers",
-          "igdb": "shadowgate-64-trials-of-the-four-towers"
+          "igdb": "shadowgate-64-trials-of-the-four-towers",
+          "nintendo64ever": "310",
+          "n64database": "302",
+          "retroachievements": "10614"
         },
         "developers": [
           "ICOM Simulations"
         ],
         "publishers": [
           "Kemco"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1999-05-31",
         "release_year": 1999,
@@ -4411,7 +5339,12 @@
         "external_ids": {
           "wikidata": "Q55263",
           "mobygames": "star-wars-shadows-of-the-empire",
-          "igdb": "star-wars-shadows-of-the-empire"
+          "howlongtobeat": "9123",
+          "giantbomb": "3030-12139",
+          "igdb": "star-wars-shadows-of-the-empire",
+          "nintendo64ever": "325",
+          "n64database": "318",
+          "retroachievements": "10153"
         },
         "genres": [
           "Action"
@@ -4421,6 +5354,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1996-12-03",
         "release_year": 1996,
@@ -4446,7 +5382,11 @@
         "external_ids": {
           "wikidata": "Q1478513",
           "mobygames": "quest-64",
-          "igdb": "quest-64"
+          "giantbomb": "3030-4924",
+          "igdb": "quest-64",
+          "nintendo64ever": "138",
+          "n64database": "273",
+          "retroachievements": "10216"
         },
         "genres": [
           "RPG"
@@ -4456,6 +5396,9 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-06-01",
         "release_year": 1998,
@@ -4480,7 +5423,12 @@
         "external_ids": {
           "wikidata": "Q3282014",
           "mobygames": "ms-pac-man-maze-madness",
-          "igdb": "ms-pac-man-maze-madness"
+          "giantbomb": "3030-3903",
+          "igdb": "ms-pac-man-maze-madness",
+          "nintendo64ever": "212",
+          "n64database": "207",
+          "retroachievements": "10394",
+          "metacritic": "ms-pac-man-maze-madness"
         },
         "genres": [
           "Puzzle"
@@ -4490,6 +5438,10 @@
         ],
         "publishers": [
           "Zushi Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-09-08",
         "release_year": 2000,
@@ -4515,7 +5467,10 @@
         "external_ids": {
           "wikidata": "Q3143650",
           "mobygames": "hybrid-heaven",
-          "igdb": "hybrid-heaven"
+          "howlongtobeat": "4554",
+          "igdb": "hybrid-heaven",
+          "nintendo64ever": "140",
+          "n64database": "133"
         },
         "genres": [
           "RPG"
@@ -4525,6 +5480,10 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-05",
         "release_year": 1999,
@@ -4549,7 +5508,11 @@
         "external_ids": {
           "wikidata": "Q3015143",
           "mobygames": "wipeout-64",
-          "igdb": "wipeout-64"
+          "giantbomb": "3030-12064",
+          "igdb": "wipeout-64",
+          "nintendo64ever": "383",
+          "n64database": "374",
+          "metacritic": "wipeout-64"
         },
         "genres": [
           "Racing"
@@ -4559,6 +5522,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Wipeout",
         "release_date": "1998-11-03",
@@ -4584,7 +5551,10 @@
         "external_ids": {
           "wikidata": "Q3283260",
           "mobygames": "top-gear-rally",
-          "igdb": "top-gear-rally"
+          "igdb": "top-gear-rally",
+          "nintendo64ever": "355",
+          "n64database": "343",
+          "retroachievements": "10517"
         },
         "genres": [
           "Racing"
@@ -4594,6 +5564,10 @@
         ],
         "publishers": [
           "Kemco"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Top Gear",
         "release_date": "1997-12-05",
@@ -4619,7 +5593,11 @@
         "external_ids": {
           "wikidata": "Q65038106",
           "mobygames": "all-star-baseball-2000",
-          "igdb": "all-star-baseball-2000"
+          "howlongtobeat": "20506",
+          "giantbomb": "3030-4565",
+          "igdb": "all-star-baseball-2000",
+          "nintendo64ever": "13",
+          "n64database": "12"
         },
         "series": "All-Star Baseball",
         "release_date": "1999-01-01",
@@ -4645,7 +5623,11 @@
         "external_ids": {
           "wikidata": "Q3089600",
           "mobygames": "mischief-makers",
-          "igdb": "mischief-makers"
+          "giantbomb": "3030-3849",
+          "igdb": "mischief-makers",
+          "nintendo64ever": "203",
+          "n64database": "198",
+          "retroachievements": "10083"
         },
         "genres": [
           "Platformer"
@@ -4655,6 +5637,9 @@
         ],
         "publishers": [
           "Enix"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1997-06-27",
         "release_year": 1997,
@@ -4679,7 +5664,10 @@
         "external_ids": {
           "wikidata": "Q3434074",
           "mobygames": "road-rash-64",
-          "igdb": "road-rash-64"
+          "giantbomb": "3030-18864",
+          "igdb": "road-rash-64",
+          "nintendo64ever": "295",
+          "n64database": "287"
         },
         "genres": [
           "Action"
@@ -4689,6 +5677,9 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Road Rash",
         "release_date": "1999-08-31",
@@ -4714,7 +5705,10 @@
         "external_ids": {
           "wikidata": "Q3334241",
           "mobygames": "nba-hang-time",
-          "igdb": "nba-hangtime"
+          "giantbomb": "3030-10512",
+          "igdb": "nba-hangtime",
+          "nintendo64ever": "221",
+          "n64database": "215"
         },
         "genres": [
           "Sports"
@@ -4724,6 +5718,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1996-04-16",
         "release_year": 1996,
@@ -4748,7 +5746,13 @@
         "external_ids": {
           "wikidata": "Q743187",
           "mobygames": "mario-party-3",
-          "igdb": "mario-party-3"
+          "howlongtobeat": "5643",
+          "giantbomb": "3030-12447",
+          "igdb": "mario-party-3",
+          "nintendo64ever": "194",
+          "n64database": "188",
+          "retroachievements": "10108",
+          "metacritic": "mario-party-3"
         },
         "genres": [
           "Party"
@@ -4758,6 +5762,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Mario Party",
         "release_date": "2000-12-07",
@@ -4783,13 +5791,21 @@
         "external_ids": {
           "wikidata": "Q2616525",
           "mobygames": "xena-warrior-princess-the-talisman-of-fate",
-          "igdb": "xena-warrior-princess-the-talisman-of-fate"
+          "howlongtobeat": "11399",
+          "giantbomb": "3030-8939",
+          "igdb": "xena-warrior-princess-the-talisman-of-fate",
+          "nintendo64ever": "391",
+          "n64database": "384"
         },
         "developers": [
           "Saffire"
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-11-30",
         "release_year": 1999,
@@ -4814,7 +5830,13 @@
         "external_ids": {
           "wikidata": "Q3279577",
           "mobygames": "turok-3-shadow-of-oblivion",
-          "igdb": "turok-3-shadow-of-oblivion"
+          "howlongtobeat": "10706",
+          "giantbomb": "3030-10047",
+          "igdb": "turok-3-shadow-of-oblivion",
+          "nintendo64ever": "362",
+          "n64database": "350",
+          "retroachievements": "10615",
+          "metacritic": "turok-3-shadow-of-oblivion"
         },
         "genres": [
           "Shooter"
@@ -4824,6 +5846,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Turok",
         "release_date": "2000-07-27",
@@ -4849,13 +5875,19 @@
         "external_ids": {
           "wikidata": "Q3314408",
           "mobygames": "milos-astro-lanes",
-          "igdb": "milo-s-astro-lanes"
+          "giantbomb": "3030-3405",
+          "igdb": "milo-s-astro-lanes",
+          "nintendo64ever": "202",
+          "n64database": "197"
         },
         "genres": [
           "Sports"
         ],
         "publishers": [
           "Crave Entertainment"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-11-24",
         "release_year": 1998,
@@ -4880,7 +5912,11 @@
         "external_ids": {
           "wikidata": "Q953922",
           "mobygames": "worms-armageddon",
-          "igdb": "worms-armageddon"
+          "howlongtobeat": "11305",
+          "giantbomb": "3030-17255",
+          "igdb": "worms-armageddon",
+          "nintendo64ever": "386",
+          "n64database": "379"
         },
         "developers": [
           "Team17"
@@ -4890,6 +5926,10 @@
           "Infogrames",
           "MicroProse",
           "Team17"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Worms",
         "release_date": "1999-05-31",
@@ -4915,13 +5955,20 @@
         "external_ids": {
           "wikidata": "Q536833",
           "mobygames": "nightmare-creatures",
-          "igdb": "nightmare-creatures"
+          "howlongtobeat": "6597",
+          "giantbomb": "3030-584",
+          "igdb": "nightmare-creatures",
+          "nintendo64ever": "246",
+          "n64database": "240"
         },
         "developers": [
           "Kalisto Entertainment"
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Nightmare Creatures",
         "release_date": "1997-09-30",
@@ -4947,7 +5994,11 @@
         "external_ids": {
           "wikidata": "Q2933987",
           "mobygames": "california-speed",
-          "igdb": "california-speed"
+          "giantbomb": "3030-17182",
+          "igdb": "california-speed",
+          "nintendo64ever": "51",
+          "n64database": "48",
+          "retroachievements": "12815"
         },
         "genres": [
           "Racing"
@@ -4957,6 +6008,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-02-28",
         "release_year": 1999,
@@ -4981,7 +6036,10 @@
         "external_ids": {
           "wikidata": "Q3016256",
           "mobygames": "dark-rift",
-          "igdb": "dark-rift"
+          "giantbomb": "3030-561",
+          "igdb": "dark-rift",
+          "nintendo64ever": "78",
+          "n64database": "72"
         },
         "genres": [
           "Action",
@@ -4992,6 +6050,10 @@
         ],
         "publishers": [
           "Tokai Communications"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-07-10",
         "release_year": 1997,
@@ -5016,8 +6078,14 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1463730",
-          "mobygames": "tony-hawks-pro-skater-3__",
-          "igdb": "tony-hawks-pro-skater-3--2"
+          "mobygames": "tony-hawks-pro-skater-3",
+          "howlongtobeat": "10494",
+          "giantbomb": "3030-5688",
+          "igdb": "tony-hawk-s-pro-skater-3",
+          "nintendo64ever": "352",
+          "n64database": "340",
+          "retroachievements": "11364",
+          "metacritic": "tony-hawks-pro-skater-3"
         },
         "genres": [
           "Sports"
@@ -5032,6 +6100,10 @@
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2001-10-28",
         "release_year": 2001,
@@ -5056,13 +6128,21 @@
         "external_ids": {
           "wikidata": "Q2702506",
           "mobygames": "harvest-moon-64",
-          "igdb": "harvest-moon-64"
+          "giantbomb": "3030-12010",
+          "igdb": "harvest-moon-64",
+          "nintendo64ever": "133",
+          "n64database": "127",
+          "retroachievements": "10157",
+          "metacritic": "harvest-moon-64"
         },
         "developers": [
           "Marvelous Entertainment"
         ],
         "publishers": [
           "Winning Entertainment Group"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Story of Seasons",
         "release_date": "1999-02-05",
@@ -5088,7 +6168,9 @@
         "external_ids": {
           "wikidata": "Q13743368",
           "mobygames": "killer-instinct-gold",
-          "igdb": "killer-instinct-gold"
+          "igdb": "killer-instinct-gold",
+          "nintendo64ever": "166",
+          "n64database": "161"
         },
         "genres": [
           "Fighting"
@@ -5098,6 +6180,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Killer Instinct",
         "release_date": "1996-01-01",
@@ -5123,7 +6209,11 @@
         "external_ids": {
           "wikidata": "Q3437940",
           "mobygames": "rocket-robot-on-wheels",
-          "igdb": "rocket-robot-on-wheels"
+          "giantbomb": "3030-7804",
+          "igdb": "rocket-robot-on-wheels",
+          "nintendo64ever": "299",
+          "n64database": "291",
+          "retroachievements": "10900"
         },
         "genres": [
           "Platformer"
@@ -5133,6 +6223,9 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1999-10-31",
         "release_year": 1999,
@@ -5157,13 +6250,23 @@
         "external_ids": {
           "wikidata": "Q1538485",
           "mobygames": "tony-hawks-pro-skater-2",
-          "igdb": "tony-hawk-s-pro-skater-2"
+          "howlongtobeat": "10492",
+          "giantbomb": "3030-990",
+          "igdb": "tony-hawk-s-pro-skater-2",
+          "nintendo64ever": "351",
+          "n64database": "339",
+          "retroachievements": "11282",
+          "metacritic": "tony-hawks-pro-skater-2"
         },
         "developers": [
           "Neversoft"
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-09-20",
         "release_year": 2000,
@@ -5188,7 +6291,10 @@
         "external_ids": {
           "wikidata": "Q3564656",
           "mobygames": "wcw-vs-nwo-world-tour",
-          "igdb": "wcw-vs-nwo-world-tour"
+          "giantbomb": "3030-14786",
+          "igdb": "wcw-vs-nwo-world-tour",
+          "nintendo64ever": "378",
+          "n64database": "369"
         },
         "genres": [
           "Sports"
@@ -5198,6 +6304,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-11-30",
         "release_year": 1997,
@@ -5222,7 +6332,11 @@
         "external_ids": {
           "wikidata": "Q1171293",
           "mobygames": "disneypixar-a-bugs-life",
-          "igdb": "a-bugs-life"
+          "howlongtobeat": "121",
+          "igdb": "a-bugs-life",
+          "nintendo64ever": "7",
+          "n64database": "45",
+          "retroachievements": "11416"
         },
         "genres": [
           "Platformer"
@@ -5232,6 +6346,9 @@
         ],
         "publishers": [
           "Disney Interactive Studios"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-11-18",
         "release_year": 1998,
@@ -5255,8 +6372,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2911866",
-          "mobygames": "bottom-of-the-9th_",
-          "igdb": "bottom-of-the-9th"
+          "mobygames": "bottom-of-the-9th",
+          "howlongtobeat": "1286",
+          "giantbomb": "3030-20026",
+          "igdb": "bottom-of-the-9th",
+          "nintendo64ever": "45",
+          "n64database": "42"
         },
         "genres": [
           "Sports"
@@ -5266,6 +6387,10 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1996-04-04",
         "release_year": 1996,
@@ -5290,7 +6415,9 @@
         "external_ids": {
           "wikidata": "Q4894560",
           "mobygames": "asteroids-hyper-64",
-          "igdb": "asteroids-hyper-64"
+          "igdb": "asteroids-hyper-64",
+          "nintendo64ever": "21",
+          "n64database": "19"
         },
         "genres": [
           "Shooter"
@@ -5326,7 +6453,13 @@
         "external_ids": {
           "wikidata": "Q1071278",
           "mobygames": "doom-64",
-          "igdb": "doom-64"
+          "howlongtobeat": "2709",
+          "giantbomb": "3030-16788",
+          "igdb": "doom-64",
+          "nintendo64ever": "86",
+          "n64database": "82",
+          "retroachievements": "10080",
+          "metacritic": "doom-64"
         },
         "genres": [
           "Shooter"
@@ -5337,6 +6470,9 @@
         "publishers": [
           "Bethesda Softworks",
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Doom",
         "release_date": "1997-03-31",
@@ -5388,8 +6524,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1865940",
-          "mobygames": "international-superstar-soccer-2000_",
-          "igdb": "international-superstar-soccer-2000"
+          "mobygames": "international-superstar-soccer-2000",
+          "howlongtobeat": "12455",
+          "giantbomb": "3030-7818",
+          "igdb": "international-superstar-soccer-2000",
+          "nintendo64ever": "146",
+          "n64database": "140"
         },
         "genres": [
           "Sports"
@@ -5399,6 +6539,9 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "International Superstar Soccer",
         "release_date": "1999-07-29",
@@ -5424,7 +6567,11 @@
         "external_ids": {
           "wikidata": "Q2904020",
           "mobygames": "bio-freaks",
-          "igdb": "bio-f-r-e-a-k-s"
+          "howlongtobeat": "1049",
+          "giantbomb": "3030-19241",
+          "igdb": "bio-f-r-e-a-k-s",
+          "nintendo64ever": "37",
+          "n64database": "34"
         },
         "genres": [
           "Fighting"
@@ -5434,6 +6581,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-04-30",
         "release_year": 1998,
@@ -5458,7 +6609,10 @@
         "external_ids": {
           "wikidata": "Q3334430",
           "mobygames": "nhl-blades-of-steel-99",
-          "igdb": "nhl-blades-of-steel-99"
+          "giantbomb": "3030-5337",
+          "igdb": "nhl-blades-of-steel-99",
+          "nintendo64ever": "243",
+          "n64database": "237"
         },
         "genres": [
           "Sports"
@@ -5468,6 +6622,10 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Blades of Steel",
         "release_date": "1999-04-05",
@@ -5492,7 +6650,10 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q56757304",
-          "igdb": "nfl-blitz-special-edition"
+          "giantbomb": "3030-40658",
+          "igdb": "nfl-blitz-special-edition",
+          "nintendo64ever": "236",
+          "n64database": "231"
         },
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -5517,7 +6678,11 @@
         "external_ids": {
           "wikidata": "Q3143715",
           "mobygames": "hydro-thunder",
-          "igdb": "hydro-thunder"
+          "howlongtobeat": "4557",
+          "giantbomb": "3030-13241",
+          "igdb": "hydro-thunder",
+          "nintendo64ever": "141",
+          "n64database": "134"
         },
         "genres": [
           "Racing"
@@ -5527,6 +6692,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer"
         ],
         "series": "Thunder",
         "release_date": "1999-09-09",
@@ -5553,7 +6721,13 @@
         "external_ids": {
           "wikidata": "Q369086",
           "mobygames": "goldeneye-007",
-          "igdb": "goldeneye-007"
+          "howlongtobeat": "4003",
+          "giantbomb": "3030-3166",
+          "igdb": "goldeneye-007",
+          "nintendo64ever": "128",
+          "n64database": "124",
+          "retroachievements": "10073",
+          "metacritic": "goldeneye-007"
         },
         "genres": [
           "Shooter"
@@ -5563,6 +6737,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "James Bond",
         "release_date": "1997-08-23",
@@ -5587,8 +6765,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q16266958",
-          "mobygames": "nba-jam-99_",
-          "igdb": "nba-jam-99"
+          "mobygames": "nba-jam-99",
+          "giantbomb": "3030-20342",
+          "igdb": "nba-jam-99",
+          "nintendo64ever": "224",
+          "n64database": "219"
         },
         "genres": [
           "Sports"
@@ -5598,6 +6779,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "NBA Jam",
         "release_date": "1998-12-04",
@@ -5623,7 +6807,10 @@
         "external_ids": {
           "wikidata": "Q1873945",
           "mobygames": "war-gods",
-          "igdb": "war-gods"
+          "giantbomb": "3030-10476",
+          "igdb": "war-gods",
+          "nintendo64ever": "371",
+          "n64database": "362"
         },
         "genres": [
           "Fighting"
@@ -5633,6 +6820,10 @@
         ],
         "publishers": [
           "Atari, Inc."
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-05-21",
         "release_year": 1997,
@@ -5657,8 +6848,10 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2562893",
-          "mobygames": "mystical-ninja-starring-goemon_",
-          "igdb": "mystical-ninja-starring-goemon"
+          "mobygames": "mystical-ninja-starring-goemon",
+          "igdb": "mystical-ninja-starring-goemon",
+          "nintendo64ever": "215",
+          "metacritic": "mystical-ninja-starring-goemon"
         },
         "genres": [
           "Action-Adventure",
@@ -5669,6 +6862,9 @@
         ],
         "publishers": [
           "Konami"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Goemon",
         "release_date": "1997-08-07",
@@ -5694,7 +6890,11 @@
         "external_ids": {
           "wikidata": "Q615211",
           "mobygames": "gex-3-deep-cover-gecko",
-          "igdb": "gex-3-deep-cover-gecko"
+          "giantbomb": "3030-20330",
+          "igdb": "gex-3-deep-cover-gecko",
+          "nintendo64ever": "124",
+          "n64database": "118",
+          "retroachievements": "10223"
         },
         "genres": [
           "Platformer"
@@ -5704,6 +6904,9 @@
         ],
         "publishers": [
           "Eidos Interactive"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Gex",
         "release_date": "1999-03-01",
@@ -5728,8 +6931,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2891778",
-          "mobygames": "battletanx_",
-          "igdb": "battletanx"
+          "mobygames": "battletanx",
+          "howlongtobeat": "954",
+          "giantbomb": "3030-3687",
+          "igdb": "battletanx",
+          "nintendo64ever": "31",
+          "n64database": "29"
         },
         "genres": [
           "Action"
@@ -5739,6 +6946,10 @@
         ],
         "publishers": [
           "The 3DO Company"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-12-31",
         "release_year": 1998,
@@ -5763,7 +6974,13 @@
         "external_ids": {
           "wikidata": "Q1141963",
           "mobygames": "star-fox-64",
-          "igdb": "star-fox-64"
+          "howlongtobeat": "9037",
+          "giantbomb": "3030-19203",
+          "igdb": "star-fox-64",
+          "nintendo64ever": "176",
+          "n64database": "313",
+          "retroachievements": "10248",
+          "metacritic": "star-fox-64"
         },
         "genres": [
           "Shooter"
@@ -5773,6 +6990,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Star Fox",
         "release_date": "1997-04-27",
@@ -5798,7 +7019,10 @@
         "external_ids": {
           "wikidata": "Q16266960",
           "mobygames": "nhl-breakaway-99",
-          "igdb": "nhl-breakaway-99"
+          "giantbomb": "3030-27596",
+          "igdb": "nhl-breakaway-99",
+          "nintendo64ever": "245",
+          "n64database": "239"
         },
         "genres": [
           "Sports"
@@ -5808,6 +7032,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-11-27",
         "release_year": 1998,
@@ -5845,7 +7072,12 @@
         "external_ids": {
           "wikidata": "Q2295559",
           "mobygames": "ogre-battle-64-person-of-lordly-caliber",
-          "igdb": "ogre-battle-64-person-of-lordly-caliber"
+          "howlongtobeat": "6716",
+          "giantbomb": "3030-14506",
+          "igdb": "ogre-battle-64-person-of-lordly-caliber",
+          "nintendo64ever": "251",
+          "n64database": "246",
+          "metacritic": "ogre-battle-64-person-of-lordly-caliber"
         },
         "developers": [
           "Quest"
@@ -5853,6 +7085,9 @@
         "publishers": [
           "Nintendo",
           "Square Enix"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Ogre Battle",
         "release_date": "1999-07-14",
@@ -5880,7 +7115,12 @@
         "external_ids": {
           "wikidata": "Q216995",
           "mobygames": "super-mario-64",
-          "igdb": "super-mario-64"
+          "howlongtobeat": "9364",
+          "giantbomb": "3030-2931",
+          "igdb": "super-mario-64",
+          "nintendo64ever": "333",
+          "n64database": "324",
+          "retroachievements": "10003"
         },
         "genres": [
           "Platformer"
@@ -5890,6 +7130,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Super Mario",
         "release_date": "1996-06-23",
@@ -5927,14 +7170,21 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q28452238",
-          "mobygames": "monopoly_n64",
-          "igdb": "monopoly--7"
+          "mobygames": "monopoly__",
+          "howlongtobeat": "15937",
+          "igdb": "monopoly--7",
+          "nintendo64ever": "206",
+          "n64database": "201"
         },
         "developers": [
           "Mind's Eye Productions"
         ],
         "publishers": [
           "Hasbro Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-01-01",
         "release_year": 1999,
@@ -5959,7 +7209,11 @@
         "external_ids": {
           "wikidata": "Q3569363",
           "mobygames": "tiggers-honey-hunt",
-          "igdb": "disneys-tiggers-honey-hunt"
+          "giantbomb": "3030-18825",
+          "igdb": "disneys-tiggers-honey-hunt",
+          "nintendo64ever": "346",
+          "n64database": "335",
+          "metacritic": "tiggers-honey-hunt-junior-adventure"
         },
         "developers": [
           "Doki Denki Studio"
@@ -5968,6 +7222,9 @@
           "Disney Interactive Studios",
           "NewKidCo",
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-09-29",
         "release_year": 2000,
@@ -5992,7 +7249,10 @@
         "external_ids": {
           "wikidata": "Q2297514",
           "mobygames": "fighters-destiny",
-          "igdb": "fighters-destiny"
+          "giantbomb": "3030-13172",
+          "igdb": "fighters-destiny",
+          "nintendo64ever": "112",
+          "n64database": "108"
         },
         "genres": [
           "Fighting"
@@ -6004,6 +7264,10 @@
         "publishers": [
           "Ocean Software",
           "SouthPeak Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-01-31",
         "release_year": 1998,
@@ -6028,7 +7292,11 @@
         "external_ids": {
           "wikidata": "Q3504618",
           "mobygames": "supercross-2000",
-          "igdb": "supercross-2000"
+          "howlongtobeat": "26336",
+          "giantbomb": "3030-12092",
+          "igdb": "supercross-2000",
+          "nintendo64ever": "337",
+          "n64database": "328"
         },
         "genres": [
           "Racing"
@@ -6038,6 +7306,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-10-31",
         "release_year": 1999,
@@ -6062,13 +7334,22 @@
         "external_ids": {
           "wikidata": "Q2907306",
           "mobygames": "blues-brothers-2000",
-          "igdb": "blues-brothers-2000"
+          "howlongtobeat": "1212",
+          "giantbomb": "3030-13658",
+          "igdb": "blues-brothers-2000",
+          "nintendo64ever": "39",
+          "n64database": "36",
+          "metacritic": "blues-brothers-2000"
         },
         "genres": [
           "Platformer"
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-11-16",
         "release_year": 2000,
@@ -6093,7 +7374,13 @@
         "external_ids": {
           "wikidata": "Q339222",
           "mobygames": "blast-corps",
-          "igdb": "blast-corps"
+          "howlongtobeat": "1133",
+          "giantbomb": "3030-13245",
+          "igdb": "blast-corps",
+          "nintendo64ever": "38",
+          "n64database": "35",
+          "retroachievements": "10162",
+          "metacritic": "blast-corps"
         },
         "genres": [
           "Action",
@@ -6104,6 +7391,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1997-03-21",
         "release_year": 1997,
@@ -6128,7 +7418,11 @@
         "external_ids": {
           "wikidata": "Q530973",
           "mobygames": "south-park-rally",
-          "igdb": "south-park-rally"
+          "giantbomb": "3030-10325",
+          "igdb": "south-park-rally",
+          "nintendo64ever": "318",
+          "n64database": "308",
+          "retroachievements": "10392"
         },
         "genres": [
           "Racing"
@@ -6138,6 +7432,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "South Park",
         "release_date": "1999-11-30",
@@ -6163,7 +7461,10 @@
         "external_ids": {
           "wikidata": "Q3459046",
           "mobygames": "scars",
-          "igdb": "s-c-a-r-s"
+          "giantbomb": "3030-7156",
+          "igdb": "s-c-a-r-s",
+          "nintendo64ever": "303",
+          "n64database": "295"
         },
         "genres": [
           "Racing"
@@ -6173,6 +7474,9 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-08-31",
         "release_year": 1998,
@@ -6197,7 +7501,11 @@
         "external_ids": {
           "wikidata": "Q3005563",
           "mobygames": "cruisn-usa",
-          "igdb": "cruis-n-usa"
+          "howlongtobeat": "2053",
+          "giantbomb": "3030-9890",
+          "igdb": "cruis-n-usa",
+          "nintendo64ever": "71",
+          "n64database": "65"
         },
         "genres": [
           "Racing"
@@ -6207,6 +7515,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Cruis'n",
         "release_date": "1996-12-03",
@@ -6232,7 +7544,10 @@
         "external_ids": {
           "wikidata": "Q3275495",
           "mobygames": "madden-nfl-2000",
-          "igdb": "madden-nfl-2000"
+          "igdb": "madden-nfl-2000",
+          "nintendo64ever": "179",
+          "n64database": "175",
+          "metacritic": "madden-nfl-2000"
         },
         "genres": [
           "Sports"
@@ -6242,6 +7557,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Madden NFL",
         "release_date": "1999-08-31",
@@ -6267,7 +7586,12 @@
         "external_ids": {
           "wikidata": "Q3141103",
           "mobygames": "hot-wheels-turbo-racing",
-          "igdb": "hot-wheels-turbo-racing"
+          "howlongtobeat": "4521",
+          "giantbomb": "3030-4388",
+          "igdb": "hot-wheels-turbo-racing",
+          "nintendo64ever": "139",
+          "n64database": "132",
+          "retroachievements": "10912"
         },
         "genres": [
           "Racing"
@@ -6277,6 +7601,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Hot Wheels",
         "release_date": "1999-08-31",
@@ -6302,7 +7630,11 @@
         "external_ids": {
           "wikidata": "Q3150637",
           "mobygames": "indy-racing-2000",
-          "igdb": "indy-racing-2000"
+          "howlongtobeat": "82885",
+          "giantbomb": "3030-16322",
+          "igdb": "indy-racing-2000",
+          "nintendo64ever": "145",
+          "n64database": "138"
         },
         "genres": [
           "Racing"
@@ -6312,6 +7644,10 @@
         ],
         "publishers": [
           "Infogrames"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-06-09",
         "release_year": 2000,
@@ -6336,13 +7672,19 @@
         "external_ids": {
           "wikidata": "Q2039398",
           "mobygames": "star-soldier-vanishing-earth",
-          "igdb": "star-soldier-vanishing-earth"
+          "giantbomb": "3030-15248",
+          "igdb": "star-soldier-vanishing-earth",
+          "nintendo64ever": "323",
+          "n64database": "314"
         },
         "developers": [
           "Hudson Soft"
         ],
         "publishers": [
           "Hudson Soft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Star Soldier",
         "release_date": "1998-07-10",
@@ -6368,7 +7710,11 @@
         "external_ids": {
           "wikidata": "Q2420155",
           "mobygames": "fifa-99",
-          "igdb": "fifa-99"
+          "howlongtobeat": "3441",
+          "giantbomb": "3030-15945",
+          "igdb": "fifa-99",
+          "nintendo64ever": "110",
+          "n64database": "105"
         },
         "genres": [
           "Sports"
@@ -6378,6 +7724,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-10-31",
         "release_year": 1998,
@@ -6416,7 +7766,13 @@
         "external_ids": {
           "wikidata": "Q1408723",
           "mobygames": "perfect-dark",
-          "igdb": "perfect-dark"
+          "howlongtobeat": "6966",
+          "giantbomb": "3030-21256",
+          "igdb": "perfect-dark",
+          "nintendo64ever": "262",
+          "n64database": "255",
+          "retroachievements": "10110",
+          "metacritic": "perfect-dark-2000"
         },
         "genres": [
           "Action",
@@ -6427,6 +7783,11 @@
         ],
         "publishers": [
           "Rare Ltd."
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "series": "Perfect Dark",
         "release_date": "2000-05-22",
@@ -6452,7 +7813,10 @@
         "external_ids": {
           "wikidata": "Q1130193",
           "mobygames": "south-park-chefs-luv-shack",
-          "igdb": "south-park-chef-s-luv-shack"
+          "giantbomb": "3030-2127",
+          "igdb": "south-park-chef-s-luv-shack",
+          "nintendo64ever": "319",
+          "n64database": "309"
         },
         "genres": [
           "Party"
@@ -6462,6 +7826,9 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer"
         ],
         "series": "South Park",
         "release_date": "1999-10-12",
@@ -6487,7 +7854,12 @@
         "external_ids": {
           "wikidata": "Q2862833",
           "mobygames": "army-men-sarges-heroes-2",
-          "igdb": "army-men-sarge-s-heroes-2"
+          "howlongtobeat": "616",
+          "giantbomb": "3030-14160",
+          "igdb": "army-men-sarge-s-heroes-2",
+          "nintendo64ever": "20",
+          "n64database": "18",
+          "metacritic": "army-men-sarges-heroes-2"
         },
         "genres": [
           "Action",
@@ -6498,6 +7870,10 @@
         ],
         "publishers": [
           "The 3DO Company"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-09-26",
         "release_year": 2000,
@@ -6521,7 +7897,9 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q110041222",
-          "mobygames": "jeopardy_______"
+          "mobygames": "jeopardy_______",
+          "nintendo64ever": "151",
+          "n64database": "149"
         },
         "developers": [
           "GameTek"
@@ -6553,7 +7931,13 @@
         "external_ids": {
           "wikidata": "Q149998",
           "mobygames": "paper-mario",
-          "igdb": "paper-mario"
+          "howlongtobeat": "6909",
+          "giantbomb": "3030-19929",
+          "igdb": "paper-mario",
+          "nintendo64ever": "257",
+          "n64database": "250",
+          "retroachievements": "10154",
+          "metacritic": "paper-mario"
         },
         "genres": [
           "Platformer",
@@ -6564,6 +7948,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Paper Mario",
         "release_date": "2000-08-11",
@@ -6589,7 +7976,9 @@
         "external_ids": {
           "wikidata": "Q3284345",
           "mobygames": "power-rangers-lightspeed-rescue",
-          "igdb": "power-rangers-lightspeed-rescue"
+          "igdb": "power-rangers-lightspeed-rescue",
+          "nintendo64ever": "272",
+          "n64database": "264"
         },
         "genres": [
           "Action",
@@ -6600,6 +7989,10 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-06-01",
         "release_year": 2000,
@@ -6624,7 +8017,11 @@
         "external_ids": {
           "wikidata": "Q668397",
           "mobygames": "aerogauge",
-          "igdb": "aerogauge"
+          "howlongtobeat": "240",
+          "giantbomb": "3030-19906",
+          "igdb": "aerogauge",
+          "nintendo64ever": "9",
+          "n64database": "7"
         },
         "genres": [
           "Racing"
@@ -6634,6 +8031,10 @@
         ],
         "publishers": [
           "ASCII Corporation"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-12-19",
         "release_year": 1997,
@@ -6658,7 +8059,10 @@
         "external_ids": {
           "wikidata": "Q3565145",
           "mobygames": "true-golf-classics-waialae-country-club_",
-          "igdb": "waialae-country-club-true-golf-classics"
+          "giantbomb": "3030-22798",
+          "igdb": "waialae-country-club-true-golf-classics",
+          "nintendo64ever": "370",
+          "n64database": "361"
         },
         "genres": [
           "Sports"
@@ -6668,6 +8072,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-07-29",
         "release_year": 1998,
@@ -6692,7 +8100,11 @@
         "external_ids": {
           "wikidata": "Q2862795",
           "mobygames": "armorines-project-swarm",
-          "igdb": "armorines-project-s-w-a-r-m"
+          "howlongtobeat": "606",
+          "giantbomb": "3030-6563",
+          "igdb": "armorines-project-s-w-a-r-m",
+          "nintendo64ever": "17",
+          "n64database": "15"
         },
         "genres": [
           "Shooter"
@@ -6702,6 +8114,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-11-30",
         "release_year": 1999,
@@ -6726,8 +8142,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q598160",
-          "mobygames": "nba-showtime-nba-on-nbc_",
-          "igdb": "nba-showtime-nba-on-nbc"
+          "mobygames": "nba-showtime-nba-on-nbc",
+          "giantbomb": "3030-4632",
+          "igdb": "nba-showtime-nba-on-nbc",
+          "nintendo64ever": "229",
+          "n64database": "223"
         },
         "genres": [
           "Sports"
@@ -6737,6 +8156,10 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-10-31",
         "release_year": 1999,
@@ -6761,7 +8184,12 @@
         "external_ids": {
           "wikidata": "Q1366980",
           "mobygames": "kirby-64-the-crystal-shards",
-          "igdb": "kirby-64-the-crystal-shards"
+          "giantbomb": "3030-17093",
+          "igdb": "kirby-64-the-crystal-shards",
+          "nintendo64ever": "168",
+          "n64database": "163",
+          "retroachievements": "10246",
+          "metacritic": "kirby-64-the-crystal-shards"
         },
         "genres": [
           "Platformer"
@@ -6771,6 +8199,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-03-24",
         "release_year": 2000,
@@ -6796,7 +8228,13 @@
         "external_ids": {
           "wikidata": "Q129000",
           "mobygames": "banjo-kazooie",
-          "igdb": "banjo-kazooie"
+          "howlongtobeat": "834",
+          "giantbomb": "3030-10920",
+          "igdb": "banjo-kazooie",
+          "nintendo64ever": "25",
+          "n64database": "23",
+          "retroachievements": "10210",
+          "metacritic": "banjo-kazooie"
         },
         "genres": [
           "Platformer"
@@ -6806,6 +8244,9 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Banjo-Kazooie",
         "release_date": "1998-06-29",
@@ -6831,8 +8272,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q55217",
-          "mobygames": "star-wars-episode-i-racer_",
-          "igdb": "star-wars-episode-i-racer"
+          "mobygames": "star-wars-episode-i-racer",
+          "howlongtobeat": "9080",
+          "giantbomb": "3030-13526",
+          "igdb": "star-wars-episode-i-racer",
+          "nintendo64ever": "326",
+          "n64database": "316",
+          "metacritic": "star-wars-episode-i-racer"
         },
         "genres": [
           "Racing"
@@ -6842,6 +8288,10 @@
         ],
         "publishers": [
           "Lucasfilm Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-05-19",
         "release_year": 1999,
@@ -6866,7 +8316,9 @@
         "external_ids": {
           "wikidata": "Q2964476",
           "mobygames": "chopper-attack",
-          "igdb": "chopper-attack"
+          "igdb": "chopper-attack",
+          "nintendo64ever": "59",
+          "n64database": "56"
         },
         "genres": [
           "Shooter"
@@ -6876,6 +8328,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1997-11-28",
         "release_year": 1997,
@@ -6900,7 +8355,10 @@
         "external_ids": {
           "wikidata": "Q2484999",
           "mobygames": "wwf-war-zone",
-          "igdb": "wwf-war-zone"
+          "giantbomb": "3030-18801",
+          "igdb": "wwf-war-zone",
+          "nintendo64ever": "389",
+          "n64database": "382"
         },
         "genres": [
           "Sports"
@@ -6910,6 +8368,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -6931,8 +8393,14 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2264782",
-          "mobygames": "tony-hawks-pro-skater-",
-          "igdb": "tony-hawk-s-pro-skater"
+          "mobygames": "tony-hawks-pro-skater",
+          "howlongtobeat": "10491",
+          "giantbomb": "3030-7236",
+          "igdb": "tony-hawk-s-pro-skater",
+          "nintendo64ever": "350",
+          "n64database": "338",
+          "retroachievements": "11331",
+          "metacritic": "tony-hawks-pro-skater"
         },
         "genres": [
           "Sports"
@@ -6942,6 +8410,10 @@
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -6965,7 +8437,9 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3504117",
-          "mobygames": "super-bowling"
+          "mobygames": "super-bowling",
+          "nintendo64ever": "332",
+          "n64database": "323"
         },
         "genres": [
           "Sports"
@@ -6994,7 +8468,12 @@
         "external_ids": {
           "wikidata": "Q1065861",
           "mobygames": "re-volt",
-          "igdb": "re-volt"
+          "howlongtobeat": "7630",
+          "giantbomb": "3030-5037",
+          "igdb": "re-volt",
+          "nintendo64ever": "293",
+          "n64database": "282",
+          "retroachievements": "10271"
         },
         "genres": [
           "Racing"
@@ -7004,6 +8483,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Re-Volt",
         "release_date": "1999-07-31",
@@ -7028,8 +8511,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2988273",
-          "mobygames": "vigilante-8_",
-          "igdb": "vigilante-8--1"
+          "mobygames": "vigilante-8",
+          "howlongtobeat": "10940",
+          "giantbomb": "3030-13200",
+          "igdb": "vigilante-8",
+          "nintendo64ever": "365",
+          "n64database": "355",
+          "retroachievements": "10089"
         },
         "genres": [
           "Action"
@@ -7039,6 +8527,10 @@
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -7061,7 +8553,13 @@
         "external_ids": {
           "wikidata": "Q2862836",
           "mobygames": "army-men-sarges-heroes",
-          "igdb": "army-men-sarge-s-heroes"
+          "howlongtobeat": "615",
+          "giantbomb": "3030-11157",
+          "igdb": "army-men-sarge-s-heroes",
+          "nintendo64ever": "19",
+          "n64database": "17",
+          "retroachievements": "10148",
+          "metacritic": "army-men-sarges-heroes"
         },
         "genres": [
           "Action"
@@ -7071,6 +8569,10 @@
         ],
         "publishers": [
           "The 3DO Company"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Army Men",
         "release_date": "1999-09-28",
@@ -7095,7 +8597,9 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q110039980",
-          "mobygames": "wheel-of-fortune___"
+          "mobygames": "wheel-of-fortune___",
+          "nintendo64ever": "381",
+          "n64database": "372"
         },
         "developers": [
           "GameTek"
@@ -7126,7 +8630,11 @@
         "external_ids": {
           "wikidata": "Q65038242",
           "mobygames": "all-star-baseball-99",
-          "igdb": "all-star-baseball-99"
+          "howlongtobeat": "20507",
+          "giantbomb": "3030-19311",
+          "igdb": "all-star-baseball-99",
+          "nintendo64ever": "15",
+          "n64database": "11"
         },
         "series": "All-Star Baseball",
         "enriched_from": [
@@ -7150,7 +8658,12 @@
         "external_ids": {
           "wikidata": "Q3046150",
           "mobygames": "excitebike-64",
-          "igdb": "excitebike-64"
+          "howlongtobeat": "3262",
+          "giantbomb": "3030-15429",
+          "igdb": "excitebike-64",
+          "nintendo64ever": "101",
+          "n64database": "96",
+          "metacritic": "excitebike-64"
         },
         "genres": [
           "Racing"
@@ -7160,6 +8673,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Excite",
         "release_date": "2000-04-30",
@@ -7184,7 +8701,9 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1998794",
-          "mobygames": "monaco-grand-prix-racing-simulation-2"
+          "mobygames": "monaco-grand-prix-racing-simulation-2",
+          "nintendo64ever": "205",
+          "n64database": "200"
         },
         "genres": [
           "Racing"
@@ -7194,6 +8713,10 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-06-30",
         "release_year": 1999,
@@ -7218,7 +8741,11 @@
         "external_ids": {
           "wikidata": "Q3497241",
           "mobygames": "starshot-space-circus-fever",
-          "igdb": "starshot-space-circus-fever"
+          "giantbomb": "3030-5695",
+          "igdb": "starshot-space-circus-fever",
+          "nintendo64ever": "329",
+          "n64database": "320",
+          "retroachievements": "14337"
         },
         "genres": [
           "Platformer"
@@ -7228,6 +8755,9 @@
         ],
         "publishers": [
           "Infogrames"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-12-04",
         "release_year": 1998,
@@ -7252,7 +8782,11 @@
         "external_ids": {
           "wikidata": "Q475782",
           "mobygames": "snowboard-kids",
-          "igdb": "snowboard-kids"
+          "giantbomb": "3030-18062",
+          "igdb": "snowboard-kids",
+          "nintendo64ever": "315",
+          "n64database": "305",
+          "retroachievements": "10199"
         },
         "genres": [
           "Racing",
@@ -7263,6 +8797,10 @@
         ],
         "publishers": [
           "Atlus"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-12-12",
         "release_year": 1997,
@@ -7287,13 +8825,21 @@
         "external_ids": {
           "wikidata": "Q3530639",
           "mobygames": "tom-and-jerry-in-fists-of-furry",
-          "igdb": "tom-and-jerry-in-fists-of-furry"
+          "howlongtobeat": "29730",
+          "igdb": "tom-and-jerry-in-fists-of-furry",
+          "nintendo64ever": "347",
+          "n64database": "336",
+          "retroachievements": "10515",
+          "metacritic": "tom-and-jerry-in-fists-of-furry"
         },
         "genres": [
           "Platformer"
         ],
         "developers": [
           "VIS Entertainment"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-01-01",
         "release_year": 2000,
@@ -7317,14 +8863,21 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3421556",
-          "mobygames": "ready-2-rumble-boxing_",
-          "igdb": "ready-2-rumble-boxing"
+          "mobygames": "ready-2-rumble-boxing",
+          "giantbomb": "3030-19836",
+          "igdb": "ready-2-rumble-boxing",
+          "nintendo64ever": "290",
+          "n64database": "283"
         },
         "developers": [
           "Midway Games"
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Ready 2 Rumble",
         "release_date": "1999-09-09",
@@ -7350,13 +8903,20 @@
         "external_ids": {
           "wikidata": "Q3284336",
           "mobygames": "rat-attack",
-          "igdb": "rat-attack"
+          "giantbomb": "3030-16953",
+          "igdb": "rat-attack",
+          "nintendo64ever": "287",
+          "n64database": "279"
         },
         "genres": [
           "Puzzle"
         ],
         "publishers": [
           "Mindscape"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -7381,13 +8941,20 @@
         "external_ids": {
           "wikidata": "Q3560842",
           "mobygames": "virtual-chess-64",
-          "igdb": "virtual-chess-64"
+          "giantbomb": "3030-14771",
+          "igdb": "virtual-chess-64",
+          "nintendo64ever": "367",
+          "n64database": "357"
         },
         "developers": [
           "Titus Interactive"
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-06-10",
         "release_year": 1998,
@@ -7412,7 +8979,11 @@
         "external_ids": {
           "wikidata": "Q2719351",
           "mobygames": "buck-bumble",
-          "igdb": "buck-bumble"
+          "howlongtobeat": "1361",
+          "giantbomb": "3030-8907",
+          "igdb": "buck-bumble",
+          "nintendo64ever": "47",
+          "n64database": "44"
         },
         "genres": [
           "Action",
@@ -7423,6 +8994,10 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-09-30",
         "release_year": 1998,
@@ -7448,7 +9023,11 @@
         "external_ids": {
           "wikidata": "Q3564645",
           "mobygames": "wcw-mayhem",
-          "igdb": "wcw-mayhem"
+          "howlongtobeat": "11116",
+          "giantbomb": "3030-1204",
+          "igdb": "wcw-mayhem",
+          "nintendo64ever": "376",
+          "n64database": "367"
         },
         "genres": [
           "Wrestling"
@@ -7458,6 +9037,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -7482,7 +9065,10 @@
         "external_ids": {
           "wikidata": "Q3282847",
           "mobygames": "turok-rage-wars",
-          "igdb": "turok-rage-wars"
+          "giantbomb": "3030-7962",
+          "igdb": "turok-rage-wars",
+          "nintendo64ever": "360",
+          "n64database": "351"
         },
         "genres": [
           "Shooter"
@@ -7492,6 +9078,11 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "series": "Turok",
         "release_date": "1999-10-31",
@@ -7518,7 +9109,11 @@
         "external_ids": {
           "wikidata": "Q1980794",
           "mobygames": "nascar-99",
-          "igdb": "nascar-99"
+          "howlongtobeat": "6415",
+          "giantbomb": "3030-18807",
+          "igdb": "nascar-99",
+          "nintendo64ever": "219",
+          "n64database": "212"
         },
         "genres": [
           "Racing"
@@ -7528,6 +9123,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-09-11",
         "release_year": 1998,
@@ -7551,8 +9150,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q1860996",
-          "mobygames": "scooby-doo-classic-creep-capers_",
-          "igdb": "scooby-doo-classic-creep-capers"
+          "mobygames": "scooby-doo-classic-creep-capers",
+          "giantbomb": "3030-1012",
+          "igdb": "scooby-doo-classic-creep-capers",
+          "nintendo64ever": "307",
+          "n64database": "299"
         },
         "genres": [
           "Platformer"
@@ -7562,6 +9164,9 @@
         ],
         "publishers": [
           "THQ"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-11-30",
         "release_year": 2000,
@@ -7586,7 +9191,12 @@
         "external_ids": {
           "wikidata": "Q56757283",
           "mobygames": "nfl-blitz-2000",
-          "igdb": "nfl-blitz-2000"
+          "howlongtobeat": "6551",
+          "giantbomb": "3030-2849",
+          "igdb": "nfl-blitz-2000",
+          "nintendo64ever": "234",
+          "n64database": "229",
+          "metacritic": "nfl-blitz-2000"
         },
         "genres": [
           "Sports"
@@ -7613,8 +9223,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3043129",
-          "mobygames": "magical-tetris-challenge_",
-          "igdb": "magical-tetris-challenge"
+          "mobygames": "magical-tetris-challenge",
+          "giantbomb": "3030-10515",
+          "igdb": "magical-tetris-challenge",
+          "nintendo64ever": "183",
+          "n64database": "178"
         },
         "genres": [
           "Puzzle"
@@ -7624,6 +9237,10 @@
         ],
         "publishers": [
           "Capcom"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Tetris",
         "release_date": "1998-11-20",
@@ -7649,7 +9266,12 @@
         "external_ids": {
           "wikidata": "Q1300673",
           "mobygames": "mortal-kombat-mythologies-sub-zero",
-          "igdb": "mortal-kombat-mythologies-sub-zero--1"
+          "howlongtobeat": "6208",
+          "giantbomb": "3030-17295",
+          "igdb": "mortal-kombat-mythologies-sub-zero",
+          "nintendo64ever": "210",
+          "n64database": "205",
+          "retroachievements": "10926"
         },
         "genres": [
           "Action-Adventure",
@@ -7660,6 +9282,9 @@
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Mortal Kombat",
         "release_date": "1997-10-01",
@@ -7685,7 +9310,11 @@
         "external_ids": {
           "wikidata": "Q3316822",
           "mobygames": "mission-impossible",
-          "igdb": "mission-impossible"
+          "igdb": "mission-impossible",
+          "nintendo64ever": "204",
+          "n64database": "199",
+          "retroachievements": "10486",
+          "metacritic": "mission-impossible-1998"
         },
         "genres": [
           "Action-Adventure",
@@ -7696,6 +9325,9 @@
         ],
         "publishers": [
           "Ocean Software"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1998-07-16",
         "release_year": 1998,
@@ -7719,14 +9351,23 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q868523",
-          "mobygames": "command-conquer-special-gold-edition",
-          "igdb": "command-conquer"
+          "mobygames": "command-conquer",
+          "howlongtobeat": "1830",
+          "giantbomb": "3030-4384",
+          "igdb": "command-conquer",
+          "nintendo64ever": "67",
+          "n64database": "62",
+          "metacritic": "command-conquer"
         },
         "developers": [
           "Westwood Studios"
         ],
         "publishers": [
           "Virgin Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "enriched_from": [
           "wikidata@2026-06-03"
@@ -7749,7 +9390,11 @@
         "external_ids": {
           "wikidata": "Q3281193",
           "mobygames": "nba-live-2000",
-          "igdb": "nba-live-2000"
+          "howlongtobeat": "14783",
+          "giantbomb": "3030-3771",
+          "igdb": "nba-live-2000",
+          "nintendo64ever": "225",
+          "n64database": "222"
         },
         "genres": [
           "Sports"
@@ -7759,6 +9404,10 @@
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NBA Live",
         "release_date": "1999-11-02",
@@ -7783,8 +9432,12 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3275498",
-          "mobygames": "madden-nfl-2001___",
-          "igdb": "madden-nfl-2001"
+          "mobygames": "madden-nfl-2001",
+          "howlongtobeat": "5502",
+          "igdb": "madden-nfl-2001",
+          "nintendo64ever": "180",
+          "n64database": "176",
+          "metacritic": "madden-nfl-2001"
         },
         "genres": [
           "Sports"
@@ -7794,6 +9447,10 @@
         ],
         "publishers": [
           "EA Sports"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Madden NFL",
         "release_date": "2000-08-22",
@@ -7819,7 +9476,12 @@
         "external_ids": {
           "wikidata": "Q2948513",
           "mobygames": "chameleon-twist",
-          "igdb": "chameleon-twist"
+          "howlongtobeat": "1632",
+          "giantbomb": "3030-8523",
+          "igdb": "chameleon-twist",
+          "nintendo64ever": "56",
+          "n64database": "53",
+          "retroachievements": "10607"
         },
         "genres": [
           "Platformer"
@@ -7829,6 +9491,10 @@
         ],
         "publishers": [
           "Sun Corporation"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-12-09",
         "release_year": 1997,
@@ -7867,7 +9533,10 @@
         "external_ids": {
           "wikidata": "Q2539560",
           "mobygames": "f1-pole-position-64",
-          "igdb": "f1-pole-position-64"
+          "giantbomb": "3030-3764",
+          "igdb": "f1-pole-position-64",
+          "nintendo64ever": "104",
+          "n64database": "102"
         },
         "genres": [
           "Racing"
@@ -7877,6 +9546,9 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "1997-03-28",
         "release_year": 1997,
@@ -7914,7 +9586,11 @@
         "external_ids": {
           "wikidata": "Q2737649",
           "mobygames": "duke-nukem-64",
-          "igdb": "duke-nukem-64"
+          "howlongtobeat": "2922",
+          "igdb": "duke-nukem-64",
+          "nintendo64ever": "94",
+          "n64database": "89",
+          "metacritic": "duke-nukem-64"
         },
         "genres": [
           "Shooter"
@@ -7947,8 +9623,11 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3434110",
-          "mobygames": "roadsters_",
-          "igdb": "roadsters"
+          "mobygames": "roadsters",
+          "giantbomb": "3030-25254",
+          "igdb": "roadsters",
+          "nintendo64ever": "296",
+          "n64database": "288"
         },
         "genres": [
           "Racing"
@@ -7958,6 +9637,10 @@
         ],
         "publishers": [
           "Titus Interactive"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-11-30",
         "release_year": 1999,
@@ -7981,14 +9664,22 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3421557",
-          "mobygames": "ready-2-rumble-boxing-round-2_",
-          "igdb": "ready-2-rumble-boxing-round-2"
+          "mobygames": "ready-2-rumble-boxing-round-2",
+          "giantbomb": "3030-11649",
+          "igdb": "ready-2-rumble-boxing-round-2",
+          "nintendo64ever": "291",
+          "n64database": "284",
+          "metacritic": "ready-2-rumble-boxing-round-2"
         },
         "developers": [
           "Midway Games"
         ],
         "publishers": [
           "Midway Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Ready 2 Rumble",
         "release_date": "2000-10-23",
@@ -8015,7 +9706,13 @@
         "external_ids": {
           "wikidata": "Q2292393",
           "mobygames": "rayman-2-the-great-escape",
-          "igdb": "rayman-2-revolution"
+          "howlongtobeat": "7610",
+          "giantbomb": "3030-609",
+          "igdb": "rayman-2-the-great-escape",
+          "nintendo64ever": "288",
+          "n64database": "280",
+          "retroachievements": "10269",
+          "metacritic": "rayman-3d"
         },
         "genres": [
           "Platformer"
@@ -8025,6 +9722,9 @@
         ],
         "publishers": [
           "Ubisoft"
+        ],
+        "tags": [
+          "single-player"
         ],
         "series": "Rayman",
         "release_date": "1999-10-29",
@@ -8050,7 +9750,10 @@
         "external_ids": {
           "wikidata": "Q3532029",
           "mobygames": "top-gear-overdrive",
-          "igdb": "top-gear-overdrive"
+          "giantbomb": "3030-15563",
+          "igdb": "top-gear-overdrive",
+          "nintendo64ever": "354",
+          "n64database": "342"
         },
         "genres": [
           "Racing"
@@ -8060,6 +9763,10 @@
         ],
         "publishers": [
           "Kemco"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "Top Gear",
         "release_date": "1998-11-23",
@@ -8084,14 +9791,22 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q288296",
-          "mobygames": "spider-man-",
-          "igdb": "spider-man--5"
+          "mobygames": "spider-man__",
+          "giantbomb": "3030-21586",
+          "igdb": "spider-man--5",
+          "nintendo64ever": "322",
+          "n64database": "312",
+          "retroachievements": "11319",
+          "metacritic": "spider-man"
         },
         "developers": [
           "Neversoft"
         ],
         "publishers": [
           "Activision"
+        ],
+        "tags": [
+          "single-player"
         ],
         "release_date": "2000-08-30",
         "release_year": 2000,
@@ -8129,7 +9844,11 @@
         "external_ids": {
           "wikidata": "Q518629",
           "mobygames": "rally-challenge-2000",
-          "igdb": "rally-challenge-2000"
+          "giantbomb": "3030-36714",
+          "igdb": "rally-challenge-2000",
+          "nintendo64ever": "284",
+          "n64database": "276",
+          "metacritic": "rally-challenge-2000"
         },
         "genres": [
           "Racing"
@@ -8139,6 +9858,10 @@
         ],
         "publishers": [
           "SouthPeak Games"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-08-06",
         "release_year": 1999,
@@ -8162,14 +9885,22 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q2028799",
-          "mobygames": "f1-world-grand-prix",
-          "igdb": "f-1-world-grand-prix"
+          "mobygames": "f-1-world-grand-prix",
+          "giantbomb": "3030-38960",
+          "igdb": "f-1-world-grand-prix",
+          "nintendo64ever": "106",
+          "n64database": "99",
+          "retroachievements": "10462"
         },
         "developers": [
           "Paradigm Entertainment"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "F-1 Grand Prix",
         "release_date": "1998-07-31",
@@ -8195,7 +9926,10 @@
         "external_ids": {
           "wikidata": "Q6953744",
           "mobygames": "nfl-quarterback-club-99",
-          "igdb": "nfl-quarterback-club-99"
+          "giantbomb": "3030-18346",
+          "igdb": "nfl-quarterback-club-99",
+          "nintendo64ever": "240",
+          "n64database": "233"
         },
         "genres": [
           "Sports"
@@ -8229,7 +9963,10 @@
         "external_ids": {
           "wikidata": "Q6952680",
           "mobygames": "nba-jam-2000",
-          "igdb": "nba-jam-2000"
+          "giantbomb": "3030-22242",
+          "igdb": "nba-jam-2000",
+          "nintendo64ever": "223",
+          "n64database": "220"
         },
         "genres": [
           "Sports"
@@ -8239,6 +9976,10 @@
         ],
         "publishers": [
           "Q339228"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "series": "NBA Jam",
         "release_date": "1999-10-31",
@@ -8263,8 +10004,13 @@
       "metadata": {
         "external_ids": {
           "wikidata": "Q3048043",
-          "mobygames": "mickeys-speedway-usa-",
-          "igdb": "mickey-s-speedway-usa"
+          "mobygames": "mickeys-speedway-usa",
+          "giantbomb": "3030-6368",
+          "igdb": "mickey-s-speedway-usa",
+          "nintendo64ever": "199",
+          "n64database": "193",
+          "retroachievements": "10256",
+          "metacritic": "mickeys-speedway-usa"
         },
         "genres": [
           "Racing"
@@ -8274,6 +10020,10 @@
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-11-13",
         "release_year": 2000,
@@ -8298,13 +10048,20 @@
         "external_ids": {
           "wikidata": "Q3110091",
           "mobygames": "golden-nugget-64",
-          "igdb": "golden-nugget-64"
+          "giantbomb": "3030-2215",
+          "igdb": "golden-nugget-64",
+          "nintendo64ever": "127",
+          "n64database": "123"
         },
         "developers": [
           "Westwood Studios"
         ],
         "publishers": [
           "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1998-12-01",
         "release_year": 1998,
@@ -8329,7 +10086,12 @@
         "external_ids": {
           "wikidata": "Q3024754",
           "mobygames": "destruction-derby-64",
-          "igdb": "destruction-derby-64"
+          "howlongtobeat": "23567",
+          "giantbomb": "3030-16810",
+          "igdb": "destruction-derby-64",
+          "nintendo64ever": "81",
+          "n64database": "75",
+          "retroachievements": "10158"
         },
         "genres": [
           "Racing"
@@ -8363,13 +10125,21 @@
         "external_ids": {
           "wikidata": "Q2007458",
           "mobygames": "gauntlet-legends",
-          "igdb": "gauntlet-legends"
+          "giantbomb": "3030-12245",
+          "igdb": "gauntlet-legends",
+          "nintendo64ever": "122",
+          "n64database": "116",
+          "retroachievements": "10268",
+          "metacritic": "gauntlet-legends"
         },
         "developers": [
           "Atari Games"
         ],
         "publishers": [
           "Atari Games"
+        ],
+        "tags": [
+          "co-op"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
@@ -8394,7 +10164,12 @@
         "external_ids": {
           "wikidata": "Q1423930",
           "mobygames": "hexen-beyond-heretic",
-          "igdb": "hexen-beyond-heretic--1"
+          "howlongtobeat": "4442",
+          "giantbomb": "3030-22548",
+          "igdb": "hexen-beyond-heretic",
+          "nintendo64ever": "136",
+          "n64database": "130",
+          "retroachievements": "10093"
         },
         "genres": [
           "Shooter"
@@ -8404,6 +10179,11 @@
         ],
         "publishers": [
           "id Software"
+        ],
+        "tags": [
+          "co-op",
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1997-04-30",
         "release_year": 1997,
@@ -8454,13 +10234,21 @@
         "external_ids": {
           "wikidata": "Q3394052",
           "mobygames": "polaris-snocross",
-          "igdb": "polaris-snocross"
+          "giantbomb": "3030-26585",
+          "igdb": "polaris-snocross",
+          "nintendo64ever": "270",
+          "n64database": "262",
+          "metacritic": "polaris-snocross"
         },
         "genres": [
           "Racing"
         ],
         "developers": [
           "Blizzard Albany"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "2000-12-27",
         "release_year": 2000,
@@ -8485,13 +10273,20 @@
         "external_ids": {
           "wikidata": "Q3522012",
           "mobygames": "new-tetris",
-          "igdb": "the-new-tetris"
+          "giantbomb": "3030-1737",
+          "igdb": "the-new-tetris",
+          "nintendo64ever": "345",
+          "n64database": "227"
         },
         "genres": [
           "Puzzle"
         ],
         "publishers": [
           "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
         ],
         "release_date": "1999-07-31",
         "release_year": 1999,

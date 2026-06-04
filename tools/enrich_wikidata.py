@@ -113,14 +113,42 @@ SELECT ?prop ?value ?valueLabel WHERE {{
     wdt:P123     # publisher
     wdt:P577     # publication date
     wdt:P179     # part of series
+    wdt:P404     # game mode (single/multi/co-op)
+    wdt:P479     # input device (controller / expansion pak / rumble pak)
     wdt:P5794    # IGDB ID
     wdt:P1933    # MobyGames ID
-    wdt:P5359    # Metacritic ID
+    wdt:P11688   # MobyGames ID (new scheme)
+    wdt:P5247    # Giant Bomb ID
+    wdt:P12054   # Metacritic ID
+    wdt:P11393   # RetroAchievements ID
+    wdt:P10169   # N64-Database ID
+    wdt:P10137   # Nintendo64EVER ID
+    wdt:P2816    # HowLongToBeat ID
   }}
   wd:{qid} ?prop ?value .
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }}
 """
+
+# Game-mode Q-IDs → tag string, verified against actual P404 values returned
+# by Wikidata for N64 carts. Tags accumulate on the entry per FILTERS.md;
+# anything not in this map is dropped.
+GAME_MODE_CANON = {
+    "Q208850":   "single-player",
+    "Q6895044":  "multiplayer",      # the actual Q-ID for "multiplayer video game"
+    "Q1758804":  "co-op",
+    "Q3947009":  "co-op",
+}
+
+# Input-device (P479) didn't carry useful Expansion Pak / Rumble Pak /
+# Controller Pak data for N64 carts in our 30-cart sample — values were
+# mostly the generic "gamepad" plus a few one-off noises. Need a different
+# source (Wikipedia article text, N64-Database scrape, or manual curation)
+# for hardware-pack requirements; leaving the input_device handler in place
+# (so light-gun games still tag) but not blocking on it.
+INPUT_TAG_QIDS = {
+    "Q1075070":  "light-gun",
+}
 
 
 # ---------- network helpers ----------
@@ -228,17 +256,26 @@ def fetch_details(qid, cache):
     out = {
         "genres": set(), "developers": set(), "publishers": set(),
         "series": None, "release_date": None,
+        "tags": set(), "expansion_pak": None,
         "external_ids": {},
     }
     PROP = {
-        "http://www.wikidata.org/prop/direct/P136":  "genres",
-        "http://www.wikidata.org/prop/direct/P178":  "developers",
-        "http://www.wikidata.org/prop/direct/P123":  "publishers",
-        "http://www.wikidata.org/prop/direct/P577":  "release_date",
-        "http://www.wikidata.org/prop/direct/P179":  "series",
-        "http://www.wikidata.org/prop/direct/P5794": "igdb",
-        "http://www.wikidata.org/prop/direct/P1933": "mobygames",
-        "http://www.wikidata.org/prop/direct/P5359": "metacritic",
+        "http://www.wikidata.org/prop/direct/P136":   "genres",
+        "http://www.wikidata.org/prop/direct/P178":   "developers",
+        "http://www.wikidata.org/prop/direct/P123":   "publishers",
+        "http://www.wikidata.org/prop/direct/P577":   "release_date",
+        "http://www.wikidata.org/prop/direct/P179":   "series",
+        "http://www.wikidata.org/prop/direct/P404":   "game_mode",
+        "http://www.wikidata.org/prop/direct/P479":   "input_device",
+        "http://www.wikidata.org/prop/direct/P5794":  "igdb",
+        "http://www.wikidata.org/prop/direct/P1933":  "mobygames",
+        "http://www.wikidata.org/prop/direct/P11688": "mobygames",
+        "http://www.wikidata.org/prop/direct/P5247":  "giantbomb",
+        "http://www.wikidata.org/prop/direct/P12054": "metacritic",
+        "http://www.wikidata.org/prop/direct/P11393": "retroachievements",
+        "http://www.wikidata.org/prop/direct/P10169": "n64database",
+        "http://www.wikidata.org/prop/direct/P10137": "nintendo64ever",
+        "http://www.wikidata.org/prop/direct/P2816":  "howlongtobeat",
     }
     for row in body.get("results", {}).get("bindings", []):
         p = row.get("prop", {}).get("value", "")
@@ -271,8 +308,21 @@ def fetch_details(qid, cache):
             if d and "1996-01-01" <= d <= "2003-12-31":
                 if not out.get("release_date") or d < out["release_date"]:
                     out["release_date"] = d
-        elif slot in ("igdb", "mobygames", "metacritic"):
-            out["external_ids"][slot] = v
+        elif slot == "game_mode":
+            q = v.rsplit("/", 1)[-1] if v.startswith("http://www.wikidata.org/entity/Q") else None
+            if q and q in GAME_MODE_CANON:
+                out["tags"].add(GAME_MODE_CANON[q])
+        elif slot == "input_device":
+            q = v.rsplit("/", 1)[-1] if v.startswith("http://www.wikidata.org/entity/Q") else None
+            if q in INPUT_TAG_QIDS:
+                out["tags"].add(INPUT_TAG_QIDS[q])
+        elif slot in ("igdb", "mobygames", "giantbomb", "metacritic",
+                      "retroachievements", "n64database", "nintendo64ever",
+                      "howlongtobeat"):
+            # External IDs: first non-empty wins so old + new MobyGames
+            # scheme don't fight; explicit slot map means new sources just
+            # plug in.
+            out["external_ids"].setdefault(slot, v)
     # Resolve a series Q-ID we collected but couldn't label inline.
     if out.get("_series_qid") and not out.get("series"):
         try:
@@ -285,10 +335,11 @@ def fetch_details(qid, cache):
             pass
     out.pop("_series_qid", None)
     # finalise
-    out["genres"] = sorted(out["genres"]) or None
+    out["genres"]     = sorted(out["genres"])     or None
     out["developers"] = sorted(out["developers"]) or None
     out["publishers"] = sorted(out["publishers"]) or None
-    out["external_ids"] = out["external_ids"] or None
+    out["tags"]       = sorted(out["tags"])       or None
+    out["external_ids"] = out["external_ids"]     or None
     cache.setdefault(qid, {})["details"] = out
     return out
 
@@ -304,11 +355,13 @@ def merge_metadata(entry, details, qid):
         ext.setdefault(k, v)
     md["external_ids"] = ext
 
-    for field in ("genres", "developers", "publishers"):
+    for field in ("genres", "developers", "publishers", "tags"):
         if not md.get(field) and details.get(field):
             md[field] = details[field]
     if not md.get("series") and details.get("series"):
         md["series"] = details["series"]
+    if not md.get("expansion_pak") and details.get("expansion_pak"):
+        md["expansion_pak"] = details["expansion_pak"]
     if details.get("release_date"):
         md.setdefault("release_date", details["release_date"])
         if "release_year" not in md:
