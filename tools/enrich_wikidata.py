@@ -163,33 +163,57 @@ _RX_BRACKET = re.compile(r"\[[^\]]*\]")
 
 
 def title_for_lookup(title):
-    """Strip cart-DB cruft: '007 - GoldenEye (USA)' → '007 - goldeneye'.
-    Lowercased + parens-stripped so SPARQL's CONTAINS(LCASE()) just works."""
+    """Strip cart-DB cruft and lowercase. ROM-database article suffix
+    swap ('Bug's Life, A' → 'A Bug's Life') runs BEFORE the comma is gone."""
     s = _RX_PAREN.sub("", title or "")
     s = _RX_BRACKET.sub("", s)
     s = re.sub(r"\s+", " ", s).strip().lower()
+    m = re.match(r"^(.+?),\s+(a|an|the)$", s)
+    if m:
+        s = f"{m.group(2)} {m.group(1)}"
     return s
 
 
+def lookup_variants(title):
+    """Generate progressively-relaxed needles for SPARQL CONTAINS matching.
+    No-Intro cart-DB uses ' - ' between title and subtitle; Wikidata uses
+    ': '. We also try a plain-space variant for cases where Wikidata drops
+    the separator entirely ('Star Wars Rogue Squadron')."""
+    base = title_for_lookup(title)
+    seen, out = set(), []
+    for variant in (base,
+                    base.replace(" - ", ": "),
+                    base.replace(" - ", " "),
+                    re.sub(r"\s*\bv\d+\b.*$", "", base).strip(),    # drop '(v2)' tails
+                    re.sub(r"\s*\bbeta\b.*$", "", base).strip()):    # drop '(Beta)' tails
+        v = variant.strip()
+        if v and v not in seen:
+            seen.add(v)
+            out.append(v)
+    return out
+
+
 def resolve_qid(title, cache):
-    needle = title_for_lookup(title)
-    if needle in cache and "qid" in cache[needle]:
-        return cache[needle].get("qid")
-    if not needle:
+    if not title:
         return None
-    try:
-        body = sparql(RESOLVE_QUERY.format(needle=needle.replace('"', '\\"')))
-    except Exception as e:
-        sys.stderr.write(f"[err]  resolve '{needle}': {e}\n")
-        return None
-    rows = body.get("results", {}).get("bindings", [])
+    base = title_for_lookup(title)
+    if base in cache and "qid" in cache[base]:
+        return cache[base].get("qid")
     qid = None
-    for row in rows:
-        q = row.get("game", {}).get("value", "")
-        if q.startswith("http://www.wikidata.org/entity/Q"):
-            qid = q.rsplit("/", 1)[-1]
+    for needle in lookup_variants(title):
+        try:
+            body = sparql(RESOLVE_QUERY.format(needle=needle.replace('"', '\\"')))
+        except Exception as e:
+            sys.stderr.write(f"[err]  resolve '{needle}': {e}\n")
+            continue
+        for row in body.get("results", {}).get("bindings", []):
+            q = row.get("game", {}).get("value", "")
+            if q.startswith("http://www.wikidata.org/entity/Q"):
+                qid = q.rsplit("/", 1)[-1]
+                break
+        if qid:
             break
-    cache.setdefault(needle, {})["qid"] = qid
+    cache.setdefault(base, {})["qid"] = qid
     return qid
 
 
@@ -230,13 +254,13 @@ def fetch_details(qid, cache):
         elif slot in ("developers", "publishers"):
             if vl: out[slot].add(vl)
         elif slot == "series":
-            # The SERVICE wikibase:label clause sometimes drops the label
-            # for series — fall back to a follow-up resolve if we got a
-            # raw Q-ID. Keeps the data clean for filter UIs.
-            if vl and not re.match(r"^Q\d+$", vl):
-                out["series"] = vl
-            elif v.startswith("http://www.wikidata.org/entity/Q") and not out.get("series"):
+            # `SERVICE wikibase:label` is inconsistent — sometimes returns the
+            # raw Q-ID tail when no English label is cached. Always capture
+            # the Q-ID and do a deterministic rdfs:label resolve below.
+            if v.startswith("http://www.wikidata.org/entity/Q"):
                 out["_series_qid"] = v.rsplit("/", 1)[-1]
+            elif vl and not re.match(r"^Q\d+$", vl):
+                out["series"] = vl
         elif slot == "release_date":
             # Wikidata returns multiple dates per game (per-platform / per-region
             # rereleases, AND sometimes a franchise-original arcade date going

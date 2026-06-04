@@ -1,7 +1,7 @@
 {
   "collection_id": "community-best",
   "version": "0.1.0",
-  "updated": "2026-06-02",
+  "updated": "2026-06-03",
   "games": {
     "0149b304": {
       "title": "Nagano Winter Olympics '98 (USA)",
@@ -34,7 +34,7 @@
         "release_date": "1997-12-18",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -69,7 +69,7 @@
         "release_date": "1998-12-18",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -115,7 +115,7 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -150,7 +150,7 @@
         "release_date": "1999-01-21",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -196,7 +196,7 @@
         ],
         "series": "NFL Quarterback Club",
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -230,7 +230,7 @@
           "Taito"
         ],
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -265,7 +265,7 @@
         "release_date": "1997-10-24",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -300,7 +300,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -315,6 +315,27 @@
         "sheet_row": 35,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2891772",
+          "mobygames": "battletanx-global-assault",
+          "igdb": "battletanx-global-assault"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "The 3DO Company"
+        ],
+        "publishers": [
+          "The 3DO Company"
+        ],
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "09c9ebf2": {
@@ -348,7 +369,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -383,7 +404,7 @@
         "release_date": "1998-10-20",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -418,7 +439,7 @@
         "release_date": "1996-09-01",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -452,7 +473,7 @@
         "release_date": "1998-12-26",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -481,6 +502,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed runs game too fast (possibly 2X speed)"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2891582",
+          "mobygames": "batman-beyond-return-of-the-joker",
+          "igdb": "batman-beyond-return-of-the-joker"
+        },
+        "developers": [
+          "Kemco"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "2000-11-20",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "12e55d5e": {
@@ -511,7 +550,7 @@
         "release_date": "1999-07-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -546,7 +585,7 @@
         "release_date": "1998-09-28",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -563,6 +602,29 @@
         "observed_region": "USA",
         "rationale": "Much smoother framerate; obtained all gold medals without any clock issues or enemies/friendlies going too fast",
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q54840",
+          "mobygames": "star-wars-episode-i-battle-for-naboo",
+          "igdb": "star-wars-episode-i-battle-for-naboo"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Factor 5",
+          "Lucasfilm Games"
+        ],
+        "publishers": [
+          "Lucasfilm Games",
+          "THQ"
+        ],
+        "release_date": "2000-12-18",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "17e4aeb2": {
@@ -596,7 +658,7 @@
         "release_date": "1997-06-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -631,7 +693,7 @@
         "release_date": "1998-12-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -665,7 +727,7 @@
         "release_date": "1997-12-05",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -700,7 +762,7 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -735,7 +797,7 @@
         "release_date": "1997-12-03",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -769,7 +831,7 @@
         "release_date": "1999-05-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -803,7 +865,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -840,7 +902,7 @@
         "release_date": "2001-03-05",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -875,7 +937,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -911,7 +973,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -942,7 +1004,7 @@
         "release_date": "1998-12-17",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -990,7 +1052,7 @@
         "release_date": "1998-06-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1025,7 +1087,7 @@
         "release_date": "1998-01-21",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1060,7 +1122,7 @@
         "release_date": "2000-10-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1095,7 +1157,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1131,7 +1193,7 @@
         "release_date": "1998-08-21",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1147,6 +1209,24 @@
         "observed_firmware": "1.2.0",
         "observed_region": "USA",
         "rationale": "Better framerate, even on hi-res mode."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1118490",
+          "mobygames": "aidyn-chronicles-the-first-mage",
+          "igdb": "aidyn-chronicles-the-first-mage"
+        },
+        "genres": [
+          "RPG"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "2001-03-14",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "2fa7d906": {
@@ -1174,7 +1254,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1202,7 +1282,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1236,7 +1316,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1271,7 +1351,7 @@
         "release_date": "1997-11-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1306,7 +1386,7 @@
         "release_date": "1997-12-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1338,7 +1418,7 @@
         "release_date": "1998-12-12",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1369,7 +1449,7 @@
         "release_date": "1998-11-27",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1384,6 +1464,24 @@
         "sheet_row": 290,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3235097",
+          "mobygames": "rugrats-scavenger-hunt",
+          "igdb": "rugrats-scavenger-hunt"
+        },
+        "developers": [
+          "Realtime Associates"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1999-06-29",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "34a31993": {
@@ -1411,6 +1509,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed causes game to run extremely fast"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3197991",
+          "mobygames": "knife-edge-nose-gunner",
+          "igdb": "knife-edge-nose-gunner"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Kemco"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "release_date": "1998-11-27",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "3695a427": {
@@ -1444,7 +1563,7 @@
         "release_date": "1998-03-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1476,7 +1595,7 @@
         "release_date": "1996-12-14",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1505,13 +1624,13 @@
           "id Software"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "series": "Quake",
         "release_date": "1997-12-09",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1526,6 +1645,27 @@
         "sheet_row": 206,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3327645",
+          "mobygames": "mrc-multi-racing-championship",
+          "igdb": "mrc-multi-racing-championship"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Genki"
+        ],
+        "publishers": [
+          "Imagineer"
+        ],
+        "release_date": "1997-07-18",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "3884976c": {
@@ -1581,7 +1721,7 @@
         "release_date": "1999-09-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1616,7 +1756,7 @@
         "release_date": "2001-04-08",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1650,7 +1790,7 @@
         "release_date": "1999-02-19",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1681,7 +1821,7 @@
         "release_date": "1998-01-05",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1719,7 +1859,7 @@
         "release_date": "1997-11-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1734,6 +1874,29 @@
         "sheet_row": 291,
         "observed_firmware": "1.1.9",
         "observed_region": "Europe"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1634362",
+          "mobygames": "rush-2-extreme-racing-usa",
+          "igdb": "rush-2-extreme-racing-usa"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Atari Games"
+        ],
+        "publishers": [
+          "Atari, Inc.",
+          "Midway Games"
+        ],
+        "series": "Rush",
+        "release_date": "1998-11-10",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "437b3ee6": {
@@ -1749,6 +1912,30 @@
         "observed_region": "USA",
         "rationale": "Much smoother framerate, no issues noticed from playing through every mission in the campaign.",
         "caveats": "Strongly recommend \"Force Progressive\" to get rid of interlace artifacts."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q54297",
+          "mobygames": "star-wars-rogue-squadron-3d",
+          "igdb": "star-wars-rogue-squadron"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Factor 5",
+          "Lucasfilm Games"
+        ],
+        "publishers": [
+          "Lucasfilm Games",
+          "Nintendo"
+        ],
+        "series": "Star Wars: Rogue Squadron",
+        "release_date": "1998-12-03",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "44fc8855": {
@@ -1762,6 +1949,31 @@
         "sheet_row": 296,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1632918",
+          "mobygames": "san-francisco-rush-extreme-racing",
+          "igdb": "san-francisco-rush-extreme-racing"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Atari Games",
+          "Climax Studios",
+          "Midway Games"
+        ],
+        "publishers": [
+          "Atari Games",
+          "Midway Games"
+        ],
+        "series": "Rush",
+        "release_date": "1997-11-08",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "474fe11b": {
@@ -1797,7 +2009,7 @@
         "release_date": "1999-11-23",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1844,7 +2056,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1875,7 +2087,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1890,6 +2102,28 @@
         "sheet_row": 354,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2431467",
+          "mobygames": "turok-dinosaur-hunter",
+          "igdb": "turok-dinosaur-hunter"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Turok",
+        "release_date": "1997-02-28",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "4a45416e": {
@@ -1904,6 +2138,27 @@
         "observed_firmware": "1.2.0",
         "observed_region": "USA",
         "rationale": "Significant framerate improvement. Playing on Hi-Res mode doesn't cause a slideshow anymore"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2602179",
+          "mobygames": "duke-nukem-zero-hour",
+          "igdb": "duke-nukem-zero-hour"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Eurocom"
+        ],
+        "publishers": [
+          "Atari, Inc."
+        ],
+        "release_date": "1999-08-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "4d845967": {
@@ -1937,7 +2192,7 @@
         "release_date": "1999-02-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -1974,7 +2229,7 @@
         "release_date": "2000-11-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2008,7 +2263,7 @@
         "release_date": "2000-12-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2033,7 +2288,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2048,6 +2303,28 @@
         "sheet_row": 360,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2483445",
+          "mobygames": "vigilante-8-2nd-offense",
+          "igdb": "vigilante-8-2nd-offense"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Luxoflux"
+        ],
+        "publishers": [
+          "Activision"
+        ],
+        "series": "Vigilante 8",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "54baf797": {
@@ -2061,6 +2338,28 @@
         "sheet_row": 352,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3098037",
+          "mobygames": "turok-2-seeds-of-evil__",
+          "igdb": "turok-2-seeds-of-evil"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Turok",
+        "release_date": "1998-10-21",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "558333cf": {
@@ -2090,7 +2389,7 @@
         "release_date": "1997-08-11",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2125,7 +2424,7 @@
         "release_date": "1999-09-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2141,6 +2440,26 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Framerate improves"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2553121",
+          "mobygames": "castlevania-legacy-of-darkness",
+          "igdb": "castlevania-legacy-of-darkness"
+        },
+        "genres": [
+          "Action-Adventure",
+          "Platformer"
+        ],
+        "publishers": [
+          "Konami"
+        ],
+        "series": "Castlevania",
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "572a9139": {
@@ -2173,7 +2492,7 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2202,7 +2521,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2237,7 +2556,7 @@
         "release_date": "1998-07-17",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2272,7 +2591,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2305,7 +2624,7 @@
         ],
         "series": "NBA in the Zone",
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2339,7 +2658,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2375,7 +2694,7 @@
         "release_date": "2000-11-17",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2410,7 +2729,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2470,7 +2789,7 @@
         "release_date": "2000-10-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2505,7 +2824,7 @@
         "release_date": "2000-09-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2540,7 +2859,7 @@
         "release_date": "2001-09-12",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2570,14 +2889,14 @@
           "Q389261"
         ],
         "publishers": [
-          "Disney Interactive Studios",
-          "Q200491"
+          "Activision",
+          "Disney Interactive Studios"
         ],
         "series": "Tarzan",
         "release_date": "1999-06-16",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2612,7 +2931,7 @@
         "release_date": "1999-06-11",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2648,7 +2967,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2682,7 +3001,7 @@
         "release_date": "1996-11-11",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2716,7 +3035,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2748,7 +3067,7 @@
           "Atari Games"
         ],
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2794,7 +3113,7 @@
         "release_date": "2000-07-21",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2829,7 +3148,7 @@
         "release_date": "1999-12-17",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2863,7 +3182,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2879,6 +3198,24 @@
         "observed_firmware": "1.1.9",
         "observed_region": "USA",
         "caveats": "Unleashed duplicates the vertical screen from time to time, making it unplayable"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q591956",
+          "mobygames": "battlezone-rise-of-the-black-dogs",
+          "igdb": "battlezone-rise-of-the-black-dogs"
+        },
+        "developers": [
+          "Climax Studios"
+        ],
+        "publishers": [
+          "Crave Entertainment"
+        ],
+        "release_date": "2000-03-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "6e251c9d": {
@@ -2921,7 +3258,7 @@
         "release_date": "1998-12-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2956,7 +3293,7 @@
         "release_date": "2000-01-31",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -2991,7 +3328,7 @@
         "release_date": "1998-04-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3006,6 +3343,27 @@
         "sheet_row": 350,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q920886",
+          "mobygames": "transformers-beast-wars-transmetals",
+          "igdb": "transformers-beast-wars-transmetals"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Takara"
+        ],
+        "publishers": [
+          "Takara"
+        ],
+        "release_date": "1999-12-09",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "71b58e1b": {
@@ -3050,7 +3408,7 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3085,7 +3443,7 @@
         "release_date": "1998-12-12",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3120,7 +3478,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3160,7 +3518,7 @@
         "release_date": "1999-11-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3215,6 +3573,27 @@
         "sheet_row": 289,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3235100",
+          "mobygames": "rugrats-in-paris-the-movie__",
+          "igdb": "rugrats-in-paris-the-movie"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Avalanche Software"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "2000-10-29",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "796528c0": {
@@ -3228,6 +3607,27 @@
         "sheet_row": 274,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3418570",
+          "mobygames": "rampage-2-universal-tour",
+          "igdb": "rampage-2-universal-tour"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Avalanche Software"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1999-03-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "7a9cfa1e": {
@@ -3261,7 +3661,7 @@
         "release_date": "1998-07-14",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3285,7 +3685,7 @@
         },
         "series": "All-Star Baseball",
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3319,7 +3719,7 @@
         "release_date": "1999-09-24",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3355,7 +3755,7 @@
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3390,7 +3790,7 @@
         "release_date": "1997-10-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3419,7 +3819,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3468,7 +3868,7 @@
         "release_date": "1999-03-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3503,7 +3903,7 @@
         "release_date": "1998-12-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3538,7 +3938,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3568,7 +3968,7 @@
         "release_date": "1998-06-16",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3584,6 +3984,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Yes, significantly better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3093445",
+          "mobygames": "gt-64-championship-edition",
+          "igdb": "gt-64-championship-edition"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Walt Disney Imagineering"
+        ],
+        "publishers": [
+          "Imagineer"
+        ],
+        "release_date": "1998-08-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "86766168": {
@@ -3597,6 +4018,27 @@
         "sheet_row": 275,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3418569",
+          "mobygames": "rampage-world-tour",
+          "igdb": "rampage-world-tour"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Game Refuge Inc."
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1997-09-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "871bbc72": {
@@ -3610,6 +4052,27 @@
         "sheet_row": 172,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3274185",
+          "mobygames": "mace-the-dark-age",
+          "igdb": "mace-the-dark-age"
+        },
+        "genres": [
+          "Fighting"
+        ],
+        "developers": [
+          "Atari Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1997-10-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "87607bb7": {
@@ -3636,6 +4099,27 @@
         "sheet_row": 111,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q913223",
+          "mobygames": "fifa-road-to-world-cup-98_",
+          "igdb": "fifa-road-to-world-cup-98"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "EA Vancouver"
+        ],
+        "publishers": [
+          "EA Sports"
+        ],
+        "release_date": "1997-01-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "89239b0e": {
@@ -3671,7 +4155,7 @@
         "release_date": "1999-11-22",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3708,7 +4192,7 @@
         "release_date": "2001-12-20",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3744,7 +4228,7 @@
         "release_date": "1998-04-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3780,7 +4264,7 @@
         "release_date": "1999-10-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3811,7 +4295,7 @@
         "release_date": "2000-12-11",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3826,6 +4310,24 @@
         "sheet_row": 131,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3133955",
+          "mobygames": "hercules-the-legendary-journeys",
+          "igdb": "hercules-the-legendary-journeys"
+        },
+        "genres": [
+          "Action-Adventure"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "2000-10-13",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "8cad7830": {
@@ -3858,7 +4360,7 @@
         "release_date": "1999-10-11",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3873,6 +4375,24 @@
         "sheet_row": 299,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1822207",
+          "mobygames": "shadowgate-64-trials-of-the-four-towers",
+          "igdb": "shadowgate-64-trials-of-the-four-towers"
+        },
+        "developers": [
+          "ICOM Simulations"
+        ],
+        "publishers": [
+          "Kemco"
+        ],
+        "release_date": "1999-05-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "8ea56d16": {
@@ -3886,6 +4406,27 @@
         "sheet_row": 317,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q55263",
+          "mobygames": "star-wars-shadows-of-the-empire",
+          "igdb": "star-wars-shadows-of-the-empire"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "Lucasfilm Games"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1996-12-03",
+        "release_year": 1996,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "9009a21a": {
@@ -3919,7 +4460,7 @@
         "release_date": "1998-06-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -3934,6 +4475,27 @@
         "sheet_row": 207,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3282014",
+          "mobygames": "ms-pac-man-maze-madness",
+          "igdb": "ms-pac-man-maze-madness"
+        },
+        "genres": [
+          "Puzzle"
+        ],
+        "developers": [
+          "Namco"
+        ],
+        "publishers": [
+          "Zushi Games"
+        ],
+        "release_date": "2000-09-08",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "91d646c4": {
@@ -3967,7 +4529,7 @@
         "release_date": "1999-08-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4002,7 +4564,7 @@
         "release_date": "1998-11-03",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4037,7 +4599,7 @@
         "release_date": "1997-12-05",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4063,7 +4625,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4097,7 +4659,7 @@
         "release_date": "1997-06-27",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4132,7 +4694,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4166,7 +4728,7 @@
         "release_date": "1996-04-16",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4201,7 +4763,7 @@
         "release_date": "2000-12-07",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4216,6 +4778,24 @@
         "sheet_row": 387,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2616525",
+          "mobygames": "xena-warrior-princess-the-talisman-of-fate",
+          "igdb": "xena-warrior-princess-the-talisman-of-fate"
+        },
+        "developers": [
+          "Saffire"
+        ],
+        "publishers": [
+          "Titus Interactive"
+        ],
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "96be960f": {
@@ -4229,6 +4809,28 @@
         "sheet_row": 353,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3279577",
+          "mobygames": "turok-3-shadow-of-oblivion",
+          "igdb": "turok-3-shadow-of-oblivion"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Bit Managers"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Turok",
+        "release_date": "2000-07-27",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "97a533c0": {
@@ -4258,7 +4860,7 @@
         "release_date": "1998-11-24",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4293,7 +4895,7 @@
         "release_date": "1999-05-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4319,13 +4921,13 @@
           "Kalisto Entertainment"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "series": "Nightmare Creatures",
         "release_date": "1997-09-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4359,7 +4961,7 @@
         "release_date": "1999-02-28",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4394,7 +4996,7 @@
         "release_date": "1997-07-10",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4429,12 +5031,12 @@
           "Shaba Games"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "release_date": "2001-10-28",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4466,7 +5068,7 @@
         "release_date": "1999-02-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4501,7 +5103,7 @@
         "release_date": "1996-01-01",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4516,6 +5118,27 @@
         "sheet_row": 288,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3437940",
+          "mobygames": "rocket-robot-on-wheels",
+          "igdb": "rocket-robot-on-wheels"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Q916714"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "9fc50ddd": {
@@ -4540,12 +5163,12 @@
           "Neversoft"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "release_date": "2000-09-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4560,6 +5183,27 @@
         "sheet_row": 373,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3564656",
+          "mobygames": "wcw-vs-nwo-world-tour",
+          "igdb": "wcw-vs-nwo-world-tour"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Asmik Ace Entertainment"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "1997-11-30",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "a146e44d": {
@@ -4573,6 +5217,27 @@
         "sheet_row": 10,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1171293",
+          "mobygames": "disneypixar-a-bugs-life",
+          "igdb": "a-bugs-life"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Traveller's Tales"
+        ],
+        "publishers": [
+          "Disney Interactive Studios"
+        ],
+        "release_date": "1998-11-18",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "a1a099a3": {
@@ -4605,7 +5270,7 @@
         "release_date": "1996-04-04",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4640,7 +5305,7 @@
         "release_date": "1999-12-15",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4677,7 +5342,7 @@
         "release_date": "1997-03-31",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4739,7 +5404,7 @@
         "release_date": "1999-07-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4773,7 +5438,7 @@
         "release_date": "1998-04-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4808,7 +5473,7 @@
         "release_date": "1999-04-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4823,6 +5488,15 @@
         "sheet_row": 228,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q56757304",
+          "igdb": "nfl-blitz-special-edition"
+        },
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "ac5f19fa": {
@@ -4858,7 +5532,7 @@
         "release_date": "1999-09-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4894,7 +5568,7 @@
         "release_date": "1997-08-23",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4929,7 +5603,7 @@
         "release_date": "1998-12-04",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -4963,7 +5637,7 @@
         "release_date": "1997-05-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5000,7 +5674,7 @@
         "release_date": "1997-08-07",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5015,6 +5689,28 @@
         "sheet_row": 121,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q615211",
+          "mobygames": "gex-3-deep-cover-gecko",
+          "igdb": "gex-3-deep-cover-gecko"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Crystal Dynamics"
+        ],
+        "publishers": [
+          "Eidos Interactive"
+        ],
+        "series": "Gex",
+        "release_date": "1999-03-01",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "ae4b8b9f": {
@@ -5047,7 +5743,7 @@
         "release_date": "1998-12-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5082,7 +5778,7 @@
         "release_date": "1997-04-27",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5116,7 +5812,7 @@
         "release_date": "1998-11-27",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5144,6 +5840,26 @@
         "sheet_row": 243,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2295559",
+          "mobygames": "ogre-battle-64-person-of-lordly-caliber",
+          "igdb": "ogre-battle-64-person-of-lordly-caliber"
+        },
+        "developers": [
+          "Quest"
+        ],
+        "publishers": [
+          "Nintendo",
+          "Square Enix"
+        ],
+        "series": "Ogre Battle",
+        "release_date": "1999-07-14",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "b393776d": {
@@ -5179,7 +5895,7 @@
         "release_date": "1996-06-23",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5223,7 +5939,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5256,7 +5972,7 @@
         "release_date": "2000-09-29",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5292,7 +6008,7 @@
         "release_date": "1998-01-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5326,7 +6042,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5357,7 +6073,7 @@
         "release_date": "2000-11-16",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5392,7 +6108,7 @@
         "release_date": "1997-03-21",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5427,7 +6143,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5461,7 +6177,7 @@
         "release_date": "1998-08-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5496,7 +6212,7 @@
         "release_date": "1996-12-03",
         "release_year": 1996,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5531,7 +6247,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5546,6 +6262,28 @@
         "sheet_row": 134,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3141103",
+          "mobygames": "hot-wheels-turbo-racing",
+          "igdb": "hot-wheels-turbo-racing"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Stormfront Studios"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "series": "Hot Wheels",
+        "release_date": "1999-08-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "ba67d4e1": {
@@ -5578,7 +6316,7 @@
         "release_date": "2000-06-09",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5593,6 +6331,25 @@
         "sheet_row": 313,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2039398",
+          "mobygames": "star-soldier-vanishing-earth",
+          "igdb": "star-soldier-vanishing-earth"
+        },
+        "developers": [
+          "Hudson Soft"
+        ],
+        "publishers": [
+          "Hudson Soft"
+        ],
+        "series": "Star Soldier",
+        "release_date": "1998-07-10",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "bad023df": {
@@ -5625,7 +6382,7 @@
         "release_date": "1998-10-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5675,7 +6432,7 @@
         "release_date": "2000-05-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5690,6 +6447,28 @@
         "sheet_row": 308,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1130193",
+          "mobygames": "south-park-chefs-luv-shack",
+          "igdb": "south-park-chef-s-luv-shack"
+        },
+        "genres": [
+          "Party"
+        ],
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "South Park",
+        "release_date": "1999-10-12",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "be1523cd": {
@@ -5703,6 +6482,28 @@
         "sheet_row": 23,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2862833",
+          "mobygames": "army-men-sarges-heroes-2",
+          "igdb": "army-men-sarge-s-heroes-2"
+        },
+        "genres": [
+          "Action",
+          "Shooter"
+        ],
+        "developers": [
+          "The 3DO Company"
+        ],
+        "publishers": [
+          "The 3DO Company"
+        ],
+        "release_date": "2000-09-26",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "be433913": {
@@ -5731,7 +6532,7 @@
         "release_date": "1998-02-25",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5768,7 +6569,7 @@
         "release_date": "2000-08-11",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5783,6 +6584,28 @@
         "sheet_row": 263,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3284345",
+          "mobygames": "power-rangers-lightspeed-rescue",
+          "igdb": "power-rangers-lightspeed-rescue"
+        },
+        "genres": [
+          "Action",
+          "Platformer"
+        ],
+        "developers": [
+          "Mass Media Inc."
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "2000-06-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c05ac90f": {
@@ -5815,7 +6638,7 @@
         "release_date": "1997-12-19",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5830,6 +6653,27 @@
         "sheet_row": 365,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3565145",
+          "mobygames": "true-golf-classics-waialae-country-club_",
+          "igdb": "waialae-country-club-true-golf-classics"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Technology and Entertainment Software"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1998-07-29",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c240e949": {
@@ -5843,6 +6687,27 @@
         "sheet_row": 20,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2862795",
+          "mobygames": "armorines-project-swarm",
+          "igdb": "armorines-project-s-w-a-r-m"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Acclaim Studios London"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c2880286": {
@@ -5857,6 +6722,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "caveats": "Unleashed runs game too fast (possibly 2X speed)"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q598160",
+          "mobygames": "nba-showtime-nba-on-nbc_",
+          "igdb": "nba-showtime-nba-on-nbc"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c2a949f2": {
@@ -5870,6 +6756,27 @@
         "sheet_row": 165,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1366980",
+          "mobygames": "kirby-64-the-crystal-shards",
+          "igdb": "kirby-64-the-crystal-shards"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "HAL Laboratory"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "2000-03-24",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c3f6f568": {
@@ -5904,7 +6811,7 @@
         "release_date": "1998-06-29",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5920,6 +6827,27 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q55217",
+          "mobygames": "star-wars-episode-i-racer_",
+          "igdb": "star-wars-episode-i-racer"
+        },
+        "genres": [
+          "Racing"
+        ],
+        "developers": [
+          "Lucasfilm Games"
+        ],
+        "publishers": [
+          "Lucasfilm Games"
+        ],
+        "release_date": "1999-05-19",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "c538030c": {
@@ -5952,7 +6880,7 @@
         "release_date": "1997-11-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -5984,7 +6912,7 @@
           "Q339228"
         ],
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6013,12 +6941,12 @@
           "Neversoft"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6045,7 +6973,7 @@
         "release_date": "1999-03-26",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6081,7 +7009,7 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6110,10 +7038,10 @@
           "Luxoflux"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6128,6 +7056,28 @@
         "sheet_row": 22,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2862836",
+          "mobygames": "army-men-sarges-heroes",
+          "igdb": "army-men-sarge-s-heroes"
+        },
+        "genres": [
+          "Action"
+        ],
+        "developers": [
+          "The 3DO Company"
+        ],
+        "publishers": [
+          "The 3DO Company"
+        ],
+        "series": "Army Men",
+        "release_date": "1999-09-28",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "cbefde54": {
@@ -6156,7 +7106,7 @@
         "release_date": "1997-11-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6180,7 +7130,7 @@
         },
         "series": "All-Star Baseball",
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6215,7 +7165,7 @@
         "release_date": "2000-04-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6248,7 +7198,7 @@
         "release_date": "1999-06-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6263,6 +7213,27 @@
         "sheet_row": 319,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3497241",
+          "mobygames": "starshot-space-circus-fever",
+          "igdb": "starshot-space-circus-fever"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Infogrames"
+        ],
+        "publishers": [
+          "Infogrames"
+        ],
+        "release_date": "1998-12-04",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "d30ca662": {
@@ -6296,7 +7267,7 @@
         "release_date": "1997-12-12",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6327,7 +7298,7 @@
         "release_date": "2000-01-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6359,7 +7330,7 @@
         "release_date": "1999-09-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6390,7 +7361,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6421,7 +7392,7 @@
         "release_date": "1998-06-10",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6456,7 +7427,7 @@
         "release_date": "1998-09-30",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6491,7 +7462,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6506,6 +7477,28 @@
         "sheet_row": 355,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3282847",
+          "mobygames": "turok-rage-wars",
+          "igdb": "turok-rage-wars"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Acclaim Studios Austin"
+        ],
+        "publishers": [
+          "Q339228"
+        ],
+        "series": "Turok",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "da3391cc": {
@@ -6539,7 +7532,7 @@
         "release_date": "1998-09-11",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6554,6 +7547,27 @@
         "sheet_row": 297,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1860996",
+          "mobygames": "scooby-doo-classic-creep-capers_",
+          "igdb": "scooby-doo-classic-creep-capers"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Terraglyph Interactive Studios"
+        ],
+        "publishers": [
+          "THQ"
+        ],
+        "release_date": "2000-11-30",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "dce98b4c": {
@@ -6580,7 +7594,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6615,7 +7629,7 @@
         "release_date": "1998-11-20",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6630,6 +7644,29 @@
         "sheet_row": 204,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1300673",
+          "mobygames": "mortal-kombat-mythologies-sub-zero",
+          "igdb": "mortal-kombat-mythologies-sub-zero--1"
+        },
+        "genres": [
+          "Action-Adventure",
+          "Platformer"
+        ],
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Mortal Kombat",
+        "release_date": "1997-10-01",
+        "release_year": 1997,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "de05bebd": {
@@ -6643,6 +7680,28 @@
         "sheet_row": 198,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3316822",
+          "mobygames": "mission-impossible",
+          "igdb": "mission-impossible"
+        },
+        "genres": [
+          "Action-Adventure",
+          "Shooter"
+        ],
+        "developers": [
+          "Ocean Software"
+        ],
+        "publishers": [
+          "Ocean Software"
+        ],
+        "release_date": "1998-07-16",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "df587110": {
@@ -6670,7 +7729,7 @@
           "Virgin Interactive"
         ],
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6705,7 +7764,7 @@
         "release_date": "1999-11-02",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6740,7 +7799,7 @@
         "release_date": "2000-08-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6774,7 +7833,7 @@
         "release_date": "1997-12-09",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6822,7 +7881,7 @@
         "release_date": "1997-03-28",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6869,7 +7928,7 @@
         "release_date": "1997-01-01",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6903,7 +7962,7 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6918,6 +7977,25 @@
         "sheet_row": 281,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3421557",
+          "mobygames": "ready-2-rumble-boxing-round-2_",
+          "igdb": "ready-2-rumble-boxing-round-2"
+        },
+        "developers": [
+          "Midway Games"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "series": "Ready 2 Rumble",
+        "release_date": "2000-10-23",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "e487fef7": {
@@ -6932,6 +8010,28 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Markedly improves performance in \"Hi-Res\" mode"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2292393",
+          "mobygames": "rayman-2-the-great-escape",
+          "igdb": "rayman-2-revolution"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Ubisoft Montpellier"
+        ],
+        "publishers": [
+          "Ubisoft"
+        ],
+        "series": "Rayman",
+        "release_date": "1999-10-29",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "e5351549": {
@@ -6965,7 +8065,7 @@
         "release_date": "1998-11-23",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -6991,12 +8091,12 @@
           "Neversoft"
         ],
         "publishers": [
-          "Q200491"
+          "Activision"
         ],
         "release_date": "2000-08-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7043,7 +8143,7 @@
         "release_date": "1999-08-06",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7075,7 +8175,7 @@
         "release_date": "1998-07-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7108,7 +8208,7 @@
         ],
         "series": "NFL Quarterback Club",
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7144,7 +8244,7 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7178,7 +8278,7 @@
         "release_date": "2000-11-13",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7209,7 +8309,7 @@
         "release_date": "1998-12-01",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7241,7 +8341,7 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7274,7 +8374,7 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7308,7 +8408,7 @@
         "release_date": "1997-04-30",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7365,7 +8465,7 @@
         "release_date": "2000-12-27",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-02"
+          "wikidata@2026-06-03"
         ]
       }
     },
@@ -7380,6 +8480,24 @@
         "sheet_row": 336,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3522012",
+          "mobygames": "new-tetris",
+          "igdb": "the-new-tetris"
+        },
+        "genres": [
+          "Puzzle"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "release_date": "1999-07-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     }
   }
