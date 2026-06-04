@@ -1,0 +1,59 @@
+{
+  "_attribution": [
+    "https://en.wikipedia.org/wiki/Nintendo_64_accessories#Expansion_Pak (game-by-game prose)",
+    "https://web.archive.org/web/20010413171908/http://www.nintendo.com/n64/epgames.html (archived Nintendo of America 'Expansion Pak Games' list)",
+    "https://nintendo.fandom.com/wiki/Nintendo_64_Expansion_Pak"
+  ],
+  "_notes": [
+    "Canonical title form is the cart-DB 'name' minus the regional suffix.",
+    "'required' = game won't boot / play without the Expansion Pak installed.",
+    "'supported' = game uses the extra memory for higher-res mode, more characters, FMV, etc., but plays without it (lower-quality)."
+  ],
+
+  "required": [
+    "Donkey Kong 64",
+    "Perfect Dark",
+    "The Legend of Zelda - Majora's Mask"
+  ],
+
+  "supported": [
+    "Banjo-Tooie",
+    "Castlevania",
+    "Castlevania - Legacy of Darkness",
+    "Command & Conquer",
+    "Daikatana",
+    "Excitebike 64",
+    "F-1 World Grand Prix II",
+    "Hybrid Heaven",
+    "Indiana Jones and the Infernal Machine",
+    "Indy Racing 2000",
+    "International Track & Field 2000",
+    "Jet Force Gemini",
+    "Quake II",
+    "Quake 64",
+    "Rayman 2 - The Great Escape",
+    "Resident Evil 2",
+    "Roadsters",
+    "Shadow Man",
+    "South Park",
+    "StarCraft 64",
+    "Star Wars Episode I - Battle for Naboo",
+    "Star Wars Episode I - Racer",
+    "Star Wars - Rogue Squadron",
+    "Stunt Racer 64",
+    "Tony Hawk's Pro Skater",
+    "Tony Hawk's Pro Skater 2",
+    "Tony Hawk's Pro Skater 3",
+    "Top Gear Hyper-Bike",
+    "Top Gear Rally 2",
+    "Turok 2 - Seeds of Evil",
+    "Turok 3 - Shadow of Oblivion",
+    "Vigilante 8 - 2nd Offense",
+    "WCW Backstage Assault",
+    "WCW Mayhem",
+    "WCW Nitro",
+    "WWF Attitude",
+    "WWF No Mercy",
+    "WWF Wrestlemania 2000"
+  ]
+}

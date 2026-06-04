@@ -27,6 +27,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -202,19 +203,35 @@ def title_for_lookup(title):
     return s
 
 
+def _strip_accents(s):
+    """Pokémon → Pokemon, Ōzumō → Ozumo. NFD decompose then drop combining marks."""
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
 def lookup_variants(title):
     """Generate progressively-relaxed needles for SPARQL CONTAINS matching.
-    No-Intro cart-DB uses ' - ' between title and subtitle; Wikidata uses
-    ': '. We also try a plain-space variant for cases where Wikidata drops
-    the separator entirely ('Star Wars Rogue Squadron')."""
+    The cart-DB uses ' - ' between title and subtitle; Wikidata uses ': '
+    (or drops the separator). Some carts also carry a numeric/branded prefix
+    ('007 - The World Is Not Enough') or a 'featuring NAME' suffix that
+    Wikidata's canonical title omits — both get split-and-tried."""
     base = title_for_lookup(title)
+    accent_free = _strip_accents(base)
+    variants = [
+        base,
+        accent_free,                                                   # Pokémon → Pokemon
+        base.replace(" - ", ": "),
+        base.replace(" - ", " "),
+        re.sub(r"\s*\bv\d+\b.*$", "", base).strip(),                   # drop '(v2)' tails
+        re.sub(r"\s*\bbeta\b.*$", "", base).strip(),                   # drop '(Beta)' tails
+        re.sub(r"\s+featuring\s.*$", "", base, flags=re.I).strip(),    # 'Major League ... featuring Ken Griffey Jr.' → drop the 'featuring …'
+    ]
+    if " - " in base:
+        head, _, tail = base.partition(" - ")
+        variants.append(tail.strip())                                  # subtitle alone (e.g. 'The World Is Not Enough' for '007 - …')
+        variants.append(head.strip())                                  # just the head (e.g. 'Toy Story 2')
     seen, out = set(), []
-    for variant in (base,
-                    base.replace(" - ", ": "),
-                    base.replace(" - ", " "),
-                    re.sub(r"\s*\bv\d+\b.*$", "", base).strip(),    # drop '(v2)' tails
-                    re.sub(r"\s*\bbeta\b.*$", "", base).strip()):    # drop '(Beta)' tails
-        v = variant.strip()
+    for v in variants:
+        v = v.strip()
         if v and v not in seen:
             seen.add(v)
             out.append(v)

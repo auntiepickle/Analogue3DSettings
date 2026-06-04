@@ -203,6 +203,31 @@
         "sheet_row": 182,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3280559",
+          "mobygames": "major-league-baseball-featuring-ken-griffey-jr",
+          "giantbomb": "3030-14051",
+          "igdb": "major-league-baseball-featuring-ken-griffey-jr",
+          "nintendo64ever": "187",
+          "n64database": "182"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Rockstar San Diego"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "0498e26e": {
@@ -760,8 +785,10 @@
         "release_date": "2000-12-18",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "17e4aeb2": {
@@ -929,8 +956,10 @@
         "release_date": "1999-07-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "1e98d321": {
@@ -1144,8 +1173,10 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "229dd6a9": {
@@ -1241,6 +1272,12 @@
         "sheet_row": 345,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "expansion_pak": "supported",
+        "enriched_from": [
+          "hand-curated-expansion-pak@2026-06-03"
+        ]
       }
     },
     "290e8150": {
@@ -1325,8 +1362,10 @@
         "release_date": "1998-01-21",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "2c00e5f4": {
@@ -1990,8 +2029,10 @@
         "release_date": "1997-12-09",
         "release_year": 1997,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "377e874d": {
@@ -2059,6 +2100,35 @@
         "sheet_row": 45,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2909712",
+          "giantbomb": "3030-33469",
+          "igdb": "bomberman-64--1",
+          "nintendo64ever": "42",
+          "n64database": "39"
+        },
+        "genres": [
+          "Action",
+          "Puzzle"
+        ],
+        "developers": [
+          "Racjin"
+        ],
+        "publishers": [
+          "Hudson Soft"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "Saga Bomberman",
+        "release_date": "2001-12-20",
+        "release_year": 2001,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "39a56f04": {
@@ -2358,8 +2428,10 @@
         "release_date": "1998-12-03",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "44fc8855": {
@@ -2449,8 +2521,10 @@
         "release_date": "1999-11-23",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "47f55a65": {
@@ -2464,6 +2538,28 @@
         "sheet_row": 194,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q6843142",
+          "mobygames": "midways-greatest-arcade-hits",
+          "igdb": "midways-greatest-arcade-hits",
+          "metacritic": "midways-greatest-arcade-hits"
+        },
+        "developers": [
+          "Q389261"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "release_date": "2000-06-27",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "48283c1b": {
@@ -2543,8 +2639,10 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "49326676": {
@@ -2672,8 +2770,10 @@
         "release_date": "1999-02-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "4f9832d9": {
@@ -2719,8 +2819,10 @@
         "release_date": "2000-11-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "4fb4dd5f": {
@@ -2761,8 +2863,10 @@
         "release_date": "2000-12-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "5218eb6c": {
@@ -2834,8 +2938,10 @@
         "release_date": "1999-10-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "54baf797": {
@@ -2879,8 +2985,10 @@
         "release_date": "1998-10-21",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "558333cf": {
@@ -3002,8 +3110,10 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "572a9139": {
@@ -3280,8 +3390,10 @@
         "release_date": "2000-11-17",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "5e210d99": {
@@ -3345,6 +3457,35 @@
         "sheet_row": 377,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q3354082",
+          "mobygames": "winback-covert-operations",
+          "giantbomb": "3030-15774",
+          "igdb": "winback-covert-operations",
+          "nintendo64ever": "254",
+          "n64database": "373",
+          "metacritic": "winback-covert-operations"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Koei Tecmo Holdings"
+        ],
+        "publishers": [
+          "Koei"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1999-09-23",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "6325fa4b": {
@@ -3384,8 +3525,10 @@
         "release_date": "2000-10-01",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "6352a50d": {
@@ -3738,6 +3881,12 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Increased FPS"
+      },
+      "metadata": {
+        "expansion_pak": "supported",
+        "enriched_from": [
+          "hand-curated-expansion-pak@2026-06-03"
+        ]
       }
     },
     "6a8078f5": {
@@ -3863,8 +4012,10 @@
         "release_date": "1999-01-01",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "6dae3abb": {
@@ -3917,6 +4068,35 @@
         "sheet_row": 214,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2389716",
+          "mobygames": "nba-courtside-2-featuring-kobe-bryant",
+          "giantbomb": "3030-18984",
+          "igdb": "nba-courtside-2-featuring-kobe-bryant",
+          "nintendo64ever": "220",
+          "n64database": "214"
+        },
+        "genres": [
+          "Sports"
+        ],
+        "developers": [
+          "Left Field Productions"
+        ],
+        "publishers": [
+          "Nintendo"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "series": "NBA Courtside",
+        "release_date": "1999-10-31",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "6e74e8e6": {
@@ -4176,8 +4356,10 @@
         "release_date": "1998-12-12",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "746e6e83": {
@@ -4235,6 +4417,36 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Noticeably better framerate"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2709135",
+          "mobygames": "disneypixars-toy-story-2-buzz-lightyear-to-the-rescue",
+          "howlongtobeat": "10588",
+          "giantbomb": "3030-7301",
+          "igdb": "toy-story-2-buzz-lightyear-to-the-rescue",
+          "nintendo64ever": "357",
+          "n64database": "345",
+          "retroachievements": "10118",
+          "metacritic": "disney-pixar-toy-story-2-buzz-lightyear-to-the"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Traveller's Tales"
+        ],
+        "publishers": [
+          "Activision"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "release_date": "1999-11-30",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "765d40ef": {
@@ -4307,6 +4519,33 @@
         "sheet_row": 21,
         "observed_firmware": "1.1.9",
         "observed_region": "?"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q2862835",
+          "mobygames": "army-men-air-attack",
+          "howlongtobeat": "612",
+          "giantbomb": "3030-13316",
+          "igdb": "army-men-air-combat",
+          "nintendo64ever": "18",
+          "n64database": "16",
+          "metacritic": "army-men-air-combat"
+        },
+        "developers": [
+          "The 3DO Company"
+        ],
+        "publishers": [
+          "The 3DO Company"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "1999-10-13",
+        "release_year": 1999,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "7809ed5d": {
@@ -4638,6 +4877,34 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1217501",
+          "mobygames": "007-the-world-is-not-enough",
+          "igdb": "james-bond-007-the-world-is-not-enough--1",
+          "nintendo64ever": "1",
+          "n64database": "378",
+          "metacritic": "007-the-world-is-not-enough"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Eurocom"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "2000-11-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "7fd2d858": {
@@ -4680,8 +4947,10 @@
         "release_date": "1999-03-09",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "829d3617": {
@@ -4724,8 +4993,10 @@
         "release_date": "1998-12-31",
         "release_year": 1998,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "8433d173": {
@@ -5029,8 +5300,10 @@
         "release_date": "1999-11-22",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "required"
       }
     },
     "89eefc64": {
@@ -5282,8 +5555,10 @@
         "release_date": "1999-10-11",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "8decd965": {
@@ -5488,8 +5763,10 @@
         "release_date": "1999-08-05",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "924b4b58": {
@@ -5855,8 +6132,10 @@
         "release_date": "2000-07-27",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "97a533c0": {
@@ -6108,8 +6387,10 @@
         "release_date": "2001-10-28",
         "release_year": 2001,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "9bfffb3f": {
@@ -6271,8 +6552,10 @@
         "release_date": "2000-09-20",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "a0c63bac": {
@@ -7652,8 +7935,10 @@
         "release_date": "2000-06-09",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "ba7f5a1a": {
@@ -7747,6 +8032,34 @@
         "sheet_row": 122,
         "observed_firmware": "1.1.9",
         "observed_region": "USA"
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1143139",
+          "mobygames": "gex-enter-the-gecko_",
+          "giantbomb": "3030-11371",
+          "igdb": "gex-enter-the-gecko",
+          "nintendo64ever": "125",
+          "n64database": "119"
+        },
+        "genres": [
+          "Platformer"
+        ],
+        "developers": [
+          "Crystal Dynamics"
+        ],
+        "publishers": [
+          "Midway Games"
+        ],
+        "tags": [
+          "single-player"
+        ],
+        "series": "Gex",
+        "release_date": "1998-01-31",
+        "release_year": 1998,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "bc576a02": {
@@ -7793,8 +8106,10 @@
         "release_date": "2000-05-22",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "required"
       }
     },
     "bcf9dab5": {
@@ -8296,8 +8611,10 @@
         "release_date": "1999-05-19",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "c538030c": {
@@ -8418,8 +8735,10 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "c8179ef6": {
@@ -8682,8 +9001,10 @@
         "release_date": "2000-04-30",
         "release_year": 2000,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "d1610042": {
@@ -9045,8 +9366,10 @@
         "release_date": "1999-08-31",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "d976e47c": {
@@ -9370,8 +9693,10 @@
           "single-player"
         ],
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "dff3047b": {
@@ -9515,6 +9840,34 @@
         "observed_firmware": "1.1.9",
         "observed_region": "?",
         "rationale": "Much smoother framerate. Played through every level on Agent and had no issues or glitches."
+      },
+      "metadata": {
+        "external_ids": {
+          "wikidata": "Q1217501",
+          "mobygames": "007-the-world-is-not-enough",
+          "igdb": "james-bond-007-the-world-is-not-enough--1",
+          "nintendo64ever": "1",
+          "n64database": "378",
+          "metacritic": "007-the-world-is-not-enough"
+        },
+        "genres": [
+          "Shooter"
+        ],
+        "developers": [
+          "Eurocom"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "tags": [
+          "multiplayer",
+          "single-player"
+        ],
+        "release_date": "2000-11-01",
+        "release_year": 2000,
+        "enriched_from": [
+          "wikidata@2026-06-03"
+        ]
       }
     },
     "e0ea96b2": {
@@ -9645,8 +9998,10 @@
         "release_date": "1999-11-30",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "e34100cb": {
@@ -9730,8 +10085,10 @@
         "release_date": "1999-10-29",
         "release_year": 1999,
         "enriched_from": [
-          "wikidata@2026-06-03"
-        ]
+          "wikidata@2026-06-03",
+          "hand-curated-expansion-pak@2026-06-03"
+        ],
+        "expansion_pak": "supported"
       }
     },
     "e5351549": {
