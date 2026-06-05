@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Analogue 3D Settings — audit</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="title">
+      <span class="mark">ANALOGUE 3D</span> SETTINGS · AUDIT
+    </div>
+    <div class="meta">
+      <span id="stats">loading…</span>
+      <a href="https://github.com/auntiepickle/Analogue3DSettings" target="_blank" rel="noopener">repo</a>
+      <a href="https://docs.google.com/spreadsheets/d/1SGo9l_NEzy0ESbWAgqOKAZSFJyXQhAAkZXZcSdZPeBA/edit?gid=1975911248" target="_blank" rel="noopener">source sheet</a>
+    </div>
+  </header>
+
+  <main>
+    <aside id="filters" aria-label="Filters">
+      <div class="filter-block">
+        <label class="filter-label">Search</label>
+        <input id="q" type="search" placeholder="title or cart ID" autocomplete="off">
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Sort by</label>
+        <select id="sort">
+          <option value="title">Title (A → Z)</option>
+          <option value="title_desc">Title (Z → A)</option>
+          <option value="year">Year (oldest first)</option>
+          <option value="year_desc">Year (newest first)</option>
+          <option value="cart_id">Cart ID</option>
+        </select>
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Overclock</label>
+        <div id="filter-overclock" class="filter-chips"></div>
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Genre</label>
+        <div id="filter-genre" class="filter-chips"></div>
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Tags</label>
+        <div id="filter-tag" class="filter-chips"></div>
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Expansion Pak</label>
+        <div id="filter-expansion_pak" class="filter-chips"></div>
+      </div>
+
+      <div class="filter-block">
+        <label class="filter-label">Source region</label>
+        <div id="filter-source_region" class="filter-chips"></div>
+      </div>
+
+      <div class="filter-block">
+        <button id="reset" type="button">Reset filters</button>
+      </div>
+
+      <p class="filter-note">All filters are AND across blocks, OR within a block. Click any chip to toggle.</p>
+    </aside>
+
+    <section id="results">
+      <table id="grid">
+        <thead>
+          <tr>
+            <th class="col-cartid">Cart ID</th>
+            <th class="col-title">Title</th>
+            <th>Overclock</th>
+            <th>Genres</th>
+            <th>Year</th>
+            <th>Devs</th>
+            <th class="col-rat">Rationale (from sheet)</th>
+            <th class="col-src">Source</th>
+          </tr>
+        </thead>
+        <tbody id="grid-body"></tbody>
+      </table>
+      <p id="empty" class="muted hidden">No carts match the current filters.</p>
+    </section>
+  </main>
+
+  <footer>
+    Field coverage and filter contract: <a href="https://github.com/auntiepickle/Analogue3DSettings/blob/main/docs/FILTERS.md" target="_blank" rel="noopener">docs/FILTERS.md</a>
+    · Cart-ID + SD format docs vendored from <a href="https://github.com/TheLeggett/A3D-Manager" target="_blank" rel="noopener">TheLeggett/A3D-Manager</a> (MIT)
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

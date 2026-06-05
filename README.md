@@ -62,6 +62,20 @@ Drop a new directory under `collections/`, add a `collection.json` + an
 initial `games.json`, and reference it in this README's table. Curators can
 maintain their own collections independently.
 
+## Audit / spot-check view
+
+A static site under [`site/`](site/) renders every cart in
+[`community-best`](collections/community-best/) as a filterable table — by
+genre, year, overclock recommendation, expansion-pak class, source region —
+with a per-row "row N" link that jumps straight to the source spreadsheet
+row so a community reviewer can verify what we imported against what was
+originally written.
+
+Once GitHub Pages is enabled (`main` branch, `/site` folder) the audit view
+lives at https://auntiepickle.github.io/Analogue3DSettings/ — open it, drop a
+filter (e.g. `Overclock = Unleashed`), and click any "row N" link to inspect
+the original sheet cell.
+
 ## License
 
 The code in `tools/` and the schema are MIT (see [LICENSE](LICENSE)).

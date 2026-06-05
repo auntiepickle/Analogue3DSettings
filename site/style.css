@@ -1,0 +1,124 @@
+/* Audit view — readable, scannable, no nonsense.
+   Visual register loosely follows the Analogue 3D Desktop instrument-panel
+   look (dark, mono labels, restrained accent) so a reviewer who knows the
+   app feels at home. */
+
+:root {
+  --bg:        #0d0d0f;
+  --panel:     #16161a;
+  --panel-2:   #1c1c22;
+  --border:    #2a2a31;
+  --gold:      #e8b923;
+  --gold-line: rgba(232, 185, 35, .35);
+  --dim:       #9d9da9;
+  --text:      #ececf0;
+  --green:     #3ddc84;
+  --red:       #ff5f56;
+  --amber:     #f0b340;
+  --mono:      ui-monospace, "Cascadia Code", "Consolas", "SF Mono", monospace;
+  --sans:      "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 14px; }
+a { color: var(--gold); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.muted { color: var(--dim); }
+.hidden { display: none !important; }
+.mono { font-family: var(--mono); }
+
+header {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 24px;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+}
+.title { font-family: var(--mono); letter-spacing: 0.18em; text-transform: uppercase; font-size: 13px; color: var(--dim); }
+.title .mark { color: var(--gold); font-weight: 700; }
+.meta { display: flex; gap: 18px; align-items: baseline; font-family: var(--mono); font-size: 12px; }
+.meta a { letter-spacing: 0.1em; text-transform: uppercase; font-size: 10px; }
+
+main {
+  display: grid; grid-template-columns: 260px 1fr;
+  gap: 24px;
+  padding: 20px 24px;
+}
+
+#filters { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.filter-block { display: flex; flex-direction: column; gap: 6px; }
+.filter-label {
+  font-family: var(--mono); font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 2px;
+}
+.filter-chips { display: flex; flex-wrap: wrap; gap: 4px; max-height: 220px; overflow: auto; padding: 2px; }
+.chip {
+  background: transparent; color: var(--dim); border: 1px solid var(--border);
+  border-radius: 2px; font: inherit; font-size: 12px; padding: 3px 7px;
+  cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+}
+.chip:hover { border-color: var(--gold-line); color: var(--text); }
+.chip.active { background: var(--gold); color: #1a1500; border-color: var(--gold); }
+.chip-n { font-family: var(--mono); font-size: 10px; opacity: .75; }
+.chip.active .chip-n { opacity: 1; }
+input[type=search], select {
+  background: var(--panel-2); color: var(--text); border: 1px solid var(--border);
+  border-radius: 2px; padding: 6px 8px; font: inherit; font-size: 13px;
+}
+input[type=search]:focus, select:focus { outline: none; border-color: var(--gold); }
+#reset {
+  background: transparent; color: var(--dim); border: 1px solid var(--border);
+  padding: 6px 10px; font: inherit; font-size: 12px;
+  font-family: var(--mono); letter-spacing: 0.1em; text-transform: uppercase; cursor: pointer;
+}
+#reset:hover { color: var(--text); border-color: var(--gold-line); }
+.filter-note { font-size: 11px; color: var(--dim); line-height: 1.5; margin-top: 4px; }
+
+#results { min-width: 0; overflow: auto; }
+#grid { width: 100%; border-collapse: collapse; font-size: 13px; }
+#grid th {
+  font-family: var(--mono); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase;
+  color: var(--gold); text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; background: var(--bg); z-index: 1;
+}
+#grid td { padding: 8px 10px; border-bottom: 1px solid #1d1d22; vertical-align: top; }
+#grid tr:hover td { background: var(--panel-2); }
+.col-cartid { width: 92px; }
+.col-title  { width: 280px; }
+.col-rat    { max-width: 360px; }
+.col-src    { width: 90px; }
+.cartid { color: var(--gold); }
+.title { font-weight: 500; }
+.title-sub { display: flex; gap: 8px; align-items: center; margin-top: 2px; font-size: 11px; color: var(--dim); }
+.tags { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; }
+.rat { color: var(--dim); }
+.src a { font-family: var(--mono); font-size: 11px; }
+
+/* Overclock + EP badges */
+.oc {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em;
+  padding: 2px 6px; border-radius: 2px; border: 1px solid var(--border);
+  display: inline-block; white-space: nowrap;
+}
+.oc-auto       { color: var(--dim); }
+.oc-enhanced   { color: var(--green); border-color: var(--green); }
+.oc-enhanced-  { color: var(--amber); border-color: var(--amber); } /* "Enhanced+" → slug 'enhanced-' due to trailing char */
+.oc-unleashed  { color: var(--red); border-color: var(--red); }
+.ep {
+  font-family: var(--mono); font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase;
+  padding: 1px 5px; border-radius: 2px;
+}
+.ep-required  { background: var(--red);    color: #1a0d0d; }
+.ep-supported { background: var(--amber);  color: #1a1500; }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 12px 24px;
+  font-size: 11px; color: var(--dim);
+}
+
+@media (max-width: 1000px) {
+  main { grid-template-columns: 1fr; }
+  #filters { order: 2; }
+  .filter-chips { max-height: 140px; }
+  .col-title { width: auto; }
+  .col-rat { display: none; }
+}
